@@ -5,16 +5,16 @@ Yewdar is home to many races of sentient beings. Some of them are native to the 
 There are a total of eight playable races in the Yewdar campaign setting:
 
 * [Humans](#human)
-  * Alsan
-  * Osan
-  * Irsan
+  * [Alsan](#alsan)
+  * [Osan](#osan)
+  * [Irsan](#irsan)
 * [Elves](#elf)
 * [Dwarves](#dwarf)
-* Gnomes
-* Halflings
-* Orcs
-* Drakon
-* Talosan
+* [Gnomes](#gnome)
+* [Halflings](#halfling)
+* [Orcs](#orc)
+* [Drakon](#drakon)
+* [Talosan](#talosan)
 
 There are other races, sentient and otherwise, but are reserved for use by Game Masters populating the setting; consult with your Game Master before selecting a race not detailed in this book.
 
@@ -269,6 +269,7 @@ If you choose to play a halfling, modify your character as follows:
 
 * Add +1 to your Dexterity ability.
 * Pick one of the following ability focuses:
+
   * Communication \(Bargaining\)
   * Dexterity \(Stealth\)
 
@@ -429,18 +430,22 @@ Choose a target within 10 yards. Make a successful Accuracy attack against that 
 | 10-11 | Focus: Perception \(Smelling\) |
 | 12 | +1 Strength |
 
+---
+
 ## Talosan
+
+![](/assets/ce82fca3559e554bc3ad55b04ea751de.jpg)
 
 The Talosan are are sentient machines created by arcanists seeking to make more arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated to various degrees into humanoid society. Some continue to serve as soldiers, others as tradesmen. Non-Talosan races tend to view them with a mix of curiosity and prejudice, particularly the poor of Laurentia who see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and dignity may be obtained without the pre-approval of fearful organic races.
 
-Talosan Names
+### Talosan Names
 
 **Female:** Jewel-19, Virtue-25, Mya-49, Kaja-914, Yasmin-33  
 **Male:** Bartoneus-723, Cason-2, Malik-68, Jerry-4, Kristoph-154
 
 Talosan have no surnames, unless they choose to take one.
 
-Playing a Talosan
+### Playing a Talosan
 
 If you choose to play a Talosan, modify your character as follows:
 
@@ -450,7 +455,7 @@ If you choose to play a Talosan, modify your character as follows:
 * You gain the racial Talent: Talos Forged
 * Roll twice on the Talosan Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
-Racial Talent: Talos Forged
+#### Racial Talent: Talos Forged
 
 Classes: Any  
 Races: Talosan
@@ -463,7 +468,7 @@ You are a living construct.
 
 **Master:** You may enhance your outer plating to act as armor. In exchange for an equivalent armor penalty, you may gain up to 3 points of Armor Rating. This plating stacks with normal armor, but does not contribute to armor strain when casting spells.
 
-Talosan Benefits
+### Talosan Benefits
 
 | 2d6 Roll | Benefit |
 | :--- | :--- |
