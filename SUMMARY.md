@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Welcome to Yewdar](README.md)
+* [Races](chapter1.md)
+* [Humans](humans.md)
+
