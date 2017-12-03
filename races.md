@@ -9,7 +9,7 @@ There are a total of eight playable races in the Yewdar campaign setting:
   * Osan
   * Irsan
 * [Elves](#elf)
-* Dwarves
+* [Dwarves](#dwarf)
 * Gnomes
 * Halflings
 * Orcs
@@ -17,6 +17,8 @@ There are a total of eight playable races in the Yewdar campaign setting:
 * Talosan
 
 There are other races, sentient and otherwise, but are reserved for use by Game Masters populating the setting; consult with your Game Master before selecting a race not detailed in this book.
+
+---
 
 ## Human
 
@@ -38,6 +40,8 @@ If you choose to play a human, modify your character as follows:
 
 ### Alsan
 
+![](/assets/Seelah.jpg)
+
 The Alsan peoples originally hail from the Aqor Imperium on the Chimak contintent far to the west of Osenia. They "discovered" Osenia in antiquity, though it was already populated by Osan clans. Being relatively advanced compared to the native Osan, they quickly established a vast colony on Osenia to exploit the continent's lush natural resources. This vassal state later came to be known as the Nevrodt Empire, which the Osan eventuallly overthrew when they founded modern-day Kulturia. In the 1,200 years since the fall of Nevrodt, the remaining Alsan humans have integrated thoroughly into Kulturian society. They are a dark brown skinned people with dark, straight hair, stout-framed with broad faces.
 
 #### Alsan Names
@@ -49,7 +53,7 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continten
 #### Alsan Benefits
 
 | 2d6 Roll | Benefit |
-| :--- | :--- |
+| :---: | :--- |
 | 2 | +1 Intelligence |
 | 3-4 | Focus: Constitution \(Stamina\) |
 | 5 | Focus: Perception \(Searching\) |
@@ -60,6 +64,8 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continten
 | 12 | +1 Strength |
 
 ### Osan
+
+![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
 
 The indigenous humans of the Osenia continent, the Osan peoples were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably, and by the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were heretofore the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, with women averaging 1.7 meters and heights of 2 meters not uncommon among males.
 
@@ -72,7 +78,7 @@ The indigenous humans of the Osenia continent, the Osan peoples were originally 
 #### Osan Benefits
 
 | 2d6 Roll | Benefit |
-| :--- | :--- |
+| :---: | :--- |
 | 2 | +1 Willpower |
 | 3-4 | Focus: Perception \(Tracking\) |
 | 5 | Focus: Strength \(Might\) |
@@ -83,6 +89,8 @@ The indigenous humans of the Osenia continent, the Osan peoples were originally 
 | 12 | +1 Constitution |
 
 ### Irsan
+
+![](/assets/1d543e5429b6fe1e33cb81ff61d91ca7.jpg)
 
 The Irsan originated not from Osenia itself but from the nearby island sub-continent of Cheland to the southwest. They have a long history as a pastoral people, and their rolling plains replete with farms are considered the “breadbasket of Osenia.” Their culture values etiquette, conversation, honesty and hard work. They are hard-headed and practical, hardy and strong without being quarrelsome or unduly boisterous, brave without being melancholy or prideful. The Irsan are light olive-brown skinned, with dark and curled hair, and of middling height.
 
@@ -95,7 +103,7 @@ The Irsan originated not from Osenia itself but from the nearby island sub-conti
 #### Irsan Benefits
 
 | 2d6 Roll | Benefit |
-| :--- | :--- |
+| :---: | :--- |
 | 2 | +1 Communication |
 | 3-4 | Focus: Constitution \(Stamina\) |
 | 5 | Focus: Willpower \(Courage\) |
@@ -105,7 +113,11 @@ The Irsan originated not from Osenia itself but from the nearby island sub-conti
 | 10-11 | Focus: Communication \(Etiquette\) |
 | 12 | +1 Willpower |
 
+---
+
 ## Elf
+
+![](/assets/mutteran_lg.png)
 
 The Elves originally hail from a coplanar realm known as The Verdance, or Primal Wilds \(Eladari’el in Elvish.\) It is a wild and untamed replica of Yewdar that is at once separate from and connected to it. In the dim mists of antiquity, a population of proto-elves fled to Yewdar to escape a devastating civil war in Eladari’el. As they spent more time away from their home realm, they lost much of their attunement to the innate natural magic of the world. Their culture turned to the arcane forces they found in their new home, and their incredible longevity allowed them to attain a mastery unmatched by the other races. Today’s elves live relatively short lives compared to their forebears, but it is not uncommon for an elf to see the turn of three centuries before they fade away.
 
@@ -133,7 +145,7 @@ If you choose to play an elf, modify your character as follows:
 ### Elf Benefits
 
 | 2d6 Roll | Benefit |
-| :--- | :--- |
+| :---: | :--- |
 | 2 | +1 Communication |
 | 3-4 | Focus: Constitution \(Swimming\) |
 | 5 | Focus: Perception \(Hearing\) |
@@ -145,7 +157,11 @@ If you choose to play an elf, modify your character as follows:
 
 \*If the class you choose provides Weapon Group: Light Blades already, and you roll a 6 on the Elf Benefits table, take the focus Accuracy \(Light Blades\) instead.
 
+---
+
 # Dwarf
+
+![](/assets/d2023b81cbc2cba52fb3fd7cc2385c0e.jpg)
 
 The dwarves are well-known throughout the world as skilled craftsmen and miners. Native to the continent of Osenia, they maintain a rigidly lawful caste-based society in their holds beneath the Grendian Mountains. The largest human cities are home to dwarven enclaves where they tend to keep to their own kind. They’re not xenophobic, per se, but they are slow to trust new acquaintances and can seem gruff and exclusionary to many of the other races. Dwarves have long memories to match their multi-century lifespans: a dwarf is forever loyal and kind to friends, and a stalwart foe to those who have betrayed or wronged them.
 
@@ -173,7 +189,7 @@ If you choose to play a dwarf, modify your character as follows:
 Dwarf Benefits
 
 | 2d6 Roll | Benefit |
-| :--- | :--- |
+| :---: | :--- |
 | 2 | +1 Willpower |
 | 3-4 | Focus: Intelligence \(Historical Lore\) |
 | 5 | Focus: Constitution \(Stamina\) |
@@ -184,4 +200,281 @@ Dwarf Benefits
 | 12 | +1 Strength |
 
 \*If the class you choose provides Weapon Group: Axes, and you roll a 6 on the Dwarf Benefits table, take the focus Fighting \(Axes\) instead.
+
+---
+
+## Gnome
+
+![](/assets/b94555f9bb2d5c682a29339e36d20d5c.jpg)
+
+Like the elves, the gnomes of Yewdar are not native to this world but originated in The Verdance. Short in stature and lithe in frame, they inhabited the underground realms of the Primal Wilds. They tended fungal orchards and herds of dire mole in their cavernous villages, and lived lives of curiosity and relative peace… Until the formians came. The insectoids tore through the Underwilds like a storm of chitin and mandibles, snuffing out gnome settlements like so many candles. In desperation, a group of isolated refugees turned to their sorcerers, who devised a ritual to bring them to Yewdar and escape extinction. Formerly gregarious explorers and tinkerers, the gnomes on Yewdar are a stoic and grim. Sometimes, when they are absorbed in a task they enjoy, flickers of their original nature show through. The gnomes are torn between a desire to get to know their new world and neighbors better, and disdain for the relatively carefree lives the other races live. They see peace as a time to prepare for the worst, and the other races as naive and complacent.
+
+Gnomes are small, ranging from 0.8 to 0.9 meters tall. Notably, Gnomes have black eyes with no irises or discernible pupils.
+
+### Gnome Names
+
+**Female:** Libela, Ura, Sedea, Piti, Nerys  
+**Male:** Jalb, Zohan, Edon, Antem, Lew  
+**Surname:** Hetu, Orba, Inyo, Amil, Dratu
+
+#### Gnomish Etiquette
+
+Gnomes use their family names _before_ their given names. Lew of the Terul family is addressed as _Terul Lew_. Calling a gnome by their given name is a sign of close familiarity, and doing so without permission is considered disrespectful.
+
+### Playing a Gnome
+
+If you choose to play a gnome, modify your character as follows:
+
+* Add +1 to your Dexterity ability
+* Pick one of the following ability focuses:
+  * Constitution \(Stamina\)
+  * Dexterity \(Legerdemain\)
+* You have Dark Sign, which allows you to see up to 20 yards in darkness without a light source.
+* Your Speed is equal to 8 + Dexterity, minus your armor penalty.
+* You can speak and read Gnomish and the Common Tongue.
+* Roll twice on the Gnome Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Gnome Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Constitution |
+| 3-4 | Focus: Dexterity \(Traps\) |
+| 5 | Focus: Intelligence \(Evaluation\) |
+| 6 | Focus: Perception \(Hearing\) |
+| 7-8 | +1 Willpower |
+| 9 | Focus: Intelligence \(Arcane Lore\) |
+| 10-11 | Focus: Communication \(Bargaining\) |
+| 12 | +1 Intelligence |
+
+---
+
+## Halfling
+
+![](/assets/df9c6e4b1744c2cfd1f1a3e27b5168d1.jpg)
+
+The halflings were a nomadic people in antiquity, and because of limited historical records their origins are unknown. Osenian halflings hail from the Reisian Principalities, a loose confederation of island nations. Most halflings are pastoral, tending to crops and small livestock, or running businesses that trade such things. About one in twenty halflings are affected \(or some might say afflicted\) by a powerful wanderlust that almost universally leads them into harm’s way. In these situations, the halfling knack for cunning, guile, and ingenuity often lets them see the next dawn… and with a story almost too outrageous to believe.
+
+Halflings appear much like miniature humans. They are quite diminutive, ranging from 0.9 to 1.3 meters tall.
+
+### Halfling Names
+
+**Female:** Bernice, Nikola, Doria, Rhoda, Lydia  
+**Male:** Thadeus, Adrien, Khristos, Hector, Aeolus  
+**Surnames:** Rokos, Sacca, Kostas, Siskos, Pippinpadilopsikopolous. Yes, really.
+
+### Playing a Halfling
+
+If you choose to play a halfling, modify your character as follows:
+
+* Add +1 to your Dexterity ability.
+* Pick one of the following ability focuses:
+  * Communication \(Bargaining\)
+  * Dexterity \(Stealth\)
+
+* Your Speed is equal to 8 + Dexterity, minus your armor penalty.
+
+* You can speak and read Hinwise \(the halfling language\) and the Common Tongue.
+
+* Roll twice on the Halfling Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Halfling Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Perception |
+| 3-4 | Focus: Communication \(Persuasion\) |
+| 5 | Focus: Dexterity \(Initiative\) |
+| 6 | Focus: Willpower \(Courage\) |
+| 7-8 | +1 Communication |
+| 9 | Focus: Perception \(Hearing\) |
+| 10-11 | Focus: Strength \(Climbing\) |
+| 12 | +1 Accuracy |
+
+---
+
+## Orc
+
+![](/assets/90e6b9371c16d892f168ff7c4717ba1a.jpg)
+
+A primal, bestial people with a clan-based civilization, the orcs are native to the jungles of Hol Khozet in southern Osenia. They are a culture of warriors; when they are not mounting raids into nearby villages and towns, they are taking part in bitter clan wars. The thirteen orc clans have been an in ever-shifting state of internecine war for centuries.
+
+Many orcs live out their whole lives in Hol Khozet, but some leave their homeland in search of adventure, glory, or simply a reprieve from the way of the warrior. They can be found in many cities serving as bodyguards, mercenaries, mystics for hire, or independent adventurers.
+
+Orcs are a large people, broad of range and tall in stature. They range from 1.5 to over 2 meters tall. They have pointed, bat-like ears, flat noses, broad mouths, and an underbite that exposes their tusk-like incisors. Skin tones vary, with green being most common. Other colorations include brown, yellowish-tan, and in very rare cases, red.
+
+### Orc Names
+
+**Female:** Borba, Deze, Jefka, Res, Chaxa  
+**Male:** Jorkey, Groc, Bolg, Taga, Vosk  
+**Sept Names:** Sternlash, Grimward, Bouldersplitter, Cragmaul, Strongrunner
+
+#### The Orcish Clans
+
+There are thirteen clans of orcish civilization. The clans themselves are made up of numerous extended families that have pledged loyalty to a single chieftain. The families that comprise a clan are known as septs, and there can be dozens of septs in a clan, each with hundreds of warriors, shaman and children.
+
+Every orc hails from a clan and sept, but most go informally by their given name and their sept/family name, e.g. Borba of the Cragmaul sept of the Shatterspear clan goes by Borba Cragmaul to non-orcs and in all but formal ceremonies among her people.
+
+The orc clans are:
+
+* Rockfang
+* Ironcrusher
+* Wolftooth
+* Shatterspear
+* Nightblood
+* Boneaxe
+* Deathrot
+* Dreadfury
+* Pitshade
+* Redhand
+* Ghostscream
+* Rainstalker
+* Bladebreaker
+
+### Playing an Orc
+
+If you choose to play an orc, modify your character as follows:
+
+* Add +1 to your Strength ability
+* Pick one of the following ability focues:
+  * Constitution \(Stamina\)
+  * Strength \(Might\)
+* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read Orcish and the Common Tongue.
+* Roll twice on the Orc Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Orc Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Constitution |
+| 3-4 | Focus: Perception \(Smelling\) |
+| 5 | Focus: Dexterity \(Stealth\) |
+| 6 | Focus: Strength \(Intimidation\) |
+| 7-8 | +1 Fighting |
+| 9 | Weapon Group: Bludgeons\* |
+| 10-11 | Focus: Accuracy \(Brawling\) |
+| 12 | +1 Willpower |
+
+\*If the class you choose provides Weapon Group: Bludgeons and you rol a 6 on the Orc Benefits table, take the focus Fighting \(Bludgeons\) instead.
+
+---
+
+## Drakon
+
+![](/assets/Character_2da80f_5793915.jpg)
+
+Draconic humanoids, the drakon are a long-lived product of arcane-engineered life. They were created by the dragons of old as shock troopers for the ancient Cthene Empire. After the Day of Broken Scales, when dragons disappeared from the world, the drakon were left leaderless and lost. Now few in number, they live on the fringes of humanoid society. They take odd jobs or wander nomadically in small bands, trying to eke out a living in a world that disdains them. More than a few drakon have settled in the Cthene Wastes, the ruined remnants of their original home. There they search out clues of their progenitors' mysterious disappearance.
+
+### Drakon Names
+
+**Female:** Malrim, Thergrod, Zengil, Suvyre, Lorazys  
+**Male:** Aligac, Patrim, Lumigran, Frogar, Jarghull
+
+Drakon have no surnames
+
+### Playing a Drakon
+
+If you choose to play a drakon, modify your character as follows:
+
+* Add +1 to your Constitution ability.
+* You gain the racial talent Draconic Breath \(Novice\). You may spend Talent \(or Magic Talent\) points as you level to increase  degrees in this Talent.
+* Pick one of the following ability focuses:
+  * Willpower \(Self-Discipline\)
+  * Strength \(Intimidation\)
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read Draconic and the Common Tongue.
+* Roll twice on the Drakon Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+#### Racial Talent: Draconic Breath
+
+Classes: Any  
+Races: Drakon
+
+You wield a breath weapon like your dragon ancestors.
+
+**Novice: **You gain the following attack:  
+Choose a target within 10 yards. Make a successful Accuracy attack against that target to deal 1d6+2 penetrating damage to them. You may use this attack a number of times per day equal to your Constitution. The nature of your breath weapon is based on the draconic bloodline that is most dominant in your heritage.
+
+**Journeyman:** Your draconic breath now deals 2d6+2 penetrating damage.
+
+**Master:** Your draconic breath attack widens to an area of effect 10 yards long and three yards wide. Anyone caught in the blast takes 2d6+2 penetrating damage. Targets that succeed on an opposed Dexterity \(Acrobatics\) test against your attack roll ignore all the damage.
+
+##### Draconic Breath Types
+
+| Dragon Type | Damage Type |
+| :--- | :--- |
+| Black | Acid |
+| Blue | Lightning |
+| Green | Poison |
+| Red | Fire |
+| White | Ice |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Silver | Iced |
+
+### Drakon Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Intelligence |
+| 3-4 | Focus: Constitution \(Stamina\) |
+| 5 | Focus: Intelligence \(Natural Lore\) |
+| 6 | Focus: Strength \(Might\) |
+| 7-8 | +1 Willpower |
+| 9 | Focus: Intelligence \(Historical Lore\) |
+| 10-11 | Focus: Perception \(Smelling\) |
+| 12 | +1 Strength |
+
+## Talosan
+
+The Talosan are are sentient machines created by arcanists seeking to make more arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated to various degrees into humanoid society. Some continue to serve as soldiers, others as tradesmen. Non-Talosan races tend to view them with a mix of curiosity and prejudice, particularly the poor of Laurentia who see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and dignity may be obtained without the pre-approval of fearful organic races.
+
+Talosan Names
+
+**Female:** Jewel-19, Virtue-25, Mya-49, Kaja-914, Yasmin-33  
+**Male:** Bartoneus-723, Cason-2, Malik-68, Jerry-4, Kristoph-154
+
+Talosan have no surnames, unless they choose to take one.
+
+Playing a Talosan
+
+If you choose to play a Talosan, modify your character as follows:
+
+* Add +1 to your Strength ability
+* You gain the Ability Focus: Constitution \(Stamina\)
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You gain the racial Talent: Talos Forged
+* Roll twice on the Talosan Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+Racial Talent: Talos Forged
+
+Classes: Any  
+Races: Talosan
+
+You are a living construct.
+
+**Novice:** You do not need to eat, drink or breathe. You never succumb to the effects of starvation, thirst, suffocation, poison or disease. All other conditions affect you normally. You do not need sleep; instead you enter a state of inactivity for 4 hours to gain the effects of a night's rest. While in this state, you are fully aware of your surroundings and notice approaching enemies and other events as normal. When reduced to zero hit points, instead of dying as per _Fantasy AGE Basic Rulebook_, pp. 35, you remain able to take one Minor Action per round. If you take further damage equal to your Constitution, you cease to function.
+
+**Journeyman:** You have the Forged Resurgence power. You may spend a Minor Action to recover 1d6 + Constitution hit points. You may use this power a number of times per day equal to your Constitution.
+
+**Master:** You may enhance your outer plating to act as armor. In exchange for an equivalent armor penalty, you may gain up to 3 points of Armor Rating. This plating stacks with normal armor, but does not contribute to armor strain when casting spells.
+
+Talosan Benefits
+
+| 2d6 Roll | Benefit |
+| :--- | :--- |
+| 2 | +1 Willpower |
+| 3-4 | Weapon Group: Blaster Pistols\* |
+| 5 | Focus: Constitution \(Running\) |
+| 6 | Focus: Intelligence \(Military Lore\) |
+| 7-8 | +1 Constitution |
+| 9 | Weapon Group: Heavy Blades\* |
+| 10-11 | Focus: Strength \(Intimidation\) |
+| 12 | +1 Perception |
+
+\*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the focus Accuracy \(Blaster Pistols\) instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the focus Fighting \(Heavy Blades\) instead.
 
