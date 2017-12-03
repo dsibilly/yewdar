@@ -18,19 +18,19 @@ The world of Yewdar is highly magical, so much so that magic has filled the civi
 
 Much of this progress is drive by an enigmatic mineral known as arcanathyst. Subjected to magic, is has diverse and useful effects that can be shared with any material it is bonded with. It has become the wondroud catalyst of civilization... but while some cities and nations are rich in arcanathyst, others are not, and the boon of progress is not shared equally.
 
-**Tone and Attitude**
+## **Tone and Attitude**
 
 This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments are not used at all. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious silver Drakon or an altruistic vampire.
 
-**A World of High Magic**
+## **A World of High Magic**
 
 The setting presupposes a world that developed not through scientific advancement but by the mastery of arcane magic. This allows for conveniences and breakthroughs unimaginable in an otherwise medieval setting. The rare mineral _arcanathyst_ makes airships and rail travel possible. A working class of minor mages uses spells to provide energy and other necessities to towns and cities. Advances in magical item creation enables wonders from self-propelled farming equipment to sentient, free-willed constructs.
 
-**A World of Adventure**
+## **A World of Adventure**
 
 From the steaming jungles of Hol Khozet to the towering spires of Apex City, to the blasted badlands of the Cthene Wastes, Yewdar is a world of action and adventure. Adventures can and _should_ draw heroes from on exotic locale to another across nations, continents, and the entire world. Via magical transportation, heroes can reach a wider range of environments over the course of an adventure, bringing them into contact with a wide variety of monsters and challenges.
 
-**New Races:** Yewdar's unique setting takes the core player races in the _Fantasy AGE Basic Rulebook_ and changes the assumptions of culture, race and ethnicity to provide all-new options for players to choose from. Additionally, it adds new races such as the Drakon and Talosan. Drakon are magically-created draconic humanoids, created by the long-lost dragons. They possess great strength and resilience, but not the longevity of their progenitors. Talosan are sentient constructs, built by contemporary arcanists as weapons of war and disposable labor. They developed free well and now seek to improve their position in the world.
+## **New Races**
 
-
+Yewdar's unique setting takes the core player races in the _Fantasy AGE Basic Rulebook_ and changes the assumptions of culture, race and ethnicity to provide all-new options for players to choose from. Additionally, it adds new races such as the Drakon and Talosan. Drakon are magically-created draconic humanoids, created by the long-lost dragons. They possess great strength and resilience, but not the longevity of their progenitors. Talosan are sentient constructs, built by contemporary arcanists as weapons of war and disposable labor. They developed free well and now seek to improve their position in the world.
 
