@@ -1,6 +1,6 @@
 # Backgrounds
 
-Your character has a story that predates their involvement in the adventures to come. Whether you came to your calling willingly or not, you did not appear out of thin air... unless_ _you _did_, and that in itself is a story! Character backgrounds represent your character did or trained to do before starting the adventurer's life. While the backgrounds in Chapter 1 of the _Fantasy AGE Basic Rulebook_ are admirably broad, the backgrounds included here allow you to tailor your character more to the races, cultures, and circumstances of Yewdar.
+Your character has a story that predates their involvement in the adventures to come. Whether you came to your calling willingly or not, you did not appear out of thin air... unless_ \_you \_did_, and that in itself is a story! Character backgrounds represent your character did or trained to do before starting the adventurer's life. While the backgrounds in Chapter 1 of the _Fantasy AGE Basic Rulebook_ are admirably broad, the backgrounds included here allow you to tailor your character more to the races, cultures, and circumstances of Yewdar.
 
 ## Regional Backgrounds
 
@@ -132,43 +132,47 @@ Via bad decisions or bad fortune, you've wound up outcast with no legitimate pla
 
 ### Exile
 
-Maybe you did it. Maybe your family did. Regardless, _someone_ did _something_ 
+Maybe you did it. Maybe your family did. Regardless, _someone_ did _something_ that led to your exile. Maybe you made the wrong friends, or chose the wrong side in a conflict, or broke a taboo. Whatever it was, you've lived in the wilds for a while, and you know how to take care of yourself.
 
-Explorer
+### Explorer
 
-Fist Leader
 
-Functionary
 
-Grunt
+### Fist Leader
 
-Guilder
+### Functionary
 
-Hermit
+### Grunt
 
-Innkeeper
+### Guilder
 
-Laborer
+### Hermit
 
-Merchant
+### Innkeeper
 
-Mystic
+### Laborer
 
-Nomad
+### Merchant
 
-Performer
+### Mystic
 
-Sailor
+### Nomad
 
-Scholar
+### Performer
 
-Scribe
+### Sailor
 
-Skysailor
+### Scholar
 
-Soldier
+### Scribe
 
-Tradesperson
+### Skysailor
 
-Wise One
+### Soldier
+
+### Tradesperson
+
+### Wise One
+
+
 
