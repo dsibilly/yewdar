@@ -136,8 +136,6 @@ Maybe you did it. Maybe your family did. Regardless, _someone_ did _something_ t
 
 ### Explorer
 
-
-
 ### Fist Leader
 
 ### Functionary
