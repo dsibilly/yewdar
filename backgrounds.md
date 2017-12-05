@@ -77,7 +77,7 @@ The expansive southern jungles of Osenia, Hol Khozet extends for hundreds of mil
 | 3 | Mystic | Intelligence \(Arcane Lore\) or Willpower \(Self-Discipline\) |
 | 4 | Fist Leader | Communication \(Leadership\) or Strength \(Intimidation\) |
 | 5 | Soldier | Accuracy \(Brawling\) or Communication \(Gambling\) |
-| 6 | Chieftan/Matriarch | Communication \(Persuasion\) or Communication \(Leadership\) |
+| 6 | Chieftan | Communication \(Persuasion\) or Communication \(Leadership\) |
 
 ### Cheland
 
@@ -110,6 +110,35 @@ TBD: Reisian Principalities Background Table
 
 You are invited to freely interpret your background to suit your character's history and experiences. Even two soldiers in the same army arrived to their service in the same way, and the details of their lives, fears, desires and aspirations are different. Take your character background as a way to help build the foundation of your character's past, not a limitation on their future.
 
+* [Arcanist](#arcanist)
+* [Aristocrat](#aristocrat)
+* [Artist](#artist)
+* [Criminal](#criminal)
+* [Exile](#exile)
+* [Explorer](/Explorer)
+* Fist Leader
+* Functionary
+* Grunt
+* Guilder
+* Hermit
+* Laborer
+* Merchant
+* Mystic
+* Nomad
+* Performer
+* Sailor
+* Scholar
+* Scribe
+* Skysailor
+* Soldier
+* Tradesperson
+* Warcaller
+* Wise One
+
+Crimin
+
+
+
 ### Arcanist
 
 You have studied and trained in the science of magic, honing your skills to create new arcane items, empower magical conveniences, and repair them when they fail. The so-called "pure" mages may look down at you, but where they lose themselves in their explorations of personal power, you should take pride in your service, without which modern society would break down.
@@ -121,10 +150,6 @@ You were born to a noble family, and you take your family/clan ties very serious
 ### Artist
 
 As the precocious child chases an enchanting butterfly, so do you seek ever after beauty. It may take a specific shape or many, but whether a poem, song, sculpture or painting, bringing beauty into the world drives you ever on. You may have apprenticed with another artist, in a studio with other aspiring creatives, or maybe you simply have exceptional natural talent. Regardless, you likely specialize in a particular style of art, and you must determine how to make your living from it.
-
-### Chieftan/Matriarch
-
-By birth, selection or rite of challenge, you lead \(or once led\) a sept of orc clanfolk. Many fists of warriors answer your call, and you are yourself a fierce combatant. While the sept serves you, you also serve the sept, and when a threat arises you may be called upon to leave your people and deal with it.
 
 ### Criminal
 
@@ -140,41 +165,77 @@ You are filled with wanderlust, a drive to go see what is over the next hill. Wh
 
 ### Fist Leader
 
-You lead a fist of orcs, a band of warriors and mystics that carry the honor of your sept and clan. Your strength, whether by spell or spear, inspires your followers.
+You lead a fist of orcs, a small band of warriors and mystics that carry the honor of your sept and clan. Your strength, whether by spell or spear, inspires your followers. Whether scouting, hunting, or marching to war, you are the backbone of orcish might and all glory begins at the tip of your spear.
 
 ### Functionary
 
+The intricately formal society of the dwarves requires intermediaries like you who keep the cogs of their kingdoms turning. You take the orders of your superiors, be they guilders, nobles, or merchant princes, and make sure their wishes are carried out while adhering to the dwarven law and tradition. 
+
 ### Grunt
+
+You are an orcish laborer, one of the builders, choppers, or artisans who make your sept's holdings livable in the hostile jungle. You are strong from a life of carrying supplies and resources. Where the clan warriors are fierce, you are durable. You are the last line of defense for your people, and your broad shoulders carry the weight of all others.
 
 ### Guilder
 
+You work for one of the powerful mercantile or craft guilds that control trade in the larger cities. You may know a trade, or you may just know how to manipulate money and people to get what you want. Your talents and connections ensure you and your family do quite well, which is how you hope to keep it.
+
 ### Hermit
 
-### Innkeeper
+You left civilization for some reason to become a hermit. Perhaps you took a holy vow, perhaps you needed time alone to ponder an important question or remove yourself from a difficult situation, or perhaps you just don’t care for people and are happy to be on your own. Time on your own has hardened you and made you self-reliant.
 
 ### Laborer
 
+You carry, lift, tote, throw, handle, move, or otherwise deal with loads of material that have to be moved off of or onto ships orwagons, or into buildings. The work isn’t difficult, but it is hard and you have the stamina and strength to show for it.
+
 ### Merchant
+
+You have a way with people and you use that in your business dealings to become successful. You use your charisma to get the best deals or to convince others they’re getting the best deal, but all in service to your success. You may have a small merchant stand selling odds and ends in a bazaar or operate a thriving shop that specializes in carpets, foreign imports, or other valuables. Instead of a store, perhaps you travel from one place to another, buying unusual items in one place and transporting them to sell in another. Regardless of the type of merchant you are, you know how to come out ahead in any deal.
 
 ### Mystic
 
+You have been initiated into the hidden mysteries, and know rituals to curry favor with the gods or spirits. In you is preserved the ancient knowledge, passed down in an unbroken line from the mystics of old to those they deemed worthy to carry on the sacred traditions. Some may respect you, while others may find your practices odd or objectionable... but through such practice you have touched true wisdom.
+
 ### Nomad
+
+The open road has always called to you and you have answered. Instead of calling a single location home, you regard the entire world as yours. You love to wander, and new places, and meet new people. You rarely get lost, but even when you do, it usually turns out to be an adventure worth experiencing.
 
 ### Performer
 
+You are a dancer, actor, musician, singer, or some other sort of performer. You enjoy getting in front of a room of people and affecting them in some way with your performance. You especially like it when they show their appreciation in other ways, such as with money or affection.
+
 ### Sailor
+
+You know your way around a ship better than most. You’ve trained and lived at sea for long stretches of time, either in a navy or on a trading ship—maybe both at different times. You may call some port home, but most of your time is spent at sea, so you’ve traveled to many different parts of the world and seen things few can dream of.
 
 ### Scholar
 
+When lords, generals, and politicians have questions, they come to you. You’ve studied extensively and if you don’t know an answer to a question, you can likely find someone else or a book that does. Others may change the course of history, but you’re the one who tells them how to do it.
+
 ### Scribe
+
+Books, scrolls, and portfolios are what you ll your time with.The greatest libraries, universities, and scholars of your time require your services to do what they do and they pay well for your services. Knowledge that no one ever sees isn’t knowledge — it’s a secret. When you get your hands on secrets, you commit them to books, then preserve and spread that knowledge across the world and through time. You may revel in the importance of your profession or despise it as an isolating, backbreaking task.
 
 ### Skysailor
 
+See [Sailor](#sailor)
+
 ### Soldier
+
+Fantasy AGE Basic Rulebook
+
+You are a soldier, possibly even a guard or mercenary, who has signed up to fight for your country. You’ve trained for combat, but also had an education in how to live and work as part of a unit as well as how to take and execute an order. A soldier who doesn’t follow orders is useless. Perhaps your time as a soldier is over and you’re on your own again, or maybe you deserted for some reason.
 
 ### Tradesperson
 
+Resting somewhere between the laborer and guilder, the tradesperson specializes in some kind of skilled manual labor, such as masonry, carpentry, clockmaking, blacksmithing, or any of dozens of other trades. You’ve been trained in a trade and know how to talk about its practical and theoretical applications, which allows you to accurately plan and execute jobs.
+
+### Warcaller
+
+By birth, selection or rite of challenge, you lead \(or once led\) a sept of orc clanfolk. Many fists of warriors answer your call, and you are yourself a fierce combatant. While the sept serves you, you also serve the sept, and when a threat arises you may be called upon to leave your people and deal with it personally.
+
 ### Wise One
+
+See [Mystic](#mystic)
 
 
 
