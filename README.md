@@ -1,5 +1,3 @@
-#
-
 # Yewdar Player's Guide
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
@@ -39,3 +37,4 @@ From the steaming jungles of Hol Khozet to the towering spires of Apex City, to 
 ## **New Races**
 
 Yewdar's unique setting takes the core player races in the _Fantasy AGE Basic Rulebook_ and changes the assumptions of culture, race and ethnicity to provide [all-new options for players to choose from](/races.md). Additionally, it adds new races such as the Drakon and Talosan. Drakon are magically-created draconic humanoids, created by the long-lost dragons. They possess great strength and resilience, but not the longevity of their progenitors. Talosan are sentient constructs, built by contemporary arcanists as weapons of war and disposable labor. They developed free well and now seek to improve their position in the world.
+
