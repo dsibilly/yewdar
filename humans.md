@@ -2,7 +2,7 @@
 
 Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived, with lifetimes over a century being exceedingly rare. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older races see them as short-sighted and impulsive, but there is no denying the success that their drive has earned. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
 
-Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and \_Irsan \_peoples.
+Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
 
 ## Playing a Human
 
@@ -84,8 +84,3 @@ The Irsan originated not from Osenia itself but from the nearby island sub-conti
 | 9 | Focus: Perception \(Empathy\) |
 | 10-11 | Focus: Communication \(Etiquette\) |
 | 12 | +1 Willpower |
-
-
-
-
-

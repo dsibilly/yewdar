@@ -1,6 +1,6 @@
 # Backgrounds
 
-Your character has a story that predates their involvement in the adventures to come. Whether you came to your calling willingly or not, you did not appear out of thin air... unless_ \_you \_did_, and that in itself is a story! Character backgrounds represent your character did or trained to do before starting the adventurer's life. While the backgrounds in Chapter 1 of the _Fantasy AGE Basic Rulebook_ are admirably broad, the backgrounds included here allow you to tailor your character more to the races, cultures, and circumstances of Yewdar.
+Your character has a story that predates their involvement in the adventures to come. Whether you came to your calling willingly or not, you did not appear out of thin air... unless _you did_, and that in itself is a story! Character backgrounds represent your character did or trained to do before starting the adventurer's life. While the backgrounds in Chapter 1 of the _Fantasy AGE Basic Rulebook_ are admirably broad, the backgrounds included here allow you to tailor your character more to the races, cultures, and circumstances of Yewdar.
 
 ## Regional Backgrounds
 
@@ -169,7 +169,7 @@ You lead a fist of orcs, a small band of warriors and mystics that carry the hon
 
 ### Functionary
 
-The intricately formal society of the dwarves requires intermediaries like you who keep the cogs of their kingdoms turning. You take the orders of your superiors, be they guilders, nobles, or merchant princes, and make sure their wishes are carried out while adhering to the dwarven law and tradition. 
+The intricately formal society of the dwarves requires intermediaries like you who keep the cogs of their kingdoms turning. You take the orders of your superiors, be they guilders, nobles, or merchant princes, and make sure their wishes are carried out while adhering to the dwarven law and tradition.
 
 ### Grunt
 
@@ -236,6 +236,3 @@ By birth, selection or rite of challenge, you lead \(or once led\) a sept of orc
 ### Wise One
 
 See [Mystic](#mystic)
-
-
-

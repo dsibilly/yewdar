@@ -24,7 +24,7 @@ There are other races, sentient and otherwise, but are reserved for use by Game 
 
 Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived, with lifetimes over a century being exceedingly rare. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older races see them as short-sighted and impulsive, but there is no denying the success that their drive has earned. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
 
-Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and \_Irsan \_peoples.
+Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
 
 ### Playing a Human
 
@@ -46,8 +46,8 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continten
 
 #### Alsan Names
 
-**Female: **Meral, Niha, Yasmin, Hasret, Eren  
-**Male: **Taylan, Ergan, Ateç, Fardin, Rami  
+**Female:** Meral, Niha, Yasmin, Hasret, Eren  
+**Male:** Taylan, Ergan, Ateç, Fardin, Rami  
 **Surnames:** Toprak, Korun, Acar, Yener, Caglar
 
 #### Alsan Benefits
@@ -139,7 +139,7 @@ If you choose to play an elf, modify your character as follows:
 ### Elf Names
 
 **Female:** Lemne, Verlo, Tarla, Pasiara, Miri  
-**Male: **Kigoon, Naur, Melys, Edul, Nahin  
+**Male:** Kigoon, Naur, Melys, Edul, Nahin  
 **Surnames:** Cometdrift, Skybrook, Morningshade, Stormflower, Duskheart
 
 ### Elf Benefits
@@ -482,4 +482,3 @@ You are a living construct.
 | 12 | +1 Perception |
 
 \*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the focus Accuracy \(Blaster Pistols\) instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the focus Fighting \(Heavy Blades\) instead.
-
