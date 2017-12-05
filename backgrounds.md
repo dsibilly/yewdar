@@ -136,7 +136,11 @@ Maybe you did it. Maybe your family did. Regardless, _someone_ did _something_ t
 
 ### Explorer
 
+You are filled with wanderlust, a drive to go see what is over the next hill. Whether by sea, land, or air, you are thrilled by the journeying to new lands and finding forgotten places. Some explorers voyage for profit, some for the sheer joy of discovery. Your travels can lead to new trade routes, the preservation of history, or great wealth; you only need but set out!
+
 ### Fist Leader
+
+You lead a fist of orcs, a band of warriors and mystics that carry the honor of your sept and clan. Your strength, whether by spell or spear, inspires your followers. 
 
 ### Functionary
 
