@@ -140,7 +140,7 @@ You are filled with wanderlust, a drive to go see what is over the next hill. Wh
 
 ### Fist Leader
 
-You lead a fist of orcs, a band of warriors and mystics that carry the honor of your sept and clan. Your strength, whether by spell or spear, inspires your followers. 
+You lead a fist of orcs, a band of warriors and mystics that carry the honor of your sept and clan. Your strength, whether by spell or spear, inspires your followers.
 
 ### Functionary
 
