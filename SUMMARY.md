@@ -5,5 +5,7 @@
 * [Races](races.md)
 * [Backgrounds](backgrounds.md)
 * [Classes](classes.md)
-* [ Character Options & Equipment](equipment.md)
+* [Character Options & Equipment](equipment.md)
+
+
 
