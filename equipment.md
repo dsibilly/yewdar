@@ -1,4 +1,64 @@
-# Equipment
+# Character Options & Equipment
+
+## Character Options
+
+Yewdar adds a variety of focuses and talents, and alters a number of the originals included in the *Fantasy AGE Basic Rulebook*.
+
+### New Ability Focuses
+A focus is an area of expertise within a more broad ability. These are explained in detail in the *Fantasy AGE Basic Rulebook*. Descriptions of the ability focuses added in Yewdar follow. Your GM has final say on whether a focus applies for a given ability test.
+
+#### Accuracy Focuses
+**Blaster Longarms:** Proficiency with weapons of the Blaster Longarms Weapon Group.
+
+**Blaster Pistols:** Proficiency with weapons of the Blaster Pistols Weapon Group.
+
+#### Dexterity Focuses
+**Advanced Driving:** Maneuvering powered vehicles, as opposed to the cars and wagons to which Strength (Driving) applies.
+
+**Piloting:** Maneuvering an airship or other flying vehicle.
+
+#### Intelligence Focuses
+**Artifice:** Building, repairing and understanding manufactured magical items and artifacts.
+
+### New Talents
+Talents are areas of natural aptitude or training that your character has acquired in their journey through life.
+
+#### Marksmanship Style
+**Classes:** Rogue, Swashbuckler, Warrior
+**Requirements:** You must be trained in the Blaster Longarms Weapon Group.
+
+You are a trained rifleman.
+
+**Novice:** You know how to punish enemies who get too close. When shooting a blaster longarm at an enemy within 6 yards, you inflict a bonus +1 damage on a successful hit.
+
+**Journeyman:** When shooting with a blaster longarm, you can perform the Knock Prone stunt for 1 stunt point instead of the usual 2.
+
+**Master:** When you make a successful attack with a blaster longarm you may choose to re-roll the damage, but you must keep the results of the second roll.
+
+#### Ship Gunnery
+**Classes:** All
+**Requirements:** You must be trained in the Heavy Weapons Weapon Group.
+
+You can inflict devastation when manning artillery.
+
+**Novice:** When you take the Aim action while using a Heavy Weapon, you gain a +2 bonus to damage dealt on a successful hit.
+
+**Journeyman:** You've learned to pinpoint weaknesses in enemy ship and fortress defenses. When using a Heavy Weapon, you can perform the Pierce Armor stunt for 1 stunt point instead of the usual 2.
+
+**Master:** You know how to fire for effect with Heavy Weapons. When using a Heavy Weapon, you can perform the Lethal Blow stunt for 4 stunt points instead of the usual 5.
+
+#### High Artifice
+**Classes:** Bard, Mage, Templar
+**Requirements:** Intelligence 1+ and at least one Arcana talent.
+
+You can use (and abuse) magical items with ease.
+
+**Novice:** If you fail an Intelligence (Artifice) test, you can re-roll it. You must keep the results of the second roll.
+
+**Journeyman:** When you attempt to use an unfamiliar magical device or override a magical lock with Intelligence (Artifice), you gain a +2 bonus to your roll.
+
+**Master:** You are an experienced artificer. When making Intelligence (Artifice) tests as part of an advanced test, you gain a +1 bonus to the result of your Stunt Die. This allows you to reach the success threshold of the advanced test faster.
+
 
 <a name="weapons"></a>
 ## New Weapons
