@@ -5,9 +5,9 @@ Yewdar is home to many races of sentient beings. Some of them are native to the 
 There are a total of eight playable races in the Yewdar campaign setting:
 
 * [Humans](#human)
-  * [Alsan](#alsan)
-  * [Osan](#osan)
-  * [Irsan](#irsan)
+    * [Alsan](#alsan)
+    * [Osan](#osan)
+    * [Irsan](#irsan)
 * [Elves](#elf)
 * [Dwarves](#dwarf)
 * [Gnomes](#gnome)
