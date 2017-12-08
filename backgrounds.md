@@ -77,7 +77,7 @@ The expansive southern jungles of Osenia, Hol Khozet extends for hundreds of mil
 | 3 | Mystic | Intelligence \(Arcane Lore\) or Willpower \(Self-Discipline\) |
 | 4 | Fist Leader | Communication \(Leadership\) or Strength \(Intimidation\) |
 | 5 | Soldier | Accuracy \(Brawling\) or Communication \(Gambling\) |
-| 6 | Chieftan | Communication \(Persuasion\) or Communication \(Leadership\) |
+| 6 | Warcaller | Communication \(Persuasion\) or Communication \(Leadership\) |
 
 ### Cheland
 
