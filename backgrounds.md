@@ -104,7 +104,6 @@ The seven island nations of the Reisian Principalities are the home of the halfl
 * Phodes
 * Icalonia
 
-TBD: Reisian Principalities Background Table
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
 | 1 | TBD | TBD |
