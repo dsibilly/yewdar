@@ -55,4 +55,26 @@ As she approached the fortress and beheld the creations of Ka and Dynu, she felt
 
 III.
 
-Enakoh walked the face of the world.   
+Enakoh walked the face of the world. He walked away from his brethren until he could no longer see his counterpart Abasys. He knew that she had a purpose just as he did, but he could not reconcile with it. He smiled, and life grew around him. Beings of all kinds sprung forth and congregated in the wake of his passage: beings large and small, no two alike. As Enakoh traversed the world, he eventually returned to where he had started... and there he found dying his first creations.
+
+A sigh of grief escaped him, and drifted across the land. He stood there for uncounted time contemplating loss. When his grief passed, he noticed that his breath had brought forth renewal and rebirth. From the bodies of his first creations, new life arose. Filled with passionate joy and inspiration, he called to his brother N'er, a quarter of the world away.
+
+"Brother N'er, you measure the passage of things, yes? You know how long they exist?" N'er nodded. "Give me a small bit of your time, that I may have my presence everywhere, bringing new life where this death occurs!" N'er nodded a second time.
+
+Enakoh took a quantum of time from N'er and molded it into a small drake, which darted faster than the eye could see. In an instant, death before him was renewed. He smiled and spoke to the drake. "You shall be **Sysaba**, for you are the opposite of my counterpart in all things, same as I." Pleased with his work, Enakoh continued to walk the face of the world.
+
+Abasys felt the distant presence of Enakoh as he receeded from her, and when she felt that he could be no farther without him drawing closer once again, she too began to walk. As she came across the first of Enakoh's creations, she sighed. They were fecund and prolific, threatening to overrun all. Her breath drifted across the land, and those living things it passed over died. Abasys contemplated their deaths, and their passing seemed right to her. With purpose, she called out to her brother N'er, a quarter of the world away.
+
+"N'er, you measure the passage of things, yes?" N'er nodded. "Are all things to exist to the end of days, as we may? Would this creation of ours not descend into miasmic chaos if that were the case?" N'er nodded. "Give me a small section of your measure, brother, that I might know the limits of life and ensure that all things pass away when it is good and proper." N'er nodded a second time.
+
+Abasys took the section of measure and stretched it far and wide, blanketing the world. It saw every living thing. When it exhaled, those beings whose time had come passed on, ceasing to live. She smiled and spoke to the living measure, which had taken the form of an ephemeral drake. "You, paper thin dragon, shall be known as **Veil**, for you cover all and yet see the proper ending of things." And Abasys continued to walk, staying always half a world away from Enakoh.
+
+N'er counted. His steps kept the time of the passing seconds, each footfall landing the unwavering precision. Halfway between Enakoh and Abasys, he kept rhythm. As he walked, his count grew.
+
+N'er gave a tiny bit of time to his brother Enakoh, that his dragon might move faster than time to ensure life's existence. He gave a section of his measure to Abasys that her dragon might know the alotted span of time for every living thing. In the space between, N'er walked.
+
+His footsteps measured the seconds, and the minutes, and the hours, and the days, years, centuries, and millennia. Where time pooled up too many seconds, an abundance of minutes, an excess of hours... N'er would use his measure to find them and slice away the surfeit time with his curved blade. These he stored in his pouch, counting as he walked.
+
+Seven and twenty hundred times did N'er walk about the world in perfect rhythm. Only then did he pause to contemplate the time he had collected. N'er paused. Reality paused with him. In this moment frozen between seconds he shaped the contents of his pouch into a pair of shears, which were jaws. He shaped a pair of scales, which were wings. He shaped a pair of sundials as eyes, and four metronomes as legs.
+
+N'er did not speak. He did not need to, as the dragon knew its name. **Chron** flew behind N'er, slicing away any surfeit time and swallowing it to keep them safe. With Chron behind him, N'er continued to walk. Reality sprung into motion, and N'er counted.
