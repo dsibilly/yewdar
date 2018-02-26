@@ -1,6 +1,6 @@
 # The Dragons of Yewdar
 
-*From* A Draconic Overview * by Holfastor Gorm, Professor of Draconic Studies, Stromgaarten College*
+*From* **A Draconic Overview** *by Holfastor Gorm, Professor of Draconic Studies, Stromgaarten College*
 
 Some four centuries ago, the dragons of old vanished from our world. We do not know whence they have gone. We carry stories of them in our myths and legends, and while many of them may be outlanding there is a grain of truth to every mythic story. Over my long career, I have scoured the world with teams of diligent archaeologists and researchers, searching out stories, records, and first-hand accounts of the dragons.
 
