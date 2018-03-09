@@ -26,7 +26,7 @@ The Ever-Brave, Master of Fear, Timun, The Great Bull, The Fearless Falcon.
 
 Dynu is a proud god, friendly but firm to his fellow deities and any mortals he encounters. He is filled with a need to inspire others to greatness; his own deeds and accomplishments are worthless if they do not move the mortals who witness them or hear of them to daring deeds of their own. He has a deep understanding of fear and anxiety, and despite being named the Fearless Falcon by his clergy, he is well-versed in being afraid. Dynu knows that the only way to *be* brave is to act *in spite* of fear, not in the absence of it. He has periodically appeared in the form of his alter-ego, Timun, who is the personification of anxiety and fearfulness. As Timun, he works to show mortals time and again that fear is never eliminated, but overcome.
 
-Dynu wields the great spear Sigmobos, the Sum of All Fears. His bull is named Phalorn, and his falcon Gerux.
+Dynu wields the great spear Sigmobos, the Sum of All Fears. His bull is named Phalorn, and his falcon Gerux. His dragon is Ynrrow the Fearless, father of the valordrakes.
 
 ## Ka
 The Maker, Carver of Stone, Hands of Diamond, Mother of Metals
@@ -51,6 +51,8 @@ The Merciful, Lady of Light, Highmatron
 **Appearance**: A stately woman of indeterminate race with an ephemeral pair of wings emanating from her back.
 
 Vor is a goddess of healing and of compassion. Her daughter, the demigoddess Anja, founded a devout monastic order that seeks to spread goodwill and end the suffering of all peoples. Vor rarely makes personal appearances, preferring to act through Anja or her monks. She avoids battle, but when pressed prefers the open hand to any crafted weapon.
+
+Vor's companion is Vorun the Lunar Wyrm, ancestor of the phase drakes.
 
 ## N'er
 Keeper of the Allsaga, Chronicler, He Who Walks All Paths
