@@ -1,6 +1,6 @@
 # Races
 
-Yewdar is home to many races of sentient beings. Some of them are native to the world, seeded there by the gods or evolved forms of indigenous fauna. Other races are visitors or refugees from other planes who have made Yewdar their new home. Yet more are artificial life, created by powerful progenitors for purposes known and unknown.
+Yewdar is home to many races of sentient beings. Some of them are native to the world, either seeded there by the gods or evolved from of indigenous fauna. Other races are visitors or refugees from other planes who have made Yewdar their new home. Yet more are artificial life, created by powerful progenitors for purposes known and unknown.
 
 There are a total of eight playable races in the Yewdar campaign setting:
 
@@ -16,13 +16,13 @@ There are a total of eight playable races in the Yewdar campaign setting:
 * [Drakon](#drakon)
 * [Talosan](#talosan)
 
-There are other races, sentient and otherwise, but are reserved for use by Game Masters populating the setting; consult with your Game Master before selecting a race not detailed in this book.
+There are other races, sentient and otherwise, but they are reserved for use by the Game Master (GM) populating the setting; consult with your GM before selecting a race not detailed in this book.
 
 ---
 
 ## Human
 
-Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived, with lifetimes over a century being exceedingly rare. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older races see them as short-sighted and impulsive, but there is no denying the success that their drive has earned. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
+Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older races see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
 
 Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
 
@@ -42,7 +42,7 @@ If you choose to play a human, modify your character as follows:
 
 ![](/assets/Seelah.jpg)
 
-The Alsan peoples originally hail from the Aqor Imperium on the Chimak contintent far to the west of Osenia. They "discovered" Osenia in antiquity, though it was already populated by Osan clans. Being relatively advanced compared to the native Osan, they quickly established a vast colony on Osenia to exploit the continent's lush natural resources. This vassal state later came to be known as the Nevrodt Empire, which the Osan eventuallly overthrew when they founded modern-day Kulturia. In the 1,200 years since the fall of Nevrodt, the remaining Alsan humans have integrated thoroughly into Kulturian society. They are a dark brown skinned people with dark, straight hair, stout-framed with broad faces.
+The Alsan peoples originally hail from the Aqor Imperium on the Chimak continent far to the west of Osenia. They "discovered" Osenia in antiquity, though it was already populated by Osan clans. Being relatively advanced compared to the native Osan, they quickly established a vast colony on Osenia to exploit the continent's lush natural resources. This vassal state later came to be known as the Nevrodt Empire, which the Osan eventuallly overthrew when they founded modern-day Kulturia. In the 1,200 years since the fall of Nevrodt, the remaining Alsan humans have integrated thoroughly into Kulturian society. They are a dark-brown skinned people with dark, straight hair, stout-framed with broad faces.
 
 #### Alsan Names
 
@@ -67,7 +67,7 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continten
 
 ![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
 
-The indigenous humans of the Osenia continent, the Osan peoples were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably, and by the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were heretofore the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, with women averaging 1.7 meters and heights of 2 meters not uncommon among males.
+The indigenous humans of the Osenia continent, the Osan peoples were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
 
 #### Osan Names
 
@@ -119,9 +119,9 @@ The Irsan originated not from Osenia itself but from the nearby island sub-conti
 
 ![](/assets/mutteran_lg.png)
 
-The Elves originally hail from a coplanar realm known as The Verdance, or Primal Wilds \(Eladari’el in Elvish.\) It is a wild and untamed replica of Yewdar that is at once separate from and connected to it. In the dim mists of antiquity, a population of proto-elves fled to Yewdar to escape a devastating civil war in Eladari’el. As they spent more time away from their home realm, they lost much of their attunement to the innate natural magic of the world. Their culture turned to the arcane forces they found in their new home, and their incredible longevity allowed them to attain a mastery unmatched by the other races. Today’s elves live relatively short lives compared to their forebears, but it is not uncommon for an elf to see the turn of three centuries before they fade away.
+The elves originally hail from a coplanar realm known as The Verdance, or Primal Wilds \(Eladari’el in Elvish.\) It is a wild and untamed replica of Yewdar that is at once separate from and connected to it. In the dim mists of antiquity, a population of proto-elves fled to Yewdar to escape a devastating civil war in Eladari’el. As they spent more time away from their home realm, they lost much of their attunement to the innate natural magic of their world. Their culture turned to the arcane forces they found in their new home, and their incredible longevity allowed them to attain a mastery unmatched by the other races. Today’s elves live relatively short lives compared to their forebears, but it's not uncommon for an elf to see the turn of three centuries before they fade away.
 
-Just over one elf generation ago, a great elven empire spanned the subcontinentt of Ikaemo. The empire fell to an invasion of trolls whose durability and fecundity literally bred the elves out of their homeland. The survivors took to the sea on their elegant ships, staying close for mutual defense, looking for a new home. The last three centuries have seen the Eladar Fleet criss-crossing the seas of Yewdar at the command of the Prophetess Lalahni, whose vision of the next homeland Danari’el promises eventual rest and restoration of her people’s glory.
+Just over one elf generation ago, a great elven empire spanned the subcontinent of Ikaemo. The empire fell to an invasion of trolls whose durability and fecundity literally bred the elves out of their homeland. The survivors took to the sea on their elegant ships, staying close for mutual defense, looking for a new home. The last three centuries have seen the Eladar Fleet crisscrossing the seas of Yewdar at the command of the Prophetess Lalahni, whose vision of their next homeland Danari’el promises eventual rest and restoration of her people’s glory.
 
 ## Playing an Elf
 
@@ -134,7 +134,7 @@ If you choose to play an elf, modify your character as follows:
 * You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
 * Your Speed is equal to 12 + Dexterity, minus your armor penalty.
 * You can speak and read Elven and the Common Tongue.
-* Roll twice on the Elf Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll unti you get two unique results.
+* Roll twice on the Elf Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
 ### Elf Names
 
@@ -163,7 +163,7 @@ If you choose to play an elf, modify your character as follows:
 
 ![](/assets/d2023b81cbc2cba52fb3fd7cc2385c0e.jpg)
 
-The dwarves are well-known throughout the world as skilled craftsmen and miners. Native to the continent of Osenia, they maintain a rigidly lawful caste-based society in their holds beneath the Grendian Mountains. The largest human cities are home to dwarven enclaves where they tend to keep to their own kind. They’re not xenophobic, per se, but they are slow to trust new acquaintances and can seem gruff and exclusionary to many of the other races. Dwarves have long memories to match their multi-century lifespans: a dwarf is forever loyal and kind to friends, and a stalwart foe to those who have betrayed or wronged them.
+The dwarves are well-known throughout the world as skilled craftsmen and miners. Native to the continent of Osenia, they maintain a rigidly lawful caste-based society in their holds beneath the Grendian Mountains. The largest human cities are home to dwarven enclaves where the dwarves tend to keep to their own kind. They’re not xenophobic, per se, but they're slow to trust new acquaintances and can seem gruff and exclusionary to many of the other races. Dwarves have long memories to match their multi-century lifespans: a dwarf is forever loyal and kind to friends, and a stalwart foe to those who have betrayed or wronged them.
 
 Dwarves average between 1.2 and 1.5 meters tall, and tend to be stocky, solidly built people. They are known for their extravagant beards, which they grown long and wear plaited, braided, in tails, or any number of other styles.
 
@@ -207,9 +207,9 @@ Dwarf Benefits
 
 ![](/assets/b94555f9bb2d5c682a29339e36d20d5c.jpg)
 
-Like the elves, the gnomes of Yewdar are not native to this world but originated in The Verdance. Short in stature and lithe in frame, they inhabited the underground realms of the Primal Wilds. They tended fungal orchards and herds of dire mole in their cavernous villages, and lived lives of curiosity and relative peace… Until the formians came. The insectoids tore through the Underwilds like a storm of chitin and mandibles, snuffing out gnome settlements like so many candles. In desperation, a group of isolated refugees turned to their sorcerers, who devised a ritual to bring them to Yewdar and escape extinction. Formerly gregarious explorers and tinkerers, the gnomes on Yewdar are a stoic and grim. Sometimes, when they are absorbed in a task they enjoy, flickers of their original nature show through. The gnomes are torn between a desire to get to know their new world and neighbors better, and disdain for the relatively carefree lives the other races live. They see peace as a time to prepare for the worst, and the other races as naive and complacent.
+Like the elves, the gnomes of Yewdar are not native to this world; they originated in The Verdance. Short in stature and lithe in frame, they inhabited the underground realms of the Primal Wilds. They tended fungal orchards and herds of dire moles in their cavernous villages. They lived lives of curiosity and relative peace… until the formians came. The insectoids tore through the Underwilds like a storm of chitin and mandibles, snuffing out gnome settlements like so many candles. In desperation, a group of isolated refugees turned to their sorcerers, who devised a ritual to bring them to Yewdar and escape extinction. Formerly gregarious explorers and tinkerers, the gnomes on Yewdar are a stoic and grim. Sometimes, when they are absorbed in a task they enjoy, flickers of their original nature show through. The gnomes are torn between a desire to get to know their new world and neighbors better, and disdain for the relatively carefree lives the other races live. They see peace as a time to prepare for the worst, and the other races as naive and complacent.
 
-Gnomes are small, ranging from 0.8 to 0.9 meters tall. Notably, Gnomes have black eyes with no irises or discernible pupils.
+Gnomes are small, ranging from 0.8 to 0.9 meters tall. Notably, gnomes have black eyes with no irises or discernible pupils.
 
 ### Gnome Names
 
@@ -255,7 +255,7 @@ If you choose to play a gnome, modify your character as follows:
 
 The halflings were a nomadic people in antiquity, and because of limited historical records their origins are unknown. Osenian halflings hail from the Reisian Principalities, a loose confederation of island nations. Most halflings are pastoral, tending to crops and small livestock, or running businesses that trade such things. About one in twenty halflings are affected \(or some might say afflicted\) by a powerful wanderlust that almost universally leads them into harm’s way. In these situations, the halfling knack for cunning, guile, and ingenuity often lets them see the next dawn… and with a story almost too outrageous to believe.
 
-Halflings appear much like miniature humans. They are quite diminutive, ranging from 0.9 to 1.3 meters tall.
+Halflings appear much like miniature humans, any vary just as much in skin tone and hair colors. They are quite diminutive, ranging from 0.9 to 1.3 meters tall.
 
 ### Halfling Names
 
@@ -298,11 +298,11 @@ If you choose to play a halfling, modify your character as follows:
 
 ![](/assets/90e6b9371c16d892f168ff7c4717ba1a.jpg)
 
-A primal, bestial people with a clan-based civilization, the orcs are native to the jungles of Hol Khozet in southern Osenia. They are a culture of warriors; when they are not mounting raids into nearby villages and towns, they are taking part in bitter clan wars. The thirteen orc clans have been an in ever-shifting state of internecine war for centuries.
+A primal, bestial people with a clan-based civilization, the orcs are native to the jungles of Hol Khozet in southern Osenia. They are an aggressive, proud, and tradition-bound people who value honor and combat; when they're not mounting raids into nearby villages and towns, they're taking part in bitter clan wars. The thirteen orc clans have been an in ever-shifting state of internecine war for centuries.
 
-Many orcs live out their whole lives in Hol Khozet, but some leave their homeland in search of adventure, glory, or simply a reprieve from the way of the warrior. They can be found in many cities serving as bodyguards, mercenaries, mystics for hire, or independent adventurers.
+Many orcs live out their whole lives in Hol Khozet, but some leave their homeland in search of adventure, glory, or simply a reprieve from the endless clan wars. They can be found in many cities serving as bodyguards, mercenaries, mystics for hire, or independent adventurers.
 
-Orcs are a large people, broad of range and tall in stature. They range from 1.5 to over 2 meters tall. They have pointed, bat-like ears, flat noses, broad mouths, and an underbite that exposes their tusk-like incisors. Skin tones vary, with green being most common. Other colorations include brown, yellowish-tan, and in very rare cases, red.
+Orcs are a large people, broad of beam and tall in stature. They range from 1.5 to over 2 meters tall. They have pointed, bat-like ears, flat noses, broad mouths, and an underbite that exposes their tusk-like incisors. Skin tones vary, with green being most common. Other colorations include brown, yellowish-tan, and in very rare cases, red.
 
 ### Orc Names
 
@@ -337,7 +337,7 @@ The orc clans are:
 If you choose to play an orc, modify your character as follows:
 
 * Add +1 to your Strength ability
-* Pick one of the following ability focues:
+* Pick one of the following ability focuses:
   * Constitution \(Stamina\)
   * Strength \(Might\)
 * You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
@@ -366,7 +366,7 @@ If you choose to play an orc, modify your character as follows:
 
 ![](/assets/Character_2da80f_5793915.jpg)
 
-Draconic humanoids, the drakon are a long-lived product of arcane-engineered life. They were created by the dragons of old as shock troopers for the ancient Cthene Empire. After the Day of Broken Scales, when dragons disappeared from the world, the drakon were left leaderless and lost. Now few in number, they live on the fringes of humanoid society. They take odd jobs or wander nomadically in small bands, trying to eke out a living in a world that disdains them. More than a few drakon have settled in the Cthene Wastes, the ruined remnants of their original home. There they search out clues of their progenitors' mysterious disappearance.
+Draconic humanoids, the drakon are a long-lived result of arcane-engineered life. They were created by the dragons of old as shock troopers for the ancient Cthene Empire. After the Day of Broken Scales, when dragons disappeared from the world, the drakon were left leaderless and lost. Now few in number, they live on the fringes of humanoid society. They take odd jobs or wander nomadically in small bands, trying to eke out a living in a world that disdains them. More than a few drakon have settled in the Cthene Wastes, the ruined remnants of their original home. There they search out clues of their progenitors' mysterious disappearance.
 
 ### Drakon Names
 
@@ -404,6 +404,8 @@ Choose a target within 10 yards. Make a successful Accuracy attack against that 
 
 ##### Draconic Breath Types
 
+NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, which are in development.
+
 | Dragon Type | Damage Type |
 | :--- | :--- |
 | Black | Acid |
@@ -436,14 +438,14 @@ Choose a target within 10 yards. Make a successful Accuracy attack against that 
 
 ![](/assets/ce82fca3559e554bc3ad55b04ea751de.jpg)
 
-The Talosan are are sentient machines created by arcanists seeking to make more arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated to various degrees into humanoid society. Some continue to serve as soldiers, others as tradesmen. Non-Talosan races tend to view them with a mix of curiosity and prejudice, particularly the poor of Laurentia who see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and dignity may be obtained without the pre-approval of fearful organic races.
+The Talosan are are sentient machines created by arcanists seeking to make arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated into humanoid society to various degrees. Some continue to serve as soldiers, others as tradesmen. Non-Talosan races tend to view them with a mix of curiosity and prejudice. In particular, the poor of Laurentia see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and one may obtain dignity without the pre-approval of fearful organic races.
 
 ### Talosan Names
 
 **Female:** Jewel-19, Virtue-25, Mya-49, Kaja-914, Yasmin-33  
-**Male:** Bartoneus-723, Cason-2, Malik-68, Jerry-4, Kristoph-154
+**Male:** Bart-723, Cason-2, Malik-68, Jerry-4, Kristoph-154
 
-Talosan have no surnames, unless they choose to take one.
+Talosan typically have no surnames, but some choose to take one.
 
 ### Playing a Talosan
 
@@ -481,4 +483,4 @@ You are a living construct.
 | 10-11 | Focus: Strength \(Intimidation\) |
 | 12 | +1 Perception |
 
-\*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the focus Accuracy \(Blaster Pistols\) instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the focus Fighting \(Heavy Blades\) instead.
+\*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the Accuracy \(Blaster Pistols\) Focus instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the Fighting \(Heavy Blades\) Focus instead.
