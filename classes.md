@@ -37,6 +37,7 @@ Music is magical, figuratively and literally. What separates the bard from a com
     - Fate
     - Healing
     - Heroic
+    - Illusion
     - Shadow
 
 **Magic Points, Bard**: You start with a number of magic points equal to 5 + Communication + 1d6. You spend magic points to cast spells, and regain them through rest and meditation.
