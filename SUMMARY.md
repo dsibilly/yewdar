@@ -6,8 +6,6 @@
 * [Backgrounds](backgrounds.md)
 * [Classes](classes.md)
 * [Character Options & Equipment](equipment.md)
-* [Gods & Religio](/gods-and-religion.md)n
+* [Gods & Religion](/gods-and-religion.md)
 * [Dragons of the Realm](/dragons.md)
-
-
 

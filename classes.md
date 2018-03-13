@@ -41,7 +41,7 @@ Music is magical, figuratively and literally. What separates the bard from a com
 
 **Magic Points, Bard**: You start with a number of magic points equal to 5 + Communication + 1d6. You spend magic points to cast spells, and regain them through rest and meditation.
 
-You gain more magic points as you rise in level. From levels 2 through 10, you gain 3 + Communication + 1d6 magic points whenever you level. From levels 11 to 20, you gain only your Communication in MP, because increasing your power reserves at higher levels is not easy.
+You gain more magic points as you rise in level. From levels 2 through 10, you gain Communication + 1d6 magic points whenever you level. From levels 11 to 20, you gain only your Communication in MP, because increasing your power reserves at higher levels is not easy.
 
 **Performer's Tumble**: You can prepare yourself to dodge an attack. Using a Ready action, you may add your Dexterity to you Defense until your next turn. If you have the Dexterity (Acrobatics) focus, you may add your Dexterity + 2 to your Defense instead.
 
