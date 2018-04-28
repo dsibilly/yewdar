@@ -2,6 +2,7 @@
 
 * [Welcome to Yewdar](README.md)
 * [History](history.md)
+* [Pantheon](gods-and-religion.md)
 * [Kith](kith.md)
 * [Backgrounds](backgrounds.md)
 * [Classes](classes.md)
