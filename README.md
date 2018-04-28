@@ -1,4 +1,4 @@
-# Yewdar Player's Guide
+# Yewdar Player's Guide (v0.2.0)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
@@ -10,7 +10,7 @@ _A young artificer experiments with imbuing a sword with arcanathyst, a miraculo
 
 _A sky pirate captain lies in wait in the clouds over the Rockridge Mountains. The pickings have been slim for days; airship patrols have kept his crew from taking any booty. Rumor has it, though, that a slow skyliner full of well-heeled fatcats is headed this way tonight… and the captain means to collect._
 
-_An elf returns to the Eladar Fleet a hero. Twenty-five years ago, he left his family and friends and went ashore among the jandar'ii \(round ears\) to begin his pelegrín, his pilgrimage. He could not return without something of value to his ship: equipment, knowledge, power. Years spent exploring and adventuring with the land-bound races afforded him all three, and by the grace of the gods, he might help his people to one day find Danari'el, their promised land._
+_An elf returns to the Eladar Fleet a hero. Twenty-five years ago, he left his family and friends and went ashore among the jandar'ii \(round ears\) to begin his pelegrín, his pilgrimage. He could not return without something of value to his ship: equipment, knowledge, power. Years spent exploring and adventuring with the land-bound kith afforded him all three, and by the grace of the gods, he might help his people to one day find Danari'el, their promised land._
 
 _A young priestess of Meno, Goddess of Knowledge, is concerned. Across the countryside, people have been having the same nightmares: of gaping maws and grasping tendrils, hooks and teeth and eyes and blood. As she seeks answers in the depths of her library temple, her lone acolyte delivers grave news. Someone in the village died tonight, strangled by something longer than the arms of any humanoid…_
 
@@ -34,6 +34,8 @@ The setting presupposes a world that developed not through scientific advancemen
 
 From the steaming jungles of Hol Khozet to the towering spires of Apex City, to the blasted badlands of the Cthene Wastes, Yewdar is a world of action and adventure. Adventures can and _should_ draw heroes from one exotic locale to another across nations and continents. Via magical transportation, heroes can reach a wider range of environments over the course of an adventure, bringing them into contact with a wide variety of monsters and challenges.
 
-## **New Races**
+## **New Races (Kith)**
 
-Yewdar's setting takes the core player races in the _Fantasy AGE Basic Rulebook_ and changes the assumptions of culture, race and ethnicity to provide [all-new options for players to choose from](/races.md). Additionally, it adds new races such as the Drakon and Talosan. Drakon are draconic humanoids created through magical means by the long-lost dragons. They possess great strength and resilience, but not the longevity of their progenitors. Talosan are sentient constructs, built by contemporary arcanists as weapons of war and disposable labor. They developed free will and now seek to improve their position in the world.
+First, a note about the term _race_. _Race_ is typically used to denote a collection of physical characteristics within the same species. It is clear that this definition is a poor choice for different fantastical species like those found in RPGs. For this reason, the term _race_ has been replaced with the term _kith_ unless referring to the _Fantasy AGE Basic Rulebook_.
+
+Yewdar's setting takes the core player races in the _Fantasy AGE Basic Rulebook_ and changes the assumptions of culture, race, and ethnicity to provide [all-new options for players to choose from](/kith.md). Additionally, it adds new kith such as the Drakon and Talosan. Drakon are draconic humanoids created through magical means by the long-lost dragons. They possess great strength and resilience, but not the longevity of their progenitors. Talosan are sentient constructs, built by contemporary arcanists as weapons of war and disposable labor. They developed free will and now seek to improve their position in the world.
