@@ -2,10 +2,11 @@
 
 * [Welcome to Yewdar](README.md)
 * [History](history.md)
-* [Races](races.md)
+* [Political Regions](political_regions.md)
+* [Pantheon](gods-and-religion.md)
+* [Kith](kith.md)
 * [Backgrounds](backgrounds.md)
 * [Classes](classes.md)
 * [Character Options & Equipment](equipment.md)
-* [Gods & Religion](/gods-and-religion.md)
-* [Dragons of the Realm](/dragons.md)
-
+* [Dragons of the Realm](dragons.md)
+* [Marking the Passage of Time](calendar.md)
