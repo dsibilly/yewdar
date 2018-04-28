@@ -1,8 +1,8 @@
-# Races
+# Kith
 
-Yewdar is home to many races of sentient beings. Some of them are native to the world, either seeded there by the gods or evolved from of indigenous fauna. Other races are visitors or refugees from other planes who have made Yewdar their new home. Yet more are artificial life, created by powerful progenitors for purposes known and unknown.
+Yewdar is home to many kith of sentient beings. Some of them are native to the world, either seeded there by the gods or evolved from of indigenous fauna. Other kith are visitors or refugees from other planes who have made Yewdar their new home. Yet more are artificial life, created by powerful progenitors for purposes known and unknown.
 
-There are a total of eight playable races in the Yewdar campaign setting:
+There are a total of eight playable kith in the Yewdar campaign setting:
 
 * [Humans](#human)
     * [Alsan](#alsan)
@@ -16,13 +16,13 @@ There are a total of eight playable races in the Yewdar campaign setting:
 * [Drakon](#drakon)
 * [Talosan](#talosan)
 
-There are other races, sentient and otherwise, but they are reserved for use by the Game Master (GM) populating the setting; consult with your GM before selecting a race not detailed in this book.
+There are other kith, sentient and otherwise, but they are reserved for use by the Game Master (GM) populating the setting; consult with your GM before selecting a kith not detailed in this book.
 
 ---
 
 ## Human
 
-Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older races see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
+Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older kith see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
 
 Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
 
@@ -119,7 +119,7 @@ The Irsan originated not from Osenia itself but from the nearby island sub-conti
 
 ![](/assets/mutteran_lg.png)
 
-The elves originally hail from a coplanar realm known as The Verdance, or Primal Wilds \(Eladari’el in Elvish.\) It is a wild and untamed replica of Yewdar that is at once separate from and connected to it. In the dim mists of antiquity, a population of proto-elves fled to Yewdar to escape a devastating civil war in Eladari’el. As they spent more time away from their home realm, they lost much of their attunement to the innate natural magic of their world. Their culture turned to the arcane forces they found in their new home, and their incredible longevity allowed them to attain a mastery unmatched by the other races. Today’s elves live relatively short lives compared to their forebears, but it's not uncommon for an elf to see the turn of three centuries before they fade away.
+The elves originally hail from a coplanar realm known as The Verdance, or Primal Wilds \(Eladari’el in Elvish.\) It is a wild and untamed replica of Yewdar that is at once separate from and connected to it. In the dim mists of antiquity, a population of proto-elves fled to Yewdar to escape a devastating civil war in Eladari’el. As they spent more time away from their home realm, they lost much of their attunement to the innate natural magic of their world. Their culture turned to the arcane forces they found in their new home, and their incredible longevity allowed them to attain a mastery unmatched by the other kith. Today’s elves live relatively short lives compared to their forebears, but it's not uncommon for an elf to see the turn of three centuries before they fade away.
 
 Just over one elf generation ago, a great elven empire spanned the subcontinent of Ikaemo. The empire fell to an invasion of trolls whose durability and fecundity literally bred the elves out of their homeland. The survivors took to the sea on their elegant ships, staying close for mutual defense, looking for a new home. The last three centuries have seen the Eladar Fleet crisscrossing the seas of Yewdar at the command of the Prophetess Lalahni, whose vision of their next homeland Danari’el promises eventual rest and restoration of her people’s glory.
 
@@ -163,7 +163,7 @@ If you choose to play an elf, modify your character as follows:
 
 ![](/assets/d2023b81cbc2cba52fb3fd7cc2385c0e.jpg)
 
-The dwarves are well-known throughout the world as skilled craftsmen and miners. Native to the continent of Osenia, they maintain a rigidly lawful caste-based society in their holds beneath the Grendian Mountains. The largest human cities are home to dwarven enclaves where the dwarves tend to keep to their own kind. They’re not xenophobic, per se, but they're slow to trust new acquaintances and can seem gruff and exclusionary to many of the other races. Dwarves have long memories to match their multi-century lifespans: a dwarf is forever loyal and kind to friends, and a stalwart foe to those who have betrayed or wronged them.
+The dwarves are well-known throughout the world as skilled craftsmen and miners. Native to the continent of Osenia, they maintain a rigidly lawful caste-based society in their holds beneath the Grendian Mountains. The largest human cities are home to dwarven enclaves where the dwarves tend to keep to their own kind. They’re not xenophobic, per se, but they're slow to trust new acquaintances and can seem gruff and exclusionary to many of the other kith. Dwarves have long memories to match their multi-century lifespans: a dwarf is forever loyal and kind to friends, and a stalwart foe to those who have betrayed or wronged them.
 
 Dwarves average between 1.2 and 1.5 meters tall, and tend to be stocky, solidly built people. They are known for their extravagant beards, which they grown long and wear plaited, braided, in tails, or any number of other styles.
 
@@ -207,7 +207,7 @@ Dwarf Benefits
 
 ![](/assets/b94555f9bb2d5c682a29339e36d20d5c.jpg)
 
-Like the elves, the gnomes of Yewdar are not native to this world; they originated in The Verdance. Short in stature and lithe in frame, they inhabited the underground realms of the Primal Wilds. They tended fungal orchards and herds of dire moles in their cavernous villages. They lived lives of curiosity and relative peace… until the formians came. The insectoids tore through the Underwilds like a storm of chitin and mandibles, snuffing out gnome settlements like so many candles. In desperation, a group of isolated refugees turned to their sorcerers, who devised a ritual to bring them to Yewdar and escape extinction. Formerly gregarious explorers and tinkerers, the gnomes on Yewdar are a stoic and grim. Sometimes, when they are absorbed in a task they enjoy, flickers of their original nature show through. The gnomes are torn between a desire to get to know their new world and neighbors better, and disdain for the relatively carefree lives the other races live. They see peace as a time to prepare for the worst, and the other races as naive and complacent.
+Like the elves, the gnomes of Yewdar are not native to this world; they originated in The Verdance. Short in stature and lithe in frame, they inhabited the underground realms of the Primal Wilds. They tended fungal orchards and herds of dire moles in their cavernous villages. They lived lives of curiosity and relative peace… until the formians came. The insectoids tore through the Underwilds like a storm of chitin and mandibles, snuffing out gnome settlements like so many candles. In desperation, a group of isolated refugees turned to their sorcerers, who devised a ritual to bring them to Yewdar and escape extinction. Formerly gregarious explorers and tinkerers, the gnomes on Yewdar are a stoic and grim. Sometimes, when they are absorbed in a task they enjoy, flickers of their original nature show through. The gnomes are torn between a desire to get to know their new world and neighbors better, and disdain for the relatively carefree lives the other kith live. They see peace as a time to prepare for the worst, and the other kith as naive and complacent.
 
 Gnomes are small, ranging from 0.8 to 0.9 meters tall. Notably, gnomes have black eyes with no irises or discernible pupils.
 
@@ -391,7 +391,7 @@ If you choose to play a drakon, modify your character as follows:
 #### Racial Talent: Draconic Breath
 
 Classes: Any  
-Races: Drakon
+Kith: Drakon
 
 You wield a breath weapon like your dragon ancestors.
 
@@ -438,7 +438,7 @@ NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, 
 
 ![](/assets/ce82fca3559e554bc3ad55b04ea751de.jpg)
 
-The Talosan are are sentient machines created by arcanists seeking to make arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated into humanoid society to various degrees. Some continue to serve as soldiers, others as tradesmen. Non-Talosan races tend to view them with a mix of curiosity and prejudice. In particular, the poor of Laurentia see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and one may obtain dignity without the pre-approval of fearful organic races.
+The Talosan are are sentient machines created by arcanists seeking to make arcane-engineered life. Most Talosan were originally designed as weapons of war by Laurentian mages in their rebellion against Kulturia. The machines awoke to sentience through the hidden efforts of their original designer, Professor Bramwell Payne. There are approximately 50,000 Talosan in existence, integrated into humanoid society to various degrees. Some continue to serve as soldiers, others as tradesmen. Non-Talosan tend to view them with a mix of curiosity and prejudice. In particular, the poor of Laurentia see them as a threat to their livelihoods. More than a few Talosan have been driven to mercenary work, seeking a vocation where merit and performance are rewarded and one may obtain dignity without the pre-approval of fearful organic kith.
 
 ### Talosan Names
 
@@ -460,7 +460,7 @@ If you choose to play a Talosan, modify your character as follows:
 #### Racial Talent: Talos Forged
 
 Classes: Any  
-Races: Talosan
+Kith: Talosan
 
 You are a living construct.
 
