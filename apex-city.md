@@ -20,7 +20,7 @@ A long wall rings ***Drakesdown*** at its lowest level, interrupted by towers al
 
 ***The Liaran Shipyards***, called simply *Liara* by most of Apex's citizens, are magically suspended above the city using vast stone slabs enchanted with arcanathyst. Over half of the floating platform is dominated by warehouses, shipyards and other facilities dedicated to the construction of airships. Many homes belonging to members of the Shipwright's Guild can be found here, giving Liara a high concentration of wealth and prestige. Some of Apex's finest inns and restaurants as well as exotic and upscale trades can be found here.
 
-Nadir is the beating heart of Apex, full of mines and caverns, foundries and forges that turn the valuable ores beneath the city into the products that bring it prosperity. Much of the wealth beneath Apex is from vast deposits of arcanathyst crystal, but there are also veins of iron and mithril that make conventional mining and smelting a popular business venture. Occassionally a mining expedition will uncover natural caverns or ancient ruins buried by the passing of centuries.
+***Nadir*** is the beating heart of Apex, full of mines and caverns, foundries and forges that turn the valuable ores beneath the city into the products that bring it prosperity. Much of the wealth beneath Apex is from vast deposits of arcanathyst crystal, but there are also veins of iron and mithril that make conventional mining and smelting a popular business venture. Occassionally a mining expedition will uncover natural caverns or ancient ruins buried by the passing of centuries.
 
 ## What Brings You to Apex?
 
