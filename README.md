@@ -1,4 +1,4 @@
-# Yewdar Player's Guide (v0.2.1)
+# Yewdar Player's Guide (v0.3.0)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
@@ -14,7 +14,7 @@ _An elf returns to the Eladar Fleet a hero. Twenty-five years ago, he left his f
 
 _A young priestess of Meno, Goddess of Knowledge, is concerned. Across the countryside, people have been having the same nightmares: of gaping maws and grasping tendrils, hooks and teeth and eyes and blood. As she seeks answers in the depths of her library temple, her lone acolyte delivers grave news. Someone in the village died tonight, strangled by something longer than the arms of any humanoid…_
 
-What is Yewdar?
+## What is Yewdar?
 
 Yewdar is a homebrew campaign setting for Green Ronin's Fantasy AGE system. It borrows inspiration from diverse sources: BioWare's _Mass Effect_ series, Keith Baker's _Eberron_, Lovecraftian horror, and Weis & Hickman's _Dragonlance_.
 

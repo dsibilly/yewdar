@@ -380,7 +380,7 @@ Drakon have no surnames
 If you choose to play a drakon, modify your character as follows:
 
 * Add +1 to your Constitution ability.
-* You gain the racial talent Draconic Breath \(Novice\). You may spend Talent \(or Magic Talent\) points as you level to increase  degrees in this Talent.
+* You gain the Kith Talent Draconic Breath \(Novice\). You may spend Talent \(or Magic Talent\) points as you level to increase  degrees in this Talent.
 * Pick one of the following ability focuses:
   * Willpower \(Self-Discipline\)
   * Strength \(Intimidation\)
@@ -388,7 +388,7 @@ If you choose to play a drakon, modify your character as follows:
 * You can speak and read Draconic and the Common Tongue.
 * Roll twice on the Drakon Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
-#### Racial Talent: Draconic Breath
+#### Kith Talent: Draconic Breath
 
 Classes: Any  
 Kith: Drakon
@@ -454,10 +454,10 @@ If you choose to play a Talosan, modify your character as follows:
 * Add +1 to your Strength ability
 * You gain the Ability Focus: Constitution \(Stamina\)
 * Your Speed is equal to 10 + Dexterity, minus your armor penalty.
-* You gain the racial Talent: Talos Forged
+* You gain the Kith Talent: Talos Forged
 * Roll twice on the Talosan Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
-#### Racial Talent: Talos Forged
+#### Kith Talent: Talos Forged
 
 Classes: Any  
 Kith: Talosan
