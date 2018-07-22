@@ -16,7 +16,7 @@ Yewdar backgrounds are based on where in the world your character hails from.
 
 ### Kulturia
 
-A hereditary monarchy. Known historically because the Osan peoples overthrew the Nevrodt Empire. After colonizing the Laurentian Plains and discovering the arcanathyst deposits beneath Apex City, Kulturia became a world technological and economic powerhouse. With the secession and independence of Laurentia, the kingdom's future is now in doubt. Kulturians are proud of their history, but uniquely sensitive to individual rights despite being ruled by the Crown.
+An old, proud nation; home to the Osan human peoples. Formerly colonized by the Alsan peoples of the Aqori Imperium, this land was formerly called Nevrodt. The Osan natives eventually overthrew Nevrodtim in the late Tempest Age and established their own kingdom. After colonizing the Laurentian Plains and discovering the arcanathyst deposits beneath Apex City, Kulturia became a world technological and economic powerhouse. In the aftermath of the Bloodless War and the secession of Laurentia, the kingdom's future is now in doubt. Kulturia's climate is cold-to-temperate, with rich traditions of sailing, fishing, and animal husbandry. The government is a hereditary monarchy, with a number of aristocratic houses ruling the various cities and provinces that answer to the throne. The current reigning monarch is Queen Alasce. Kulturians are proud of their history, but uniquely sensitive to individual rights despite being ruled by the Crown.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -29,7 +29,7 @@ A hereditary monarchy. Known historically because the Osan peoples overthrew the
 
 ### Cthene
 
-There is no nation-state in the wastes, per-se, but the Cthene Wastes are home to nomadic bands of Drakon, archaeologists in study, and ne'er-do-wells seeking to avoid civilization's attention. The expansive desert territory is nominally Kulturian by right of conquest, but they exercise no authority nor enforce any laws there.
+Cthene is not technically a nation-state. A large expanse of desert south of Kulturia, it is the former location of a dragon empire that aligned itself with the overthrown Nevrodt Empire. When the Day of Broken Scales transpired, the dragons that populated Cthene disappeared, and a natural disaster turned the region from grasslands and hill country into leagues of barren desert. Many bands of Drakon, left behind by their dragon creators, eek out a living in the Cthene Wastes. They band together in nomadic tribes that take shelter from the unforgiving desert climate in a series of protected sietches: rock formations that provide shelter from the sandstorms and brutal daytime sun. These tribes are not full aligned with each other, and there is no functioning "national" government in the desert.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -42,7 +42,9 @@ There is no nation-state in the wastes, per-se, but the Cthene Wastes are home t
 
 ### Grendian Mountains
 
-The mountain range runs mostly north-south, splitting the continent in half. The range is home to many wild animals and is a rewarding hunting ground for those brave enough to venture into the foothills. Beneath the great peaks lie the great dwarven holds, subterranean cities and villages crafted by the steady hand of the diminuitive humanoids. Due to the intensely private nature of the dwarves, very few outsiders ever get to venture under the mountains. Clear mountain passes through the ridge are few, but with the advent of airships this no longer proves detrimental to continental trade.
+Slicing through the continent, the Grendian mountain range is home to Osenia's dwarven peoples. The range is home to many wild animals and is a rewarding hunting ground for those brave enough to venture into the foothills. Clear mountain passes through the ridge are few, but with the advent of airships this no longer proves detrimental to continental trade.
+
+The dwarves live in great holds beneath the mountains, their subterranean cities and villages crafted by their steady, patient hands. They are an intensely private people, and few outsiders ever get to venture beneath the surface. The dwarven government has two political entities: the crown and a feudal council known as the Clansraed. The Clansraed is a hereditary council of feudal aristocrats that expresses the will of the clans from across the mountains. The Crown is a hereditary monarchy maintained by the current ruling clan, who leads the clans in war and negotiates with other nations on their behalf. The ruling clan can be replaced by another clan by rite of combat against the ruling monarch or unanimous discommendation by the entire Clansraed. The current ruler is Dorin Axforge, who rules the clans from his clan's ancestral hold at Rockhome in central Grendia.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -55,7 +57,7 @@ The mountain range runs mostly north-south, splitting the continent in half. The
 
 ### Laurentia
 
-A newly established nation east of the Grendian Mountains and north of the jungles of Hol Khozet, Laurentia is an industrial juggernaut. Home to Apex City, its capital and the largest city on the continent, Laurentia boasts most of the world's airship yards and is a chief exporter of arcanathyst to other nations. Outside of Apex, the rolling plains extend for hundreds of miles in all directions. Despite decent fertility, settlements on the plains are few; Kulturian interests focused on developing Apex City's material wealth instead of populating the countryside with settlers. The new Laurentian government, a technocratic oligarchy, has recently encouraged immigration to settle their outlying regions with an eye on increasing domestic tax revenue, agricultural production, and the pool of potential military conscripts.
+A mercantile oligarchy that separated from Kulturia some 25 years ago. Home to Apex City, the great metropolis of the Osenian continent. Run by a council of powerful commercial enterprises and merchant houses, Laurentia is the largest producer of arcanathyst in the world. Laurentia boasts most of the world's airship yards, and the vehicles are their second-largest export. They have a large population of Talosan, artificial constructs, which were built to serve as an army in what was assumed to be a civil war against the Kulturian crown. When Kulturia stood down their forces on the eve of battle in what would be known as the Bloodless War, the Talosan were found to have developed sentience. They have since integrated (somewhat) into society. Laurentia is governed by the Board of Ministers. The current First Minister is Dimitri Vengar, owner of the Mesa Yield Mining company. Outside of Apex, the rolling plains extend for hundreds of miles in all directions. Despite decent fertility, settlements on the plains are few; Kulturian interests focused on developing Apex City's material wealth instead of populating the countryside with settlers. The new Laurentian government has recently encouraged immigration to settle their outlying regions with an eye on increasing domestic tax revenue, agricultural production, and the pool of potential military conscripts.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -68,7 +70,7 @@ A newly established nation east of the Grendian Mountains and north of the jungl
 
 ### Hol Khozet
 
-In the expansive southern jungles of Osenia, Hol Khozet extends for hundreds of miles from the south border of Laurentia to the Horn of Reis at the tip of the continent. The jungles are deadly, filled with predatory and poisonous flora and fauna that will outright kill the ignorant, the unprepared, and the unwary. The orcs evolved in this humid crucible, and from it they draw their legendary strength and tenacity. The most notable single feature of this region is Khozet Tharn, a large freshwater lake in the northern jungle. It is home to a variety of marine life as well as the only neutral ground in orcish society. Killing anything but game on its shores is taboo.
+The vast jungles of Southern Osenia. While not an officially declared nation as others might be, all other countries respect the jungles as de facto sovereign territory of the orcish people. The jungles themselves are dense, dark, and dangerous to lifeforms not prepared for its vicious cycles of life and death. The orcs evolved in this humid crucible, and from it they draw their legendary strength and tenacity. The orcs have had extensive contact with the rest of the world, but not as a single entity. There are thirteen orcish clans, and each has its own traditions and opinions on dealing with other peoples and travel to other lands. There is a history of bitter conflict between the orcs and the dwarves of Grendia, with whom they share the longest national border on the continent. The most notable single feature of this region is Khozet Tharn, a large freshwater lake in the northern jungle. It is home to a variety of marine life as well as the only neutral ground in orcish society. Killing anything but game on its shores is taboo.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -81,7 +83,7 @@ In the expansive southern jungles of Osenia, Hol Khozet extends for hundreds of 
 
 ### Cheland
 
-This land is a study in contrast. To the north, thousands of square kilometers of prairie plains host the most productive agriculture in the region, earning the island sub-continent the nickname "The Breadbasket of Osenia." To the south, a dank fungal forest contains exotic and gargantuan mushrooms and other spore-based life, including the enigmatic myconids. Between north and south, a jagged ridge of mountains divides the island, crowned by an active volcano that the native Irsan peoples call "The Forge."
+Cheland is not a single nation. The island sub-continent is bisected by the same mountain range that forms Grendia on the mainland. To the north of the mountains are thousands of square kilometers of prairie plains that host the most productive agriculture in the region. South of the mountains lies a dank fungal forest that contains exotic and gargantuan mushrooms and other spore-based life… including the enigmatic myconids. The mountain range itself is a jagged ridge crowned by an active volcano that the native Irsan human peoples call "the Forge." Cheland's Irsan culture is the only democracy on the continent; their monarch is elected by popular vote to a six year term. The current queen is Rike Trubel, a rice farmer from the Lake Edi region.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
@@ -94,24 +96,16 @@ This land is a study in contrast. To the north, thousands of square kilometers o
 
 ### Reisian Principalities
 
-The seven island nations of the Reisian Principalities are the home of the halfling culture. Each island is its own sovereign nation, and each sends a delegation of representatives to the city of Hinshire on the island of Hinkios, where the Princes' Council sits. The Council manages relations between the islands and all foreign relations. The islands are:
-
-* Hinkios \(largest island, capital\)
-* Sokos
-* Taros
-* Raxos
-* Korfea
-* Phodes
-* Icalonia
+An archipelago of seven islands off the southeast coast of Osenia, the Reisian Principalities are the political homeland of the halfling peoples. The islands were granted to their first leader, Reis the Grand Explorer, as a boon for her intrepid expedition to map the entirety of the continent. The Principalities are seven independent states that trade and negotiate with each other as others do, while interacting as a single nation with other countries. The seven islands are Hinkios, Sokos, Taros, Raxos, Korfea, Phodes, and Icalonia. Their low latitude and tropical climate make the islands a destination for well-heeled tourists, sea- and air-going merchants, and explorers of all kinds. Their capital, Hinshire upon the big island of Hinkios, is a major port for trade with the halflings, orcs, Cheland and northern Osenia.
 
 | 1d6 Roll | Background | Focus |
 | :---: | :---: | :---: |
-| 1 | TBD | TBD |
-| 2 | TBD | TBD |
-| 3 | TBD | TBD |
-| 4 | TBD | TBD |
-| 5 | TBD | TBD |
-| 6 | TBD | TBD |
+| 1 | Explorer | Perception \(Searching\) or Intelligence \(Cartography\) |
+| 2 | Sailor | Constitution \(Drinking\) or Dexterity \(Sailing\) |
+| 3 | Merchant | Communication \(Bargaining\) or Communication \(Deception\) |
+| 4 | Criminal | Communication \(Deception\) or Dexterity \(Lock Picking\) |
+| 5 | Guilder | Communication \(Etiquette\) or Dexterity \(Crafting\) |
+| 6 | Innkeeper | Communication \(Bargaining\) or Perception \(Empathy\) |
 
 ## Background Descriptions
 

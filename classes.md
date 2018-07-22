@@ -20,14 +20,37 @@ Music is magical, figuratively and literally. What separates the bard from a com
 
 **Starting Health**: 20 + Constitution + 1d6
 
-**Weapon Groups**: Blasters\*, Bows, Brawling, Light Blades, Staves
+**Weapon Groups**: Blaster Pistols, Bows, Brawling, Light Blades, Staves
+
+**Class Cross-Training**: For the purpose of taking talents, you are both a Mage and a Rogue.
+
+| Level | Class Powers | New Talent| Spec. Talent |
+|:---:|:---|:---:|:---:|
+|1|Bard Song: *Song of Valor*, Magic Training, Performer's Tumble|-|-|
+|2|Stunt Bonus: *Taunt*|-|-|
+|3|-|Yes|-|
+|4|-|-|Yes|
+|5|Stunt Bonus: *Sway the Crowd*|Yes|-|
+|6|Bard Song: *Song of Friendship*|-|Yes|
+|7|-|Yes|-|
+|8|Bard Song: *Song of Captivation*|-|Yes|
+|9|Stunt Bonus: *Tower of Will*|Yes|-|
+|10|Expertise|-|-|
+|11|-|Yes|-|
+|12|Inspire|-|Yes|
+|13|Stunt Bonus: *Skillful Casting*|Yes|-|
+|14|-|-|Yes|
+|15|Bard Song: *Song of Arcanum*|Yes|-|
+|16|-|-|Yes|
+|17|-|Yes|-|
+|18|Captivate the Masses|-|-|
+|19|-|Yes|-|
+|20|Epic Bard|-|-|
 
 #### Level 1
 **Bard Song**: You are able to work magic through your music. With an Activate action, you may choose one song that you've learned to perform and enter Bard Song. While your Bard Song is active, you gain the benefits of the song and you are treated as having an arcane device for the purposes of casting spells. Ending Bard Song is a free action.
 
 **Bard Song: *Song of Valor***: While *Song of Valor* is active, allies within 12 yards of you that can both see and hear you gain a +1 bonus on attack roll.
-
-**Class Cross-Training**: For the purpose of taking talents, you are both a Mage and a Rogue.
 
 **Magic Training, Bard**: You weave the arcane forces of the world with your music. You may choose two magic talents from the limited list of Bard Arcana. You also use Communication (instead of Willpower) for calculating Spellpower, regaining MP, and determining spell effects. Bards are free to choose new magic talents (or advance a degree in an existing one) at any level that grants the New Talent perk.
 
@@ -46,57 +69,57 @@ Music is magical, figuratively and literally. What separates the bard from a com
 
 You gain more magic points as you rise in level. From levels 2 through 10, you gain Communication + 1d6 magic points whenever you level. From levels 11 to 20, you gain only your Communication in MP, because increasing your power reserves at higher levels is not easy.
 
-**Performer's Tumble**: You can prepare yourself to dodge an attack. Using a Ready action, you may add your Dexterity to you Defense until the start of your next turn. If you have the Dexterity (Acrobatics) focus, you may add your Dexterity + 2 to your Defense instead.
+**Performer's Tumble**: You can prepare yourself to dodge an attack. Using a Ready action, you may add your Dexterity to you Defense until the start of your next turn. If you have the Dexterity (Acrobatics) focus, you may add your focus bonus (+2 or +3) to your Defense as well.
 
 **Starting Talents**: You start as a Novice in Music. You also become a Novice in one of the following talents: Command, Intrigue, or Oratory.
 
 #### Level 2
-**Stunt Bonus**: Your biting wit gets the better of your foes. You may perform the Taunt stunt for 1 stunt point instead of 2.
+**Stunt Bonus: *Taunt***: Your biting wit gets the better of your foes. You may perform the Taunt stunt for 1 SP instead of 2.
 
 #### Level 3
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 4
-**New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
+**New Specialization**: You may choose one specialization for your class. You gave the Novice degree of its specialization talent.
 
 #### Level 5
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
-**Stunt Bonus**: You know how to work a room. You can perform the  Sway the Crowd stunt for 1 stunt point instead of the usual 2.
+**Stunt Bonus: *Sway the Crowd***: You know how to work a room. You can perform the  Sway the Crowd stunt for 1 stunt point instead of the usual 2.
 
 #### Level 6
-**New Specialization Talent**: You gain the Journeyman degree of the specialization talent you gained at level 4.
-
 **Bard Song: *Song of Friendship***: You and your allies gain a +1 bonus to Communication tests that require the Etiquette, Investigation, Persuasion or Seduction focuses while Bard Song is active.
+
+**New Specialization Talent**: You gain the Journeyman degree of the specialization talent you gained at level 4.
 
 #### Level 7
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 8
-**New Specialization Talent**: You gain the Master degree of the specialization talent you gained at level 4.
-
 **Bard Song: *Song of Captivation***: Once per round while Bard Song is active, you may use a Major action to attempt to captivate one enemy within 16 yards who can both see and hear you. This is an opposed test of your Communication (Performance) versus the target's Willpower (Self-Discipline). If you succeed, the target can take no actions on their next turn.
 
+**New Specialization Talent**: You gain the Master degree of the specialization talent you gained at level 4.
+
 #### Level 9
+**Stunt Bonus: *Tower of Will***: You are not easily flustered. You can perform the Tower of Will stunt for 3 stunt points instead of the usual 4.
+
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
-**Stunt Bonus**: You are not easily flustered. You can perform the Tower of Will stunt for 3 stunt points instead of the usual 4.
-
 #### Level 10
-Expertise: You add your ability focus to the Stunt Die whenever you or an ally within sight is performing an ability test in which you have the ability focus as part of an advanced test.
+**Expertise**: You add your ability focus to the Stunt Die whenever you or an ally within sight is performing an ability test in which you have the ability focus as part of an advanced test.
 
 #### Level 11
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 12
-**New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
-
 **Inspire**: Once per combat encounter, you may use a Minor action to give one ally who can see and hear you a 1d6 bonus to their next ability test.
 
-#### Level 13
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
+**New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
 
-**Stunt Bonus**: Casting spells has become second-nature to you, and it now expends less of your magical energy. When casting a spell, you can perform the Skillful Casting stunt for 1 SP instead of the usual 2.
+#### Level 13
+**Stunt Bonus: *Skillful Casting***: Casting spells has become second-nature to you, and it now expends less of your magical energy. When casting a spell, you can perform the Skillful Casting stunt for 1 SP instead of the usual 2.
+
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 14
 **New Specialization Talent**: You gain the Journeyman degree of the specialization talent you gained at level 12.
@@ -122,7 +145,7 @@ Expertise: You add your ability focus to the Stunt Die whenever you or an ally w
 #### Level 20
 **Epic Bard**: Pick one type of stunt: Combat, Exploration or Roleplaying. You gain a permanent +1 bonus when generating stunt points of that type.
 
-### Bard Specializations
+## Bard Specializations
 
 #### Chronicler
 You are a historian, scribe, and proficient forger.
@@ -168,11 +191,34 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 
 **Starting Health**: 30 + Constitution + 1d6
 
-**Weapon Groups**: Blaster Pistols\*, Brawling, Curved Blades\*,Dueling, Light Blades, Staves
+**Weapon Groups**: Blaster Pistols, Brawling, Curved Blades, Dueling, Light Blades, Staves
 
-#### Level 1
 **Class Cross-Training**: For the purpose of taking talents, you are both a Rogue and a Warrior.
 
+| Level | Class Powers | New Talent| Spec. Talent |
+|:---:|:---|:---:|:---:|
+|1|Canny Defense, Weapon Finesse|-|-|
+|2|New Ability Focus|-|-|
+|3|-|Yes|-|
+|4|-|-|Yes|
+|5|Daring Charge|Yes|-|
+|6|Stunt Bonus: *With A Flourish*|-|Yes|
+|7|Challenge|Yes|-|
+|8|-|-|Yes|
+|9|-|Yes|-|
+|10|En Garde|-|-|
+|11|-|Yes|-|
+|12|Unavoidable Challenge|-|Yes|
+|13|Deadly Blow|Yes|-|
+|14|-|-|Yes|
+|15|Riposte|Yes|-|
+|16|-|-|Yes|
+|17|-|Yes|-|
+|18|Perfect Thrust|-|-|
+|19|-|Yes|-|
+|20|Epic Swashbuckler|-|-|
+
+#### Level 1
 **Canny Defense**: You use trickery and mobility to outwit your enemies. While unarmored and not using a shield, you receive +2 Defense.
 
 **Weapon Finesse**: While wielding an Accuracy-based melee weapon, add a bonus 1d6 to your damage rolls with that weapon. You also add your Dexterity or Strength to melee damage rolls, whichever is greater.
@@ -180,7 +226,7 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 **Starting Talents**: You become a Novice in one of the following talents: Dual Weapon Style, Single Weapon Style, or Thrown Weapon Style.
 
 #### Level 2
-New Ability Focus: You gain one of the following ability focuses: Communication (Etiquette), Dexterity (Riding), or Strength (Jumping).
+**New Ability Focus**: You gain one of the following ability focuses: Communication (Etiquette), Dexterity (Riding), or Strength (Jumping).
 
 #### Level 3
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
@@ -189,19 +235,19 @@ New Ability Focus: You gain one of the following ability focuses: Communication 
 **New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
 
 #### Level 5
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
-
 **Daring Charge**: When you take the Charge action, you gain a +2 on the attack roll instead of the usual +1.
 
-#### Level 6
-**New Specialization Talent**: You gain the Journeyman degree in the specialization talent you gained at level 4.
-
-**Stunt Bonus**: You know how to make an impression. You can perform the With A Flourish stunt for 3 stunt points instead of the usual 4.
-
-#### Level 7
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
+#### Level 6
+**Stunt Bonus: *With a Flourish***: You know how to make an impression. You can perform the With A Flourish stunt for 3 stunt points instead of the usual 4.
+
+**New Specialization Talent**: You gain the Journeyman degree in the specialization talent you gained at level 4.
+
+#### Level 7
 **Challenge**: You throw down the gauntlet against a foe during combat. Use an Activate action to Challenge one enemy you can see. You deal a bonus 1d6 damage on your attacks against that target. However, against all other opponents you suffer a -1 penalty to attack rolls and Defense. Ending Challenge is a free action.
+
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 8
 **New Specialization Talent**: You gain the Master degree of the specialization talent you gained at level 4.
@@ -210,28 +256,28 @@ New Ability Focus: You gain one of the following ability focuses: Communication 
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 10
-**En Garde**: You know that a good defense is a great offense. After you Defend or Guard Up, you can make a melee attack as a free action when an enemy moves to be adjacent to you or moves away from you. This attack *cannot* generate stunt points, and you only add half your Dexterity or Strength (rounded down) to damage if Weapon Finesse applies.
+**En Garde**: You've learned that the best defense is a great offense. After you Defend or Guard Up, you can make a melee attack as a free action when an enemy moves to be adjacent to you or moves away from you. This attack *cannot* generate stunt points, and you only add half your Dexterity or Strength (rounded down) to damage if Weapon Finesse applies.
 
 #### Level 11
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 12
-**New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
-
 **Unavoidable Challenge**: You deny a challenged foe any opportunity to escape. You may Press the Attack as a free action against the target of your Challenge.
 
-#### Level 13
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
+**New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
 
+#### Level 13
 **Deadly Blow**: You know how to capitalize on critical strikes. The extra damage dealt by Might Blow and Lethal Blow stunts is treated as penetrating damage.
+
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 14
 **New Specialization Talent**: You gain the Journeyman degree of the specialization talent you gained at level 12.
 
 #### Level 15
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
-
 **Riposte**: Once per round as a free action you may make a melee attack when an opponent misses you with a melee attack. This attack cannot generate stunt points, and you only add half your Dexterity or Strength (rounded down) to damage if Weapon Finesse applies.
+
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 16
 **New Specialization Talent**: You gain the Master degree in the specialization talent you gained at level 12.
@@ -298,9 +344,9 @@ To become a priest, one must simply profess faith. To become a templar, you have
 
 **Weapon Groups**: Bows, Brawling, Staves, Bludgeons
 
-#### Level 1
 **Class Cross-Training**: For the purpose of taking talents, you are both a Mage and a Warrior.
 
+#### Level 1
 **Magic Training, Templar**: Your magic springs from your faith. You begin play with a single magic talent and you gain the Novice degree of that talent, granting you two spells. For example, a templar of Dynu the Valorous can choose the Power, Warding or Heroic Arcana.
 
 **Magic Points, Templar**: You start with a number of magic points equal to 5 + Willpower + 1d6. You spend magic points when you cast spells. You regain them through prayer.
@@ -317,18 +363,20 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 #### Level 3
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
+
+
 #### Level 4
 **New Specialization**: You may choose one specialization for your class. You gain the Novice degree in its specialization talent.
 
 #### Level 5
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
-
 **Prayer**: Your faith restores your magical powers. After resting for 5 minutes, you can attempt a TN 15 Willpower (Faith) test. On success, regain magic points equal to the Stunt Die + your Willpower.
 
-#### Level 6
-**New Specialization Talent**: You gain the Journeyman degree in the specialization talent you gained at level 4.
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
-**Improved Armor Casting**: You reduce the amount of strain for casting spells in armor by 4.
+#### Level 6
+**Improved Armored Casting**: You reduce the amount of strain for casting spells in armor by 4.
+
+**New Specialization Talent**: You gain the Journeyman degree in the specialization talent you gained at level 4.
 
 #### Level 7
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
@@ -359,9 +407,9 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 **New Specialization Talent**: You gain the Journeyman degree of the specialization talent you gained at level 12.
 
 #### Level 15
-**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
-
 **Smite**: You channel all your magical energy into a single attack. On a successful attack, you may expend *all* your magic points to add +1 damage for every magic point spent. If you are wielding a two-handed weapon, add +2 for ever MP spent. Your weapon is also treated as a magic weapon for this attack.
+
+**New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 16
 **New Specialization Talent**: You gain the Master degree in the specialization talent you gained at level 12.
@@ -415,3 +463,15 @@ You are the embodiment of divine justice. Those who have sinned in the eyes of y
 **Journeyman**: You are adept at pursuit. If you fail a Perception (Tracking) test, you can re-roll it. You must keep the results of the second roll.
 
 **Master**: Your enemies may run, but they cannot hide. With an Activate action, spend 3 MP to remove any penalty to your attack against your Quarry due to cover.
+
+## Changes to Basic Classes
+
+### Mage
+* The Mage class covers both traditional arcane sorcery as well as divine magic channeled from gods, goddesses, and other powerful transmortal beings.
+* Players who wish to play a cleric or priest of a specific deity or transmortal entity are restricted to that entity's favored arcana until Level 10. The gods' favored arcana are listed in [*Gods & Religions*](#p30)
+
+### Rogue
+* Starting weapon groups have changed to: Blaster Pistols, Brawling, Light Blades, Staves, and either Blaster Longarms or Bows.
+
+### Warrior
+* Starting weapon groups have changed to: Brawling, plus any four of the following: Axes, Blaster Pistols, Blaster Longarms, Bludgeons, Bows, Heavy Blades, Light Blades, Spears or Staves.
