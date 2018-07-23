@@ -79,7 +79,7 @@ N'er is an eternal child, which is a jarring juxtaposition with his eon-spanning
 ## Enakoh
 *God of Life*
 
-**Favored Arcana** Beast, Healing Wood
+**Favored Arcana** Beast, Healing, Wood
 
 ## Abasys
 *Goddess of Death*
@@ -99,7 +99,7 @@ N'er is an eternal child, which is a jarring juxtaposition with his eon-spanning
 ## Mym
 *Goddess of Luck*
 
-**Favored Arcana** Fate, Healing, Illusions
+**Favored Arcana** Fate, Healing, Illusion
 
 ## Gur
 *Goddess of War*

@@ -1,13 +1,14 @@
 # Classes
 
-In addition to the three basic classes detailed in the *Fantasy AGE Basic Rulebook*, Yewdar introduces three new classes that add options and flavor for players as they decide how they wish to adventure in this world.
+Yewdar introduces three new classes that add options and flavor for players as they decide how they wish to adventure in this world. Expanding up on the concept of multi-classing found in other RPG systems, Yewdar adds a trio of hybrid classes that blend the concepts of the three core classes: the Bard, the Swashbuckler, and the Templar. Rules are included to provide for playing these hybrid classes to level 20, as well as three specializations for each class that reflect more specific character concepts and abilities.
 
-Expanding up on the concept of multi-classing found in other RPG systems, Yewdar adds a trio of hybrid classes that blend the concepts of the three core classes: the Bard, the Swashbuckler, and the Templar. Rules are included to provide for playing these hybrid classes to level 20, as well as three specializations for each class that reflect more specific character concepts and abilities.
+Yewdar is also home to the three basic classes detailed in the *Fantasy AGE Basic Rulebook*, but with minor modifications.
 
 ## Table of Contents
 - [Bard](#bard)
 - [Swashbuckler](#swashbuckler)
 - [Templar](#templar)
+- [Changes to Basic Classes](#changes-to-basic-classes)
 
 <a name="bard"></a>
 ## Bard
@@ -267,7 +268,7 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 **New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
 
 #### Level 13
-**Deadly Blow**: You know how to capitalize on critical strikes. The extra damage dealt by Might Blow and Lethal Blow stunts is treated as penetrating damage.
+**Deadly Blow**: You know how to capitalize on critical strikes. The extra damage dealt by Mighty Blow and Lethal Blow stunts is treated as penetrating damage.
 
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
@@ -362,8 +363,6 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 
 #### Level 3
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
-
-
 
 #### Level 4
 **New Specialization**: You may choose one specialization for your class. You gain the Novice degree in its specialization talent.
