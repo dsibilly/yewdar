@@ -53,7 +53,7 @@ _The Merciful, Lady of Light, Highmatron_
 
 **Symbol**: A winged golden circle
 
-**Portfolio**: Mercy, healing, compassion
+**Portfolio**: Healing, compassion, the moon
 
 **Appearance**: A stately woman of indeterminate race with an ephemeral pair of wings emanating from her back.
 
@@ -77,12 +77,24 @@ _Keeper of the Allsaga, Chronicler, He Who Walks All Paths_
 N'er is an eternal child, which is a jarring juxtaposition with his eon-spanning vision. He is the chronicler of the gods, recording all events in the journal Allsaga. Some followers of N'er maintain that the deity *is* the Allsaga, and any other manifestations are merely expressions of the Allsaga's desire to witness all events in all timelines.
 
 ## Enakoh
-*God of Life*
+_Enkindler, Life-Binder, Breath of Life_
 
-**Favored Arcana** Beast, Healing, Wood
+**Symbol**: A green flame
+
+**Portfolio**: Living things, fertility, the sun
+
+**Appearance**: An old elven man clad in green, with a long flowing brown beard.
+
+**Favored Arcana**: Beast, Healing, Wood
 
 ## Abasys
-*Goddess of Death*
+_Matron of Souls, Deathwarden, Keeper of the Endless Halls_
+
+**Symbol**: A gnarled scythe in a white doorway
+
+**Portfolio**: Death, the afterlife, souls, identity
+
+**Appearance**: A young elven woman in a black, hooded robe. Her eyes are empty sockets.
 
 **Favored Arcana** Death, Cold, Fire
 
