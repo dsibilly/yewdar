@@ -1,5 +1,11 @@
 # Apex: Jewel of Laurentia
 
+- [A Visitor's Guide](#avisitorsguide)
+- [What Brings You To Apex?](#whatbringsyoutoapex)
+- [City Architecture](#cityarchitecture)
+- [Getting Where You're Going](#gettingwhereyouregoing)
+
+<a name="avisitorsguide"></a>
 ## A Visitor's Guide
 
 Apex, the largest city on the continent of Osenia and a defining location in the nation of Laurentia, looms atop a high, broad mesa near the heart of the Laurentian Plains. The City of Flight rises high above the plain below, growing upward within the limited space available on the plateau.
@@ -24,6 +30,7 @@ A long wall rings **Drakesdown** at its lowest level, interrupted by towers alon
 
 **Nadir** is the beating heart of Apex, full of mines and caverns, foundries and forges that turn the valuable ores beneath the city into the products that bring it prosperity. Much of the wealth beneath Apex is from vast deposits of arcanathyst crystal, but there are also veins of iron and mithril that make conventional mining and smelting a popular business venture. Occassionally a mining expedition might even uncover natural caverns or ancient ruins buried by the passing of centuries.
 
+<a name="whatbringsyoutoapex"></a>
 ## What Brings You to Apex?
 
 The sheer size of the city, the maze of bridges among the towers, and the bewildering array of goods and services available can quickly overwhelm first-time visitors to Apex. Adventurers usually come to the city with a specific purpose in mind, to get one thing done. Whether it's to sell a magic item or spend an enjoyable evening (and a good portion of loot from their last adventure) out on the town, adventurers in a hurry need to know where to go to get what they need, or they could spent a lot of time wandering the maze that is the Jewel of the Plains.
@@ -65,6 +72,7 @@ Dining clubs provide a popular form of social circle, particularly in upper-clas
 
 Finally, characters can always find others who share their specific interests. Social groups based on kith, ethnicity, or region exist in almost every neighborhood; trade and craft guilds offer social contact for their members; and Yentis University hosts academic societies with a wide variety of interests and specialties.
 
+<a name="cityarchitecture"></a>
 ## City Architecture
 Apex consists of a number of common elements that take on amazing proportions within the city's dizzying heights.
 
@@ -100,6 +108,7 @@ Bridges in the Upper and Middle levels are also warded with permanent _wind net_
 
 A popular magic item among those that can afford one is a _wind net talisman_, a single-use item containing a _wind net_.
 
+<a name="gettingwhereyouregoing"></a>
 ## Getting Where You're Going
 Travel in Apex can be unpredictable. Residents joke that it takes about an hour to get anywhere, whether it's just down three levels in the same tower or all the way across town. Of course, skycarriages reduce the time dramatically compared to walking from place to place, and characters who really know their way around (as well as characters who are willing to ask for directions frequently along the way) can get to their destinations more quickly than newcomers who refuse to display their ignorance.
 
