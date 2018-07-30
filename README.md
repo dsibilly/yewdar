@@ -1,4 +1,4 @@
-# Yewdar Player's Guide (v0.3.3)
+# Yewdar Player's Guide (v0.3.4)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
@@ -24,7 +24,7 @@ Much of this progress is driven by an enigmatic mineral known as arcanathyst. Su
 
 ## **Tone and Attitude**
 
-This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm [Drakon](/kith.md#drakon) or an altruistic vampire.
+This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm Drakon or an altruistic vampire.
 
 ## **A World of High Magic**
 
