@@ -64,3 +64,63 @@ Companionship of a less carnal nature can be found as well. Adventurers might we
 Dining clubs provide a popular form of social circle, particularly in upper-class neighborhoods. A large number of such clubs flourish in Upper and Middle Drakesdown, Upper Southington, Upper Reis' Landing, Upper Tasma Plateau, and the Liaran Shipyards. Dining clubs are open to members only, offering a fine dining experience among an intimate circle of social peers.
 
 Finally, characters can always find others who share their specific interests. Social groups based on kith, ethnicity, or region exist in almost every neighborhood; trade and craft guilds offer social contact for their members; and Yentis University hosts academic societies with a wide variety of interests and specialties.
+
+## City Architecture
+Apex consists of a number of common elements that take on amazing proportions within the city's dizzying heights.
+
+### Towers
+The towers of Apex range in height from 30 meters to nearly a _mile_ tall. Their basic construction is that of a traditional stone building, though. Extensive magics go into their construction, from the spells used to lift blocks of stone to such enormous heights to the magic that strengthens and supports the towers, allowing them to stand despite all probability. Even with such magic in place, the towers tend to be broad at the bottom and narrow at the top. Several towers are topped with elegant spires or domes, while others are crowned with flat platforms that hold parks, pools, estates, or even stadiums. The surface of the plateau has been swallowed up as towers were built upward and lower walls thickened to the point that many towers have merged their foundations, becoming a solid maze of walls intersecting with no observable pattern.
+
+Most towers are roughly 250 to 750 meters in diameter at the bottom, narrowing to 60 to just under 200 meters at the top. Some have narrower spires extending farther upward.
+
+Every tower is built of magically reinforced stone. Generally towers have one story per 3-4 meters of height. Ceilings tend to be lower (and stories packed closer together) at lower levels and higher toward the top levels, but there are exceptions (e.g., warehouse towers usually have universally high ceilings.) Stories might also be subdivided: popular residential designs feature an open courtyard, 6 meters or more in height, surrounded by two-story homes built as if hanging off the wall of the tower. Most towers are studded with balconies, riddled with windows, and connected to neighboring towers with bridges.
+
+### Balconies
+Balconies range from simple ledges with guardrails where a homeowner can step outside to enjoy the view, to large platforms where skycarriages can land to discharge passengers. Most towers have at least one balcony per story; many have more, at least at certain levels. Flying is so prevalent in the city that any balcony is a potential entry-point to a tower. Balconies opening into businesses or residences can be secured by some means, ranging from a simple door or portcullis to magical means. A large number of balconies, especially the larger ones, open into public space.
+
+### Streets
+Streets run through the towers of Apex, allowing horses, mules, and wagons to travel in a fairly normal fashion within the city. Unlike the streets of a typical city, most of those streets are broad boulevards instead of twisting alleyways, either suspended high above the ground, arcing around towers, or constructed through the center of a tower or other building.
+
+Because the streets of Apex are almost entirely indoors, most are artificially lit with arcanathyst torches or glow rods. The upper levels of the city tend to have the best lighting, while torches in Nadir are spaced so far apart as to leave large swathes of darkness.
+
+### Bridges
+Most bridges connect the streets running through the towers, allowing wagons and pedestrians to cross from one spire to the next. They are generally as wide as the streets. Low walls along the edges of bridges prevent people from falling accidentally. Major bridges can be as wide as 15 meters across, and may have structures build into their edges, crowding the roadway down to 3-4 meters. Such bridges are popular sites for street faires and bazaars.
+
+Many narrower bridges span the gaps between towers as well, not designed for carrying vehicle traffic but for pedestrian passage. These bridges are 2-4 meters wide and almost always have low walls or railings.
+
+### Lifts
+One of the most important uses of magic in Apex is the creation of magic lifts to allow vertical travel between levels of towers. Particularly at lower levels, ramps wind around the inside and outside of large towers to get wagons from level to level. However, at higher levels specially designed levitation devices carry passengers and cargo up and down within the towers.
+
+### Falling
+Falling from potentially deadly heights presents a constant danger in Apex City. Whether a character is pushed over the side of a bridge, knocked from a skycarriage, or thrown off a balcony, the sudden stop far below can have deadly consequences. Fortunately, Apex has precautions in place to reduce the number of deaths that result from falls.
+
+The city guard offers a standard reward of 100 silver to any spellcaster who casts _wind net_ on a falling person. The reward is large enough, and the risk of falling high enough, that spellcasters who have access to the Wind Arcana almost always learn _wind net_. Watch patrols usually carry a _wand of wind net_, but few members of the city guard have sufficient practice to use it well.
+
+Bridges in the Upper and Middle levels are also warded with permanent _wind net_ effects to protect those using them from falling bodies and other large objects. Such wards are triggered automatically when an object comes within 10 meters of the top or sides of a bridge.
+
+A popular magic item among those that can afford one is a _wind net talisman_, a single-use item containing a _wind net_.
+
+## Getting Where You're Going
+Travel in Apex can be unpredictable. Residents joke that it takes about an hour to get anywhere, whether it's just down three levels in the same tower or all the way across town. Of course, skycarriages reduce the time dramatically compared to walking from place to place, and characters who really know their way around (as well as characters who are willing to ask for directions frequently along the way) can get to their destinations more quickly than newcomers who refuse to display their ignorance.
+
+If it becomes important to know how long it takes to get from one place to another, use the following rules of thumb:
+
+### Foot Travel
+
+|  Destination  |  Travel Time  |
+| :------------ | ------------: |
+| Same Ward |  3d6 minutes  |
+| Same District     |  6d6 minutes  |
+| Adjacent District | 3d6x5 minutes |
+| Farther than Adjacent District | 6d6x5 minutes |
+
+### Flying Travel
+
+| Destination | Travel Time |
+| :---------- | ----------: |
+| Same Ward | 1d6 minutes |
+| Same District | 2d6 minutes |
+| Adjacent District | 1d6x5 minutes |
+| Farther than Adjacent District | 2d6x5 minutes |
+
+A party can reduce their travel time by half if one character makes a successful TN 13 Intelligence (Navigation) or Communication (Investigation) test.
