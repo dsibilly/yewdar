@@ -1,4 +1,4 @@
-# Yewdar Player's Guide (v0.3.1)
+# Yewdar Player's Guide (v0.3.2)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
@@ -24,7 +24,7 @@ Much of this progress is driven by an enigmatic mineral known as arcanathyst. Su
 
 ## **Tone and Attitude**
 
-This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm Drakon or an altruistic vampire.
+This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm [Drakon](/kith.md#drakon) or an altruistic vampire.
 
 ## **A World of High Magic**
 
@@ -32,7 +32,7 @@ The setting presupposes a world that developed not through scientific advancemen
 
 ## **A World of Adventure**
 
-From the steaming jungles of Hol Khozet to the towering spires of Apex City, to the blasted badlands of the Cthene Wastes, Yewdar is a world of action and adventure. Adventures can and _should_ draw heroes from one exotic locale to another across nations and continents. Via magical transportation, heroes can reach a wider range of environments over the course of an adventure, bringing them into contact with a wide variety of monsters and challenges.
+From the steaming jungles of Hol Khozet to the towering spires of [Apex City](/apex-city.md), to the blasted badlands of the Cthene Wastes, Yewdar is a world of action and adventure. Adventures can and _should_ draw heroes from one exotic locale to another across nations and continents. Via magical transportation, heroes can reach a wider range of environments over the course of an adventure, bringing them into contact with a wide variety of monsters and challenges.
 
 ## **New Races (Kith)**
 
