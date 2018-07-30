@@ -24,7 +24,7 @@ Much of this progress is driven by an enigmatic mineral known as arcanathyst. Su
 
 ## **Tone and Attitude**
 
-This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm [Drakon](/kith.md#drakon) or an altruistic vampire.
+This world combines traditional medieval fantasy and swashbuckling action plus dark adventure. There are no "black and white" absolutes; in fact, the very concept of alignments do not exist in Yewdar. Nothing is ever quite what it seems: the fantasy stereotypes are blurred, and it's possible to encounter a nefarious valorwyrm Drakon or an altruistic vampire.
 
 ## **A World of High Magic**
 
