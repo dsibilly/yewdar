@@ -175,3 +175,15 @@ Arcanathyst's ability to store magical energy for long periods of time and for l
 |Arc-LY|  10   |10 sp |
 |Arc-MY|  20   |25 sp |
 |Arc-HY|  50   |100 sp|
+
+### Wondrous Items
+
+#### Arcanathyst Cake (Consumable)
+
+![](/assets/arcanathyst_cake.jpg)
+
+**Use**: Eating a slice of arcanathyst cake grants the consumer 1d6 MP, regardless of class. Non-spellcaster classes receive these magic points as temporary magic points that last until the venue changes or the end of the current encounter; they may spent these MP as stunt points on any tests they make while they persist.
+
+**Side-effect**: Eating more than one slice of arcanathyst cake per day puts the consumer at risk of addiction. For each slice after the first, the consumer must succeed at a TN 13 Willpower (Self-Discipline) test or become mildly addicted. If addicted, the consumer must consume at least one slice daily for 1d6 days or suffer a -2 penalty to all tests. Sating the addiction immediately removes the penalty. They may attempt a TN 15 Willpower (Self-Discipline) or Constitution (Stamina) test daily to dispel the addiction and its negative side-effect.
+
+> “*The latest culinary innovation from Shurros, the arcanathyst cake is a rare treat. So light and fluffy it almost floats off the plate, it serves as a distinguished dessert for a more refined palate. This delicacy comes with a hefty price tag, but everyone this foodie has spoken to says it’s well worth it. I got to try this decadent cake last night at a benefit in Apex City, and it lifted my spirits in a way that will surely leave me wanting more in the days to come.*” -**Killian Erman**, food critic
