@@ -347,6 +347,29 @@ To become a priest, one must simply profess faith. To become a templar, you have
 
 **Class Cross-Training**: For the purpose of taking talents, you are both a Mage and a Warrior.
 
+| Level | Class Powers | New Talent| Spec. Talent |
+|:---:|:---|:---:|:---:|
+|1|Magic Training, Weapon of Faith|-|-|
+|2|Armored Casting|-|-|
+|3|-|Yes|-|
+|4|-|-|Yes|
+|5|Prayer|Yes|-|
+|6|Improved Armored Casting|-|Yes|
+|7|-|Yes|-|
+|8|-|-|Yes|
+|9|-|Yes|-|
+|10|Greater Armored Casting|-|-|
+|11|-|Yes|-|
+|12|Shield of Faith|-|Yes|
+|13|Battle Prayer|Yes|-|
+|14|-|-|Yes|
+|15|Smite|Yes|-|
+|16|-|-|Yes|
+|17|-|Yes|-|
+|18|Zeal|-|-|
+|19|-|Yes|-|
+|20|Epic Templar|-|-|
+
 #### Level 1
 **Magic Training, Templar**: Your magic springs from your faith. You begin play with a single magic talent and you gain the Novice degree of that talent, granting you two spells. For example, a templar of Dynu the Valorous can choose the Power, Warding or Heroic Arcana.
 
@@ -465,12 +488,86 @@ You are the embodiment of divine justice. Those who have sinned in the eyes of y
 
 ## Changes to Basic Classes
 
+*Note*: The tables below are provided as a handy reference for how the core classes defined in the *Fantasy AGE Basic Rulebook* work. For descriptions of the class powers and other class-specific data, please reference page 19 of the *Fantasy AGE Basic Rulebook*.
+
 ### Mage
+
+| Level | Class Powers | New Talent | Spec. Talent |
+|:---:|:---|:---:|:---:|
+|1|Arcane Blast, Arcane Device, Magic Training|-|-|
+|2|-|Normal|-|
+|3|-|Magic|-|
+|4|-|-|Yes|
+|5|-|Magic|-|
+|6|Spell Blast|-|Yes|
+|7|-|Magic|-|
+|8|Big Blast|-|Yes|
+|9|-|Magic|-|
+|10|Power Blast|Normal|-|
+|11|-|Magic|-|
+|12|-|-|Yes|
+|13|Stunt Bonus: *Lightning Attack*|Magic|-|
+|14|-|-|Yes|
+|15|-|Magic|-|
+|16|-|-|Yes|
+|17|-|Magic|-|
+|18|-|Normal|-|
+|19|-|Magic|-|
+|20|Epic Mage|Normal|-|
+
 * The Mage class covers both traditional arcane sorcery as well as divine magic channeled from gods, goddesses, and other powerful transmortal beings.
-* Players who wish to play a cleric or priest of a specific deity or transmortal entity are restricted to that entity's favored arcana until Level 10. The gods' favored arcana are listed in [*Gods & Religions*](#p30)
+* Players who wish to play a cleric or priest of a specific deity or transmortal entity are restricted to that entity's favored arcana until Level 10. The gods' favored arcana are listed in [*Gods & Religions*](#p30). Starting at Level 11, clerics and priests may select new Arcana Talents freely.
 
 ### Rogue
+
+| Level | Class Powers | New Talent | Spec. Talent |
+|:---:|:---|:---:|:---:|
+|1|Pinpoint Attack, Rogue's Armor|-|-|
+|2|Stunt Bonus: *Pierce Armor*|-|-|
+|3|-|Yes|-|
+|4|-|-|Yes|
+|5|Take Aim|Yes|-|
+|6|Stunt Bonus: *That Makes Me Wonder*|-|Yes|
+|7|Stunning Attack|Magic|-|
+|8|-|-|Yes|
+|9|-|Yes|-|
+|10|Lethality|-|-|
+|11|-|Yes|-|
+|12|Slippery|-|Yes|
+|13|Stunt Bonus: *With A Flourish*|Yes|-|
+|14|-|-|Yes|
+|15|Perforate|Yes|-|
+|16|-|-|Yes|
+|17|-|Yes|-|
+|18|Quick Shot|-|-|
+|19|-|Yes|-|
+|20|Epic Rogue|-|-|
+
 * Starting weapon groups have changed to: Blaster Pistols, Brawling, Light Blades, Staves, and either Blaster Longarms or Bows.
 
 ### Warrior
+
+| Level | Class Powers | New Talent | Spec. Talent |
+| :---: | :--- | :---: | :---: |
+|1|-|-|-|
+|2|New Ability Focus|-|-|
+|3|-|Yes|-|
+|4|New Weapon Group|-|Yes|
+|5|Stunt Bonus: *Dual Strike*|Yes|-|
+|6|-|-|Yes|
+|7|Stunt Bonus: *Threaten*|Yes|-|
+|8|New Weapon Group|-|Yes|
+|9|-|Yes|-|
+|10|Expert Strike|-|-|
+|11|-|Yes|-|
+|12|Veteran|-|Yes|
+|13|New Weapon Group|Yes|-|
+|14|-|-|Yes|
+|15|Quick Strike|Yes|-|
+|16|-|-|Yes|
+|17|-|Yes|-|
+|18|Stunt Bonus: *Enhanced Dual Strike*|-|-|
+|19|-|Yes|-|
+|20|Epic Warrior|-|-|
+
 * Starting weapon groups have changed to: Brawling, plus any four of the following: Axes, Blaster Pistols, Blaster Longarms, Bludgeons, Bows, Heavy Blades, Light Blades, Spears or Staves.

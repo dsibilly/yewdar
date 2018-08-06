@@ -1,19 +1,20 @@
-# Yewdar Player's Guide (v0.3.6)
+# Yewdar Player's Guide (v0.3.7)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
 ## Table of Contents
 
 * [Welcome to Yewdar](README.md)
-* [History](history.md)
-* [Political Regions](political_regions.md)
-* [Pantheon](gods-and-religion.md)
-* [Kith](kith.md)
-* [Backgrounds](backgrounds.md)
-* [Classes](classes.md)
-* [Character Options & Equipment](equipment.md)
-* [Dragons of the Realm](dragons.md)
+* [Creating A Yewdar Character](characters.md)
+    * [Kith](kith.md)
+    * [Backgrounds](backgrounds.md)
+    * [Classes](classes.md)
+    * [Character Options & Equipment](equipment.md)
 * [Marking the Passage of Time](calendar.md)
+* [History](history.md)
+    * [Pantheon](gods-and-religion.md)
+    * [Dragons of the Realm](dragons.md)
+* [Political Regions](political_regions.md)
 * [The Planes](planes.md)
 * [Apex City: The Jewel of the Plains](apex-city.md)
 
