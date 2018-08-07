@@ -176,6 +176,18 @@ Arcanathyst's ability to store magical energy for long periods of time and for l
 |Arc-MY|  20   |25 sp |
 |Arc-HY|  50   |100 sp|
 
+### Poisons
+
+Yewdar is home to a variety of substances (both natural and processed) that create deleterious effects for those that come into contact with them.
+
+**Crow's Wort**: Inflicts 1d6 penetrating damage against non-construct targets at the beginning of the target's next turn. Target may succeed at a TN 11 Constitution (Stamina) test to resist this damage.
+
+**Deathroot Extract**: Target must succeed at a TN 11 Willpower (Self-Discipline) test or experience hallucinations for 1d6 rounds. While hallucinating the target suffers a -2 penalty to attack rolls and defense. Every round while hallucinating the target may attempt a TN 13 Willpower (Self-Discipline) test to dispel the hallucinations.
+
+**Harrow Dust**: Target suffers a -2 penalty to Strength tests for 1d6 rounds. TN 13 Constitution (Stamina) test to resist.
+
+**Spider's Kiss**: Target is stunned for 1 round and may only take Minor actions on their turn.
+
 ### Wondrous Items
 
 #### Arcanathyst Cake (Consumable)
