@@ -1,4 +1,4 @@
-# Yewdar Player's Guide (v0.3.7)
+# Yewdar Player's Guide (v0.3.8)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
