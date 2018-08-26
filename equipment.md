@@ -77,8 +77,11 @@ You can use (and abuse) magical items with ease.
 **Master**: You are an experienced artificer. When making Intelligence (Artifice) tests as part of an advanced test, you gain a +1 bonus to the result of your Stunt Die. This allows you to reach the success threshold of the advanced test faster.
 
 ## Equipment
+
 ### New Weapons
+
 ##### Blaster Pistols (Accuracy)
+
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
 | Holdout Pistol | 1d6 | - | 30 sp |
@@ -92,19 +95,21 @@ You can use (and abuse) magical items with ease.
 **Heavy Blaster Pistol**: A large and obvious weapon. Requires one hand to use and expends 1 charge from an arcanathyst battery.
 
 ##### Blaster Longarms (Accuracy)
+
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
 | Blaster Sweeper | 2d6  | 0 | 60 sp |
 |Blaster Carbine  |2d6+2 | 0 |70 sp  |
 |Blaster Rifle    |3d6   | 1 |75 sp  |
 
-**Blaster Sweeoer**: A short-barreled weapon that fires a wide beam of energy a short distance, potentially damaging several targets. The blast is 6 yards long and 2 yards wide. Make a single attack roll when firing a blaster sweeper and compare it to the Defense of each target in the blast area. Stunts affect targets individually. A Mighty Blow, for example, would apply to _one_ target of your choice, not all targets in the blast. You cannot use Lightning Attack with a blaster sweeper, but you can Dual Strike. This weapon requires two hands to use and a single shot consumes 3 charges from an arcanathyst battery.
+**Blaster Sweeper**: A short-barreled weapon that fires a wide beam of energy a short distance, potentially damaging several targets. The blast is 6 yards long and 2 yards wide. Make a single attack roll when firing a blaster sweeper and compare it to the Defense of each target in the blast area. Stunts affect targets individually. A Mighty Blow, for example, would apply to _one_ target of your choice, not all targets in the blast. You cannot use Lightning Attack with a blaster sweeper, but you can Dual Strike. This weapon requires two hands to use and a single shot consumes 3 charges from an arcanathyst battery.
 
 **Blaster Carbine**: A light rifle that requires two hands to use. A single shot expends 1 arcanathyst battery charge.
 
 **Blaster Rifle**: A military weapon that fires a powerful blast of energy. It requires two hands to use and a single shot burns up 5 arcanathyst battery charges.
 
 ##### Curved Blades (Accuracy)
+
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
 | Cutlass | 1d6+2 | - | 15 sp |
@@ -120,6 +125,7 @@ You can use (and abuse) magical items with ease.
 
 
 ##### Flails (Fighting)
+
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
 | Flail | 2d6 | 1 | 16 sp |
@@ -133,6 +139,7 @@ You can use (and abuse) magical items with ease.
 **Two-Handed Flail**: A larger, heftier variant of flail. The haft can be as long as 5 feet. The head is often heavier, and the chain shorter. Typically used by infantry to unseat mounted cavalry.
 
 ##### Rope (Accuracy)
+
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
 | Garrote | Special | - | 8 sp |
@@ -148,6 +155,7 @@ You can use (and abuse) magical items with ease.
 
 
 ### Blaster Weapon Ranges
+
 | Weapon | Short Range | Long Range | Reload\* |
 |:-------|:-----------:|:----------:|:---------|
 | Blaster Carbine | 24 | 48 | Minor |
@@ -170,6 +178,7 @@ Arcanathyst's ability to store magical energy for long periods of time and for l
 **Arc-HY**: Made from only the purest arcanathyst, HY batteries take inordinate amounts of magical processing and resources to create. Due to demand on pure arcanathyst in other industries, batteries made from this material are rarely available for sale and are very expensive when found. It holds a maximum of 50 charges.
 
 ##### Arcanathyst Batteries
+
 | Gear |Charges| Cost |
 |:----:|:-----:|:-----|
 |Arc-LY|  10   |10 sp |
