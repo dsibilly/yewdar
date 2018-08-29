@@ -42,7 +42,7 @@ Whether characters are interested in viewing scholarly exhibits of the latest fi
 Characters bringing large amounts of valuable treasure from their latest adventure can find the banking services they need in the Upper Drakesdown ward. The dwarven House Axforge operates the largest bank in the city, the Axforge Bank of Apex, located at the top of Beryl Tower. The Gellidus district of Upper Drakesdown features nine other banks, as well as a number of moneychangers, lenders, and providers of other financial services.
 
 ### Setting up Shop
-Characters may wish to purchase a business or other space in the city. A poor shop (for trades or services) costs 2d6x100 silver, including rough shelves, a sales counter, and a back room for storage. An average shop costs 2d6x1000 silver, including polished wood floors, handsome shelves, a picture window, and glass cases. An upscale shop costs 4d6x1000 silver and has marble floors, locked display cases, leather chairs, and various other luxuries.
+Characters may wish to purchase a business or other space in the city. A poor shop (for trades or services) costs 2d6x100 silver, including rough shelves, a sales counter, and a back room for storage. An average shop costs 2d6x1000 silver, including polished wood floors, handsome shelves, a picture window, and glass cases. An upscale shop costs 4d6x1000 silver and has marble floors, locked display cases, leather chairs, and various other luxuries. In addition, all businesses must petition the city council for a Writ of Charter before beginning business operations.
 
 ### Communication
 Apex is a center for international trade, and communication is the lifeblood of commerce &mdash; not to mention being an important commodity in its own right.
@@ -133,3 +133,12 @@ If it becomes important to know how long it takes to get from one place to anoth
 | Farther than Adjacent District | 2d6x5 minutes |
 
 A party can reduce their travel time by half if one character makes a successful TN 13 Intelligence (Navigation) or Communication (Investigation) test.
+
+<a name="thelaw"></a>
+## The Law
+
+The specifics of how law enforcement functions in Apex City are a little blurry. The city government provides for a nominal city guard that patrols all public spaces: bridges, streets, open-air markets, and the airspace above and around the city. Their jurisdiction ends where private business begins, and by the new city code (passed in 8 Broken), any business entity granted a Writ of Charter by the city is responsible for its own security and may enforce their own regulations upon their property… provided that their laws do not contradict the code of the city itself.
+
+The general populace is positive on the city guard. Called the Tranquifex in a callback to the city's time under Kulturian rule, they do the best of a very demanding job with what resources they have. Their members tend to be hard-nosed but courteous and helpful to those who seek their help… but it may be a while before meaningful help can get to you in a crisis.
+
+The various corporate security forces, on the other hand, have a reputation for being strict disciplinarians. They are paid (usually quite well) to secure business interests. This typically doesn't dovetail with what's in the public interest, and even employees of a given company tend to be wary (at-best) of their own security force.
