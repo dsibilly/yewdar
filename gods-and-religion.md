@@ -87,6 +87,8 @@ _Enkindler, Life-Binder, Breath of Life_
 
 **Favored Arcana**: Beast, Healing, Wood
 
+Enakoh is the progenitor of life. He has a hand in making all mortal lifeforms, save for the drakon and talosan. He is ever-virile and intensely creative, but he is a poor caretaker. He finds joy in the act of creation, but not in tending to his creations. He leaves the care of nature and living things to his priests. Many of his followers are healers, doctors, apothecaries and the like. Some are dedicated to the wilder side of nature, tending to the untamed wilds and the creatures that dwell there. The Circle of the Dawn have power over beast and bough, and see to the wilds in ways only those initiated to its mysteries and cycles can.
+
 ## Abasys
 _Matron of Souls, Deathwarden, Keeper of the Endless Halls_
 
@@ -98,20 +100,28 @@ _Matron of Souls, Deathwarden, Keeper of the Endless Halls_
 
 **Favored Arcana** Death, Cold, Fire
 
+Abasys is goddess of death, of the afterlife and children. She is the ruler of the Endless Halls, where the souls of the deceased arrive when mortals perish. While death is her domain, she is no grim reaper. Abasys is an impartial judge of the dead, seeking only to ensure every living being comes to its timely end. She abhors the undead, seeing necromancy as a perversion of her domain. She has a special regard for children, particularly orphans. Many orphanages are funded at least in part by her clergy, and many of her followers were once orphans themselves.
+
 ## Meno
 *Goddess of Knowledge*
 
 **Favored Arcana** Divination, Power, Psychic
 
+Meno is goddess of knowledge. She is a diligent researcher and keeper of secrets. Her realm is the Infinite Library, a grand hall of learning that spans its own plane while also intersecting with Yewdar in a number of hidden locations. Meno does not have traditional temples. Instead, her chapels are found in libraries and schools around the world. Her clergy are found among devout researchers, sages, and teachers. Her dogma teaches her followers to always be learning, and to increase understanding of the world. In addition to knowledge for its own sake, Meno is goddess of wine and memory, law and silence.
+
 ## Jashus
-*God of Dreams*
+*God of Dreams, the Slumberer*
 
 **Favored Arcana** Air, Psychic, Shadow
+
+Jashus the Slumberer, god of dreams, explores the endless possibilities of thought and imagination wihtin his home plane of Vakaré. All mortal minds go to Vakaré when they sleep, whether they are dreaming or not, and the plane is known colloquially as the Dream Realm. While mortals are but nightly visitors to the Dream Realm, there are also native lifeforms there that form a bizarre ecosystem based on the psychic energy of dreamers. It is possible, though extremely rare, to physically enter Vakaré. Most of the native fauna take great exception to physical visitors, so those who do attempt to pass over would be well-advised to make adequate preparations! Jashus himself spends most of his existence in a dream of his own. It is said that the few times in history that he has been roused from his slumber have been moments of great and terrible change for Yewdar.
 
 ## Mym
 *Goddess of Luck*
 
 **Favored Arcana** Fate, Healing, Illusion
+
+Mym is Lady Luck, goddess of good fortune... and ill fortune as well. She is caprice personified, and her favor bestows serendipity as her disdain brings disaster. Her very presence bends the laws of probability to make very unlikely events... likely to occur. Her followers lead charmed lives that defy odds. Her clergy are found among daredevils, gamblers, explorers and thieves.
 
 ## Gur
 *Goddess of War*
@@ -123,7 +133,11 @@ _Matron of Souls, Deathwarden, Keeper of the Endless Halls_
 
 **Favored Arcana** Cold, Death, Shadow
 
+Perak is the god of pain and suffering. He delights in both inflicting and experiencing pain; he is both sadism and masochism incarnate. His followers tend to choose one path or the other. The Hunters of Pain, knowns as the Scmeryogr, actively seek out suffering. Some do this for their own satisfaction. Others retain some measure of stoic compassion and seek to endure pain on behalf of those who cannot or do not want to. The flip-side of the faithful are the Inflictors, called the Cadenghabe. These sadistic schemers glorify their patron by causing anguish however and whenever possible.
+
 ## Illirael
 *God of Trickery*
 
 **Favored Arcana** Fate, Healing, Illusion
+
+Illirael, Father of Lies, ever duplicitous, is the god of trickery. He is a master deceiver and illusionist. His worshipers invoke his name to bless a vast variety of acts, from thievery and scam to acting and business negotiations. Illirael himself is not exactly *mean-spirited* or malicious (though many of his followers *are*.) Rather, he delights in guile and crafty deception.
