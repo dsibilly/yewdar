@@ -76,6 +76,63 @@ You can use (and abuse) magical items with ease.
 
 **Master**: You are an experienced artificer. When making Intelligence (Artifice) tests as part of an advanced test, you gain a +1 bonus to the result of your Stunt Die. This allows you to reach the success threshold of the advanced test faster.
 
+## Resources
+
+An optional mechanic, borrowed from Modern AGE, is to replace characters' cash with a single Resources score. This score is a composite that represents a character's cash on hand, income, financial connections. The Resources score works like the nine ability scores in that it is the basis for Resources tests made when a character attempts to purchase goods or services.
+
+### Starting Resources
+
+A character's starting Resources score is based in part on their background. Over the course of play, a character's Resources score may decrease as a result of large expenditures or increase as they gain power and notoriety. A character's Resources score can never fall below -2, and it is unlimited as to how high it can become.
+
+Since Resources is an abstraction of wealth and material belongings, determining exactly how well-off a character is can be challenging. The Resources Score table provides a rough guide to what kind of lifestyle a given Resources score implies.
+
+| Resources Score | Financial Condition |
+| :-------------: | :-----------------: |
+| -2 to +0 | Serfdom |
+| +1 to +2 | Freeholder |
+| +3 to +5 | Tradesman |
+| +6 to +8 | Artisan |
+| +9 to +10 | Merchant |
+| +11 to +13 | Aristocrat |
+| +14 or higher | Royalty |
+
+### The Resources Test
+
+With the Resources score, determining whether you can afford a specific item or service becomes a test similar to those made against your ability scores: a 3d6 roll plus your Resources score. If your test result meets or exceeds the item's Resources target number, you successfully purchase it. If you fail, you cannot afford it at this time from this particular venue.
+
+#### Automatic Success
+
+If your Resources score + 4 is equal to or greater than the item's Resources TN, you automatically succeed. The cost of the item is trivial to one with your wealth. For example, a character with Resources +5 can purchase items up to Resources TN 9 without a test. The GM may set resonable limits on this, however; it is not intended to represent the ability to buy an infinite number of low-cost items!
+
+#### Resource Depletion
+
+If you successfully purchase something with a Resources TN greater than your Resources score + 10, your Resources score decreases by 1. This represents the significant depletion of your available Resources in order to acquire this valuable item or service. Note that your Resources score only decreases if you *succeed* at purchasing the item. Resource depletion never occurs when you fail a Resources test.
+
+#### Purchasing and Time
+
+Purchasing items with a Resources TN of 13 or higher may take additional time as the GM sees fit. This extra time represents the difficulty finding an available item of such value, and the negotiations involved in closing the transaction.
+
+#### Try Again?
+
+You can retry a failed Resources test, but you must spend a number of hours equal to the Resources TN of the item looking for another purchase opportunity. Your failure represents a lost opportunity at this specific time and with this specific seller; you need to spend time to line up another deal.
+
+#### Material Support
+
+One character may assist another with their purchase, but only if the assisting character's Resource score is equal to or greater than that of the purchasing character. The assisting character provides the purchaser with a +2 bonus on their Resources test to buy that item. If the item's Resource TN is above the assisting character's Resources score + 10, the assisting character depletes their Resources by 1 to represent the impact of such an expenditure.
+
+### Gaining Resources
+
+The GM may grant an increase to Resources at the end of an adventure where the characters acquired wealth. This is usually a +1 increase in a Resources score, though truly significant gains may be represented by a +2 increase.
+
+
+### Selling Items
+
+Characters will eventually want to sell a valuable item. Determine the item's value, which is equal to it's Resources TN - 1. If the item's value is greater than the seller's Resources, selling the item grants a +1 increase in Resources. If the item's value is 6 or more greater than the seller's Resources, selling the item grants a +2 increase.
+
+Illegal (or stolen) goods come with their own trouble, and are subsequently less valuable when attempting to sell them. Selling a stolen or illegal item reduces its value by 1, and the GM may require a Communication (Bargaining) test for the seller to avoid the notice of authoritities. Failure means the sale falls through, and there may be legal consequences for the seller!
+
+The GM should handle acquisition and sale of valuables acquired from adventures with a Resources award rather than managing the value and sale of individual items. This minimizes bookkeeping and streamlines gameplay.
+
 ## Equipment
 
 ### New Weapons
