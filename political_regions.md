@@ -1,5 +1,7 @@
 ## Political Regions
 
+The continent of Osenia is divided into multiple political regions. These political regions are listed below.
+
 * [Kulturia](#Kulturia)
 * [Laurentia](#Laurentia)
 * [The Reisian Principalities](#TheReisianPrincipalities)
@@ -7,6 +9,8 @@
 * [Grendia](#Grendia)
 * [Cheland](#Cheland)
 * [Cthene](#Cthene)
+
+![](/assets/osenia-political.png)
 
 ---
 
@@ -55,9 +59,12 @@ The vast jungles of Southern Osenia. While not an officially declared nation as 
 
 ![](/assets/Grendia.png)
 
+
 The Eternal Holdfast of Grendia-Under-The-Mountains, known colloquially as Grendia, is a massive surface and subterranean kingdom ruled over and populated by the dwarves of Yewdar. The nation, and the Grendian mountain range that spans it, bisects the continent of Osenia into western and eastern halves.
 
 Seven massive underground cities exist beneath the mountains, but few outsiders ever get to venture beneath the surface, as the dwarves are a gruff and private people. There are also a number of surface or hybrid settlements along the length of the mountain range, and these settlements tend to be more welcoming of outsiders (but not by much). In the southern reaches, surface settlements are more common, but there are frequent skirmishes between the orc clans of Hol Khozet and the dwarf clans of Grendia.
+
+![](/assets/osenia_closeup.jpg)
 
 The center of Grendian political life is in Rockhome, ancestral home of the Axforge clan and situated south of the mountain passes that link the Great Osenian Highroad between Fort Dori in Kulturia and The Anvil in Laurentia. Rockhome is where the two political entities of the dwarven government meet. The first is a feudal council known as the Clansraed. The Clansraed is a hereditary council of feudal aristocrats that expresses the will of the clans from across the mountains. The second is the Crown, a hereditary monarchy maintained by the current ruling clan, who leads all of the clans in war and negotiates with other nations on their behalf. The ruling clan can be replaced by another clan by rite of combat against the ruling monarch or unanimous discommendation by the entire Clansraed. Currently, the ruler is Dorin Axforge.
 
