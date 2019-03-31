@@ -18,7 +18,7 @@ Geography has been pretty static since the Sublime Age, given that the entirety 
 
 ## Osenia
 
-
+By far the largest continent, Osenia is located in the eastern hemisphere of the planet. Its most prominent feature is the mountain range that divides the continent.
 
 ## Cheland
 
