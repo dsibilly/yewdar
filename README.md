@@ -18,6 +18,7 @@ Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the p
     * [Political Regions](political_regions.md)
 * [The Planes](planes.md)
 * [Apex City: The Jewel of the Plains](apex-city.md)
+* [Currency in Yewdar](currencies.md)
 
 ## Welcome to Yewdar
 
