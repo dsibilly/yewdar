@@ -1,4 +1,4 @@
-# Yewdar Player's Guide (v0.4.0)
+# Yewdar Player's Guide (v0.5.0)
 
 Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin. This document may not be sold, purchased or otherwise distributed for commercial use. No copyright or trademark infringement is intended or implied.
 
@@ -14,9 +14,11 @@ Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the p
 * [History](history.md)
     * [Pantheon](gods-and-religion.md)
     * [Dragons of the Realm](dragons.md)
-* [Political Regions](political_regions.md)
+* [Geography](continents.md)
+    * [Political Regions](political_regions.md)
 * [The Planes](planes.md)
 * [Apex City: The Jewel of the Plains](apex-city.md)
+* [Currency in Yewdar](currencies.md)
 
 ## Welcome to Yewdar
 
