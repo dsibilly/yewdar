@@ -59,7 +59,6 @@ The vast jungles of Southern Osenia. While not an officially declared nation as 
 
 ![](/assets/Grendia.png)
 
-
 The Eternal Holdfast of Grendia-Under-The-Mountains, known colloquially as Grendia, is a massive surface and subterranean kingdom ruled over and populated by the dwarves of Yewdar. The nation, and the Grendian mountain range that spans it, bisects the continent of Osenia into western and eastern halves.
 
 Seven massive underground cities exist beneath the mountains, but few outsiders ever get to venture beneath the surface, as the dwarves are a gruff and private people. There are also a number of surface or hybrid settlements along the length of the mountain range, and these settlements tend to be more welcoming of outsiders (but not by much). In the southern reaches, surface settlements are more common, but there are frequent skirmishes between the orc clans of Hol Khozet and the dwarf clans of Grendia.

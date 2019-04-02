@@ -14,7 +14,8 @@ Disclaimer: The Adventure Game Engine and _Fantasy AGE Basic Rulebook_ are the p
 * [History](history.md)
     * [Pantheon](gods-and-religion.md)
     * [Dragons of the Realm](dragons.md)
-* [Political Regions](political_regions.md)
+* [Geography](continents.md)
+    * [Political Regions](political_regions.md)
 * [The Planes](planes.md)
 * [Apex City: The Jewel of the Plains](apex-city.md)
 
