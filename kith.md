@@ -14,6 +14,7 @@ There are a total of eight playable kith in the Yewdar campaign setting:
 * [Halflings](#halfling)
 * [Orcs](#orc)
 * [Drakon](#drakon)
+* [Div'](#div)
 * [Talosan](#talosan)
 
 There are other kith, sentient and otherwise, but they are reserved for use by the Game Master (GM) populating the setting; consult with your GM before selecting a kith not detailed in this book.
@@ -431,6 +432,16 @@ NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, 
 | 9 | Focus: Intelligence \(Historical Lore\) |
 | 10-11 | Focus: Perception \(Smelling\) |
 | 12 | +1 Strength |
+
+---
+
+## Div'
+
+The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
+
+The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
+
+Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
 
 ---
 
