@@ -502,10 +502,10 @@ You are a living construct.
 
 | Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
 | :--: | :--- | :--- | :--: | :--: | :--: |
-| Human | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
-| Elf | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
-| Dwarf | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
-| Gnome | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
-| Orc | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
-| Drakon | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
-| Talosan | Strength | Constitution (Stamina) | 10 | Clickwise, Common | - |
+| [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
+| [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
+| [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
+| [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
+| [Orc](#orc) | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
+| [Drakon](#drakon) | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
+| [Talosan](#talosan) | Strength | Constitution (Stamina) | 10 | Clickwise, Common | - |
