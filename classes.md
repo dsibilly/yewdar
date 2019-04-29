@@ -516,7 +516,7 @@ You are the embodiment of divine justice. Those who have sinned in the eyes of y
 |20|Epic Mage|Normal|-|
 
 * The Mage class covers both traditional arcane sorcery as well as divine magic channeled from gods, goddesses, and other powerful transmortal beings.
-* Players who wish to play a cleric or priest of a specific deity or transmortal entity are restricted to that entity's favored arcana until Level 10. The gods' favored arcana are listed in [*Gods & Religions*](#p30). Starting at Level 11, clerics and priests may select new Arcana Talents freely.
+* Players who wish to play a cleric or priest of a specific deity or transmortal entity are restricted to that entity's favored arcana until Level 10. The gods' favored arcana are listed in [*Gods & Religions*](/gods-and-religions.md). Starting at Level 11, clerics and priests may select new Arcana Talents freely.
 
 ### Rogue
 
