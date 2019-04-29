@@ -444,6 +444,52 @@ The Div' are native to the northern reaches of the Chimak continent, now part of
 
 Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
 
+### Div' Names
+
+**Female:** TBD
+**Male:** TBD
+
+### Playing a Div'baharat
+
+If you choose to play a div'baharat, modify your character as follows:
+
+* Add +1 to your Communication ability.
+* You gain the Kith Talent Entropic Heritage (Novice). You may spend Talent (or Magic Talent) points as you level to increase degrees in this Talent.
+* Pick one of the following ability focuses:
+    * Communication (Disguise)
+    * Strength (Intimidation)
+* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read the Common Tongue.
+* Roll twice on the Div'baharat Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Kith Talent: Entropic Heritage
+
+Classes: Any
+
+Kith: Div'baharat
+
+Your bloodline has been touched by chaotic energies from beyond.
+
+**Novice:** You can sense the presence of daemons and entropic energy on a successful Perception (Tracking) test. This sense is reliable, but can be overwhelmed and diffused by the presence of other magical energies nearby. Successful test results give you a sense of direction and magnitude of the energy, but not necessarily distance.
+
+**Journeyman:** You have the Entropic Healing power. You may spend a Minor Action to recover 1d6 + Consitution hit points. You may use this power a number of times per day equal to your Communication
+
+**Master:** The chaos in your blood can be channeled with practice. Once per day, you may choose a successful test that yields stunt points and re-roll the stunt die. The re-roll *only* changes the number of stunt points generated and *not* the original result of the test. You must keep the results of the re-roll, even if they are lower than the original stunt point result.
+
+### Div'baharat Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Strength |
+| 3-4 | Focus: Willpower \(Self-Discipline\) |
+| 5 | Focus: Intelligence \(Religious Lore\) |
+| 6 | Focus: Communication (Persuasion) |
+| 7-8 | +1 Constitution |
+| 9 | Focus: Dexterity \(Stealth\) |
+| 10-11 | Focus: Dexterity \(Acrobatics\) |
+| 12 | +1 Willpower |
+
 ---
 
 ## Talosan
@@ -504,6 +550,7 @@ You are a living construct.
 | :--: | :--- | :--- | :--: | :--: | :--: |
 | [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
 | [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
+| Div' (#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - |
 | [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
 | [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
 | [Orc](#orc) | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
