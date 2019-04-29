@@ -14,6 +14,7 @@ There are a total of eight playable kith in the Yewdar campaign setting:
 * [Halflings](#halfling)
 * [Orcs](#orc)
 * [Drakon](#drakon)
+* [Div'](#div)
 * [Talosan](#talosan)
 * [Kith Reference Table](#kith-reference-table)
 
@@ -68,7 +69,7 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continent
 
 ![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
 
-The indigenous humans of the Osenia continent, the Osan peoples were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
+The Osan peoples are a culturally Sannic-speaking group of humans native to the northwest region of the continent of Osenia. They are the most populous ethnicity of humans on Yewdar. "San," incidentally, is humanity's word for themselves in the common tongue Sannic. They were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
 
 #### Osan Names
 
@@ -432,6 +433,16 @@ NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, 
 | 9 | Focus: Intelligence \(Historical Lore\) |
 | 10-11 | Focus: Perception \(Smelling\) |
 | 12 | +1 Strength |
+
+---
+
+## Div'
+
+The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
+
+The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
+
+Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
 
 ---
 
