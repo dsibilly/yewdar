@@ -15,6 +15,7 @@ There are a total of eight playable kith in the Yewdar campaign setting:
 * [Orcs](#orc)
 * [Drakon](#drakon)
 * [Talosan](#talosan)
+* [Kith Reference Table](#kith-reference-table)
 
 There are other kith, sentient and otherwise, but they are reserved for use by the Game Master (GM) populating the setting; consult with your GM before selecting a kith not detailed in this book.
 
@@ -229,7 +230,7 @@ If you choose to play a gnome, modify your character as follows:
 * Pick one of the following ability focuses:
   * Constitution \(Stamina\)
   * Dexterity \(Legerdemain\)
-* You have Dark Sign, which allows you to see up to 20 yards in darkness without a light source.
+* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
 * Your Speed is equal to 8 + Dexterity, minus your armor penalty.
 * You can speak and read Gnomish and the Common Tongue.
 * Roll twice on the Gnome Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
@@ -484,3 +485,16 @@ You are a living construct.
 | 12 | +1 Perception |
 
 \*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the Accuracy \(Blaster Pistols\) Focus instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the Fighting \(Heavy Blades\) Focus instead.
+
+
+## Kith Reference Table
+
+| Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
+| :--: | :--- | :--- | :--: | :--: | :--: |
+| Human | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
+| Elf | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
+| Dwarf | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
+| Gnome | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
+| Orc | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
+| Drakon | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
+| Talosan | Strength | Constitution (Stamina) | 10 | Clickwise, Common | - |
