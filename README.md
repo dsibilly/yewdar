@@ -1,4 +1,4 @@
-# YEWDAR PLAYER'S GUIDE (v0.6.0)
+# YEWDAR PLAYER'S GUIDE (v0.6.1)
 
 **Creation and Lead Design**: Duane Sibilly
 
@@ -6,7 +6,7 @@
 
 **Editor**: Jeremy Morgan
 
-The *Yewdar Player's Guide* is © 2017-2019 Duane Sibilly, II. All rights reserved. The Adventure Game Engine, *Fantasy AGE Basic Rulebook*, *Fantasy AGE Companion*, *Modern AGE Basic Rulebook*, *Modern AGE Companion*, and *Blue Rose: The AGE Roleplaying Game of Romantic Fantasy* are property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin Publishing. This document may not be sold, purchased, or otherwise distributed for commercial use. Reference to the above and any other copyrighted materials in no way constitutes a challenge to the respective copyright holders of that material.
+The *Yewdar Player's Guide* is © 2017-2019 Duane Sibilly, II. The Adventure Game Engine, *Fantasy AGE Basic Rulebook*, *Fantasy AGE Companion*, *Modern AGE Basic Rulebook*, *Modern AGE Companion*, and *Blue Rose: The AGE Roleplaying Game of Romantic Fantasy* are property of Green Ronin Publishing, LLC. This document is not authorized, endorsed, or sponsored by Green Ronin Publishing. This document may not be sold, purchased, or otherwise distributed for commercial use. Reference to the above and any other copyrighted materials in no way constitutes a challenge to the respective copyright holders of that material.
 
 ## Table of Contents
 
