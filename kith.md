@@ -550,6 +550,7 @@ You are a living construct.
 
 | Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
 | :--: | :--- | :--- | :--: | :--: | :--: |
+| [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - |
 | [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
 | [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
 | [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - |
