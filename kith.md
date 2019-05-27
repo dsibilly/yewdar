@@ -14,6 +14,7 @@ There are a total of eight playable kith in the Yewdar campaign setting:
 * [Halflings](#halfling)
 * [Orcs](#orc)
 * [Drakon](#drakon)
+* [Div'](#div)
 * [Talosan](#talosan)
 * [Kith Reference Table](#kith-reference-table)
 
@@ -68,7 +69,7 @@ The Alsan peoples originally hail from the Aqor Imperium on the Chimak continent
 
 ![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
 
-The indigenous humans of the Osenia continent, the Osan peoples were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
+The Osan peoples are a culturally Sannic-speaking group of humans native to the northwest region of the continent of Osenia. They are the most populous ethnicity of humans on Yewdar. "San," incidentally, is humanity's word for themselves in the common tongue Sannic. They were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
 
 #### Osan Names
 
@@ -435,6 +436,64 @@ NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, 
 
 ---
 
+## Div'
+
+![](/assets/Tiefling.png)
+
+The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
+
+The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
+
+Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
+
+### Div' Names
+
+**Female:** TBD
+**Male:** TBD
+
+### Playing a Div'baharat
+
+If you choose to play a div'baharat, modify your character as follows:
+
+* Add +1 to your Communication ability.
+* You gain the Kith Talent Entropic Heritage (Novice). You may spend Talent (or Magic Talent) points as you level to increase degrees in this Talent.
+* Pick one of the following ability focuses:
+    * Communication (Disguise)
+    * Strength (Intimidation)
+* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read the Common Tongue.
+* Roll twice on the Div'baharat Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Kith Talent: Entropic Heritage
+
+Classes: Any
+
+Kith: Div'baharat
+
+Your bloodline has been touched by chaotic energies from beyond.
+
+**Novice:** You can sense the presence of daemons and entropic energy on a successful Perception (Tracking) test. This sense is reliable, but can be overwhelmed and diffused by the presence of other magical energies nearby. Successful test results give you a sense of direction and magnitude of the energy, but not necessarily distance.
+
+**Journeyman:** You have the Entropic Healing power. You may spend a Minor Action to recover 1d6 + Consitution hit points. You may use this power a number of times per day equal to your Communication
+
+**Master:** The chaos in your blood can be channeled with practice. Once per day, you may choose a successful test that yields stunt points and re-roll the stunt die. The re-roll *only* changes the number of stunt points generated and *not* the original result of the test. You must keep the results of the re-roll, even if they are lower than the original stunt point result.
+
+### Div'baharat Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Strength |
+| 3-4 | Focus: Willpower \(Self-Discipline\) |
+| 5 | Focus: Intelligence \(Religious Lore\) |
+| 6 | Focus: Communication (Persuasion) |
+| 7-8 | +1 Constitution |
+| 9 | Focus: Dexterity \(Stealth\) |
+| 10-11 | Focus: Dexterity \(Acrobatics\) |
+| 12 | +1 Willpower |
+
+---
+
 ## Talosan
 
 ![](/assets/ce82fca3559e554bc3ad55b04ea751de.jpg)
@@ -491,10 +550,12 @@ You are a living construct.
 
 | Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
 | :--: | :--- | :--- | :--: | :--: | :--: |
-| Human | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
-| Elf | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
-| Dwarf | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
-| Gnome | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
-| Orc | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
-| Drakon | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
-| Talosan | Strength | Constitution (Stamina) | 10 | Clickwise, Common | - |
+| [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - |
+| [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
+| [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
+| [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - |
+| [Drakon](#drakon) | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
+| [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
+| [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
+| [Orc](#orc) | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
+| [Talosan](#talosan) | Strength | Constitution \(Stamina\) | 10 | Clickwise, Common | - |
