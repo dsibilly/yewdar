@@ -224,7 +224,7 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 
 **Weapon Finesse**: While wielding an Accuracy-based melee weapon, add a bonus 1d6 to your damage rolls with that weapon. You also add your Dexterity or Strength to melee damage rolls, whichever is greater.
 
-**Starting Talents**: You become a Novice in one of the following talents: Dual Weapon Style, Single Weapon Style, or Thrown Weapon Style.
+**Starting Talents**: You become a Novice in one of the following talents: Dual Weapon Style, Pistoleer Style, Single Weapon Style, or Thrown Weapon Style.
 
 #### Level 2
 **New Ability Focus**: You gain one of the following ability focuses: Communication (Etiquette), Dexterity (Riding), or Strength (Jumping).
@@ -325,9 +325,9 @@ Through practice and ritual you have attained deep insight into the art of battl
 
 You've lived by the sword long enough to know that it's only a matter of time before someone brings a bigger sword. Luckily, you have your trusty arcane blaster. It has limited ammo, sure, but what it gives you is *options*... like keeping this street thug's friends behind cover down the alleyway while you relieve him of the money pouch he just stole, ya ken?
 
-**Requirements**: Accuracy 2+, Perception 2+.
+**Requirements**: Accuracy 2+, Perception 2+, Pistoleer Style (Novice)
 
-**Novice**: You learn the Blasters Weapon Group. If you already know it, you gain the Accuracy (Blasters) focus. Also, you can easily switch between weapons. Swapping your current weapon for a sheathed or stowed weapon is a free action instead of the usual minor action.
+**Novice**: If you don't already have it, you gain the Accuracy (Blaster Pistols) focus. When attacking with a Blaster Pistol you may perform the Lightning Attack stunt for 2 SP instead of the usual 3.
 
 **Journeyman**: You are deadly with a melee weapon and firearm. When dual-wielding a melee weapon and blaster, you receive a +1 bonus on all your damage rolls.
 
