@@ -1,80 +1,4 @@
-# Character Options & Equipment
-
-## Character Options
-Yewdar adds a variety of focuses and talents, and alters a number of the originals included in the Fantasy AGE Basic Rulebook.
-
-### New Ability Focuses
-A focus is an area of expertise within a more broad ability. These are explained in detail in the Fantasy AGE Basic Rulebook. Descriptions of the ability focuses added in Yewdar follow. Your GM has final say on whether a focus applies for a given ability test.
-
-#### Accuracy Focuses
-**Blaster Longarms**: Proficiency with weapons of the Blaster Longarms Weapon Group.
-
-**Blaster Pistols**: Proficiency with weapons of the Blaster Pistols Weapon Group.
-
-#### Dexterity Focuses
-**Advanced Driving**: Maneuvering powered vehicles, as opposed to the cars and wagons to which Strength (Driving) applies.
-
-**Piloting**: Maneuvering an airship or other flying vehicle.
-
-
-#### Intelligence Focuses
-**Artifice**: Building, repairing and understanding manufactured magical items and artifacts.
-
-### New Talents
-Talents are areas of natural aptitude or training that your character has acquired in their journey through life.
-
-#### Pistoleer Style
-**Classes**: Rogue, Swashbuckler, Warrior
-
-**Requirements**: You must be trained in the Blaster Pistols Weapon Group.
-
-Handling a blaster pistol is second nature.
-
-**Novice**: It's hard to get the drop on you. Once per rouns you can use a Ready action with a blaster as a free action.
-
-**Journeyman**: Enemies that get close to you regret it. When shooting at a target at short range, you inflict +1 damage.
-
-**Master**: You can get the most out of each slot. When shooting a blaster, you can perform the Dual Strike stunt for 3 stunt points instead of the usual 4.
-
-
-#### Marksmanship Style
-**Classes**: Rogue, Swashbuckler, Warrior
-
-**Requirements**: Must be trained in Blaster Longarms Weapon Group
-
-You are a trained rifleman.
-
-**Novice**: You know how to punish enemies who get too close. When shooting a blaster longarm at an enemy within 6 yards, you inflict a bonus +1 damage on a successful hit.
-
-**Journeyman**: When shooting with a blaster longarm, you can perform the Knock Prone stunt for 1 stunt point instead of the usual 2.
-
-**Master**: When you make a successful attack with a blaster longarm you may choose to re-roll the damage, but you must keep the results of the second roll.
-
-#### Ship Gunnery
-**Classes**: Any
-
-**Requirements**: You must be trained in the Heavy Weapons Weapon Group
-
-You can cause devastating damage with shipboard artillery weapons.
-
-**Novice**: When you take the Aim action while using a Heavy Weapon, you gain a +2 bonus to damage dealt on a successful hit.
-
-**Journeyman**: You've learned to pinpoint weaknesses in enemy ship and fortress defenses. When using a Heavy Weapon, you can perform the Pierce Armor stunt for 1 stunt point instead of the usual 2.
-
-**Master**: You know how to fire for effect with Heavy Weapons. When using a Heavy Weapon, you can perform the Lethal Blow stunt for 4 stunt points instead of the usual 5.
-
-#### High Artifice
-**Classes**: Bard, Mage
-
-**Requirements**: Intelligence +1, at least one magic talent
-
-You can use (and abuse) magical items with ease.
-
-**Novice**: If you fail an Intelligence (Artifice) test, you can re-roll it. You must keep the results of the second roll.
-
-**Journeyman**: When you attempt to use an unfamiliar magical device or override a magical lock with Intelligence (Artifice), you gain a +2 bonus to your roll.
-
-**Master**: You are an experienced artificer. When making Intelligence (Artifice) tests as part of an advanced test, you gain a +1 bonus to the result of your Stunt Die. This allows you to reach the success threshold of the advanced test faster.
+# Equipment
 
 ## Resources
 
@@ -133,17 +57,31 @@ Illegal (or stolen) goods come with their own trouble, and are subsequently less
 
 The GM should handle acquisition and sale of valuables acquired from adventures with a Resources award rather than managing the value and sale of individual items. This minimizes bookkeeping and streamlines gameplay.
 
-## Equipment
+## Weapons
 
-### New Weapons
+### Weapon Training
 
-##### Blaster Pistols (Accuracy)
+Weapons are classified into weapon groups. Having a weapon group implies that your character has received special training in the use of the weapons within that group. You typically receive weapon groups through your class at Level 1, though you can also be granted a weapon group by your choice of kith or via certain talents or specializations.
 
-| Weapon | Damage | Min. Str. | Cost |
-|:------|:------:|:---------:|:----:|
-| Holdout Pistol | 1d6 | - | 30 sp |
-|Light Blaster Pistol|1d6+2|-|50 sp|
-|Heavy Blaster Pistol|2d6|0|75 sp|
+If you are untrained in a weapon group, you take a -2 penalty to attack rolls and inflict half damage, rounded down, when using a weapon from that group. If you attempt to use a ranged weapon from a weapon group you do not have, the range for that weapon is halved as well. When halving damage, add your Strength (or Perception for Bows and Blaster weapons) before dividing the total by 2.
+
+### Weapon Details
+
+The following tables summarize the game statistics for Yewdar-specific weapons. They are separated by weapon group, and the governing ability for that group is noted in parentheses. The first entry, for example, is the Blaster Pistols Group (Accuracy). When you attack with a weapon from this group, your attack roll is an Accuracy (Blaster Pistols) test.
+
+The following details are provided for each weapon:
+
+- **Damage**: This is the weapon's base damage in combat. If you are trained in this weapon group, you inflict this amount of damage plus your Strength. If you are untrained, damage is halved (rounded down.)
+- **Minimum Strength**: Some weapons are heavy or unwieldy, and so require a certain amount of Strength to use effectively. You must have the minimum Strength listed to use the weapon to its full potential. If you do not, the weapon only deals 1d6-1 damage.
+- **Resources Target Number**: The TN used when attempting to use the Resources ability to acquire equipment. This difficulty may vary depending on the game's location, setting, or a character's circumstances.
+
+#### Blaster Pistols (Accuracy)
+
+|        Weapon        | Damage | Min. Str. | Resources TN |
+|:---------------------|:------:|:---------:|:------------:|
+| Holdout Pistol       | 1d6    | -1        | 10           |
+| Light Blaster Pistol | 1d6+2  | 0         | 12           |
+| Heavy Blaster Pistol | 2d6    | 0         | 13           |
 
 **Holdout Blaster Pistol**: A small, easily concealable blaster pistol, often kept in an ankle holster or in the small of the back for use in desperate situations. Requires one hand to use, and a single shot expends 1 charge from an arcanathyst battery.
 
@@ -151,13 +89,13 @@ The GM should handle acquisition and sale of valuables acquired from adventures 
 
 **Heavy Blaster Pistol**: A large and obvious weapon. Requires one hand to use and expends 1 charge from an arcanathyst battery.
 
-##### Blaster Longarms (Accuracy)
+#### Blaster Longarms (Accuracy)
 
-| Weapon | Damage | Min. Str. | Cost |
+| Weapon | Damage | Min. Str. | Resources TN |
 |:------|:------:|:---------:|:----:|
-| Blaster Sweeper | 2d6  | 0 | 60 sp |
-|Blaster Carbine  |2d6+2 | 0 |70 sp  |
-|Blaster Rifle    |3d6   | 1 |75 sp  |
+| Blaster Sweeper | 2d6 | 0 | 13 |
+| Blaster Carbine | 2d6+2 | 0 | 13 |
+| Blaster Rifle | 3d6 | 1 | 14 |
 
 **Blaster Sweeper**: A short-barreled weapon that fires a wide beam of energy a short distance, potentially damaging several targets. The blast is 6 yards long and 2 yards wide. Make a single attack roll when firing a blaster sweeper and compare it to the Defense of each target in the blast area. Stunts affect targets individually. A Mighty Blow, for example, would apply to _one_ target of your choice, not all targets in the blast. You cannot use Lightning Attack with a blaster sweeper, but you can Dual Strike. This weapon requires two hands to use and a single shot consumes 3 charges from an arcanathyst battery.
 
@@ -165,13 +103,13 @@ The GM should handle acquisition and sale of valuables acquired from adventures 
 
 **Blaster Rifle**: A military weapon that fires a powerful blast of energy. It requires two hands to use and a single shot burns up 5 arcanathyst battery charges.
 
-##### Curved Blades (Accuracy)
+#### Curved Blades (Accuracy)
 
-| Weapon | Damage | Min. Str. | Cost |
+| Weapon | Damage | Min. Str. | Resources TN |
 |:------|:------:|:---------:|:----:|
-| Cutlass | 1d6+2 | - | 15 sp |
-|Falchion\*|2d6+2|2|21 sp|
-|Scimitar|2d6|0|18 sp|
+| Cutlass | 1d6+2 | - | 13 |
+| Falchion\* | 2d6+2 | 2 | 14 |
+| Scimitar | 2d6 | 0 | 13 |
 
 **Cutlass**: A short, curved single-edged sword used for slashing and thrusting. Favored by pirates.
 
@@ -179,15 +117,13 @@ The GM should handle acquisition and sale of valuables acquired from adventures 
 
 **Scimitar**: A smaller version of the falchion that is more easily wielded one-handed.
 
+#### Flails (Fighting)
 
-
-##### Flails (Fighting)
-
-| Weapon | Damage | Min. Str. | Cost |
+| Weapon | Damage | Min. Str. | Resources TN |
 |:------|:------:|:---------:|:----:|
-| Flail | 2d6 | 1 | 16 sp |
-|Scourge|1d6|-|11 sp|
-|Two-handed Flail|2d6+2|2|20 sp|
+| Flail | 2d6 | 1 | 13 |
+| Scourge | 1d6 | - | 12 |
+| Two-handed Flail | 2d6+2 | 2 | 14 |
 
 **Flail**: A short haft of wood or metal with up to a foot-long length of chain extending from the tip, ending in a spiked metal ball. The chain converts the momentum of swings into brutal impacts.
 
@@ -195,13 +131,13 @@ The GM should handle acquisition and sale of valuables acquired from adventures 
 
 **Two-Handed Flail**: A larger, heftier variant of flail. The haft can be as long as 5 feet. The head is often heavier, and the chain shorter. Typically used by infantry to unseat mounted cavalry.
 
-##### Rope (Accuracy)
+#### Rope (Accuracy)
 
 | Weapon | Damage | Min. Str. | Cost |
 |:------|:------:|:---------:|:----:|
-| Garrote | Special | - | 8 sp |
-|Lasso|Special|-|5 sp|
-|Whip|1d6-1|-|10 sp|
+| Garrote | Special | - | 8 |
+| Lasso | Special | - | 7 |
+| Whip | 1d6-1 | - | 8 |
 
 **Garrote**: A short length of thing wire with wooden handles on either end. On a successful attack, the target cannot move and begins to be strangled. The target must use a Major action to make a TN 15 Constitution (Stamina) test to hold their breath, or break free with an opposed Dexterity (Acrobatics) or Strength (Might) vs. the attacker's Accuracy (Rope). If the victim fails, they suffer 1d6-1 penetrating damage.
 
@@ -215,17 +151,17 @@ The GM should handle acquisition and sale of valuables acquired from adventures 
 
 | Weapon | Short Range | Long Range | Reload\* |
 |:-------|:-----------:|:----------:|:---------|
-| Blaster Carbine | 24 | 48 | Minor |
-| Blaster Rifle   | 30 | 60 | Minor |
-| Blaster Sweeper | 6  | -  | Minor |
-| Heavy Blaster Pistol | 12 | 24 | Free |
-| Holdout Blaster Pistol | 8 | 16 | Free |
-| Light Blaster Pistol | 10 | 20 | Free |
+| Blaster Carbine | 24 | 48 | Major |
+| Blaster Rifle   | 30 | 60 | Major |
+| Blaster Sweeper | 6  | -  | Major |
+| Heavy Blaster Pistol | 12 | 24 | Minor |
+| Holdout Blaster Pistol | 8 | 16 | Minor |
+| Light Blaster Pistol | 10 | 20 | Minor |
 
 
-### New Gear
+## New Gear
 
-#### Arcanathyst Batteries
+### Arcanathyst Batteries
 Arcanathyst's ability to store magical energy for long periods of time and for later reuse has spurred a revolution in technology on Yewdar. Arcanathyst batteries can be charged by any magic-user. The charging process requires a TN 13 casting roll (no arcana focuses apply.) On a success, the caster may spend 2 magic points to restore one charge to the battery.
 
 **Arc-LY**: A common low-yield arcanathyst battery that is available all over Yewdar. It holds a maximum of 10 charges.
@@ -234,15 +170,15 @@ Arcanathyst's ability to store magical energy for long periods of time and for l
 
 **Arc-HY**: Made from only the purest arcanathyst, HY batteries take inordinate amounts of magical processing and resources to create. Due to demand on pure arcanathyst in other industries, batteries made from this material are rarely available for sale and are very expensive when found. It holds a maximum of 50 charges.
 
-##### Arcanathyst Batteries
+#### Arcanathyst Batteries
 
-| Gear |Charges| Cost |
-|:----:|:-----:|:-----|
-|Arc-LY|  10   |10 sp |
-|Arc-MY|  20   |25 sp |
-|Arc-HY|  50   |100 sp|
+| Gear |Charges| Resources TN |
+|:----:|:-----:|:------------:|
+|Arc-LY|  10   | 14 |
+|Arc-MY|  20   | 18 |
+|Arc-HY|  50   | 22 |
 
-### Poisons
+## Poisons
 
 Yewdar is home to a variety of substances (both natural and processed) that create deleterious effects for those that come into contact with them.
 
@@ -254,9 +190,9 @@ Yewdar is home to a variety of substances (both natural and processed) that crea
 
 **Spider's Kiss**: Target is stunned for 1 round and may only take Minor actions on their turn.
 
-### Wondrous Items
+## Wondrous Items
 
-#### Arcanathyst Cake (Consumable)
+### Arcanathyst Cake (Consumable)
 
 ![](/assets/arcanathyst_cake.jpg)
 

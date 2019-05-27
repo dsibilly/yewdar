@@ -438,6 +438,8 @@ NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, 
 
 ## Div'
 
+![](/assets/Tiefling.png)
+
 The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
 
 The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
@@ -548,6 +550,7 @@ You are a living construct.
 
 | Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
 | :--: | :--- | :--- | :--: | :--: | :--: |
+| [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - |
 | [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
 | [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
 | [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - |
