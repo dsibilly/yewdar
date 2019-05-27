@@ -1,5 +1,15 @@
 # Equipment
 
+Equipment really encompasses anything material that the chracters have access to. The list below shows the major categories of equipment.
+
+- [Resources](#resources)
+- [Weapons](#weapons)
+- [New Gear](#new-gear)
+- [Poisons](#poisons)
+- [Wondrous Items](#wondrous-items)
+
+---
+
 ## Resources
 
 An optional mechanic, borrowed from Modern AGE, is to replace characters' cash with a single Resources score. This score is a composite that represents a character's cash on hand, income, financial connections. The Resources score works like the nine ability scores in that it is the basis for Resources tests made when a character attempts to purchase goods or services.
@@ -47,7 +57,6 @@ One character may assist another with their purchase, but only if the assisting 
 ### Gaining Resources
 
 The GM may grant an increase to Resources at the end of an adventure where the characters acquired wealth. This is usually a +1 increase in a Resources score, though truly significant gains may be represented by a +2 increase.
-
 
 ### Selling Items
 
@@ -157,7 +166,6 @@ The following details are provided for each weapon:
 | Heavy Blaster Pistol | 12 | 24 | Minor |
 | Holdout Blaster Pistol | 8 | 16 | Minor |
 | Light Blaster Pistol | 10 | 20 | Minor |
-
 
 ## New Gear
 
