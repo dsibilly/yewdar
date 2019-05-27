@@ -1,6 +1,6 @@
 # Classes
 
-Yewdar introduces three new classes that add options and flavor for players as they decide how they wish to adventure in this world. Expanding up on the concept of multi-classing found in other RPG systems, Yewdar adds a trio of hybrid classes that blend the concepts of the three core classes: the Bard, the Swashbuckler, and the Templar. Rules are included to provide for playing these hybrid classes to level 20, as well as three specializations for each class that reflect more specific character concepts and abilities.
+Yewdar introduces three new classes that add options and flavor for players as they decide how they wish to adventure in this world. Expanding up on the concept of multi-classing found in other RPG systems, Yewdar adds a trio of hybrid classes that blend the concepts of the three core classes: the Bard, the Swashbuckler, and the Templar. Rules are included to provide for playing these hybrid classes to level 20. [Specializations for each new class are also available](/focuses-talents-specializations.md#specializations) to help reflect more specific character concepts and abilities.
 
 Yewdar is also home to the three basic classes detailed in the *Fantasy AGE Basic Rulebook*, but with minor modifications.
 
@@ -72,7 +72,11 @@ You gain more magic points as you rise in level. From levels 2 through 10, you g
 
 **Performer's Tumble**: You can prepare yourself to dodge an attack. Using a Ready action, you may add your Dexterity to you Defense until the start of your next turn. If you have the Dexterity (Acrobatics) focus, you may add your focus bonus (+2 or +3) to your Defense as well.
 
-**Starting Talents**: You start as a Novice in Music. You also become a Novice in one of the following talents: Command, Intrigue, or Oratory.
+**Starting Talents**: You start as a Novice in Performance. You also become a Novice in one of the following talents:
+
+- Command
+- Intrigue
+- Oratory
 
 #### Level 2
 **Stunt Bonus: *Taunt***: Your biting wit gets the better of your foes. You may perform the Taunt stunt for 1 SP instead of 2.
@@ -146,41 +150,6 @@ You gain more magic points as you rise in level. From levels 2 through 10, you g
 #### Level 20
 **Epic Bard**: Pick one type of stunt: Combat, Exploration or Roleplaying. You gain a permanent +1 bonus when generating stunt points of that type.
 
-## Bard Specializations
-
-#### Chronicler
-You are a historian, scribe, and proficient forger.
-
-**Requirements**: Intelligence 2+, Talent: Lore (Novice)
-
-**Novice**: You are a collector of histories. If you fail an Intelligence (Historical Lore) test, you may re-roll it, but you must keep the results of the second roll.
-
-**Journeyman**: You are a master of the written word. Any tests that require you to understand a written work, such as Intelligence (Cryptography), Intelligence (Research), or Intelligence (Writings), only take half as long to complete. You may also copy written works at twice normal speed, and create very convincing forgeries of documents that you possess a copy of or are familiar with. (The GM is the ultimate arbiter of this talent.)
-
-**Master**: You may call upon the heroes of old with a new Bard Song: *Song of Heroes Returned*. Once per day while Bard Song is active, make a Communication (Performance) test for each unconscious ally within 10 yards. The target number is 17. If you succeed, the target ally gains health equal to the Stunt Die + your Communication.
-
-#### Fire Dancer
-You channel the heat of passion into arcane might with your graceful dances, replacing song with athletic undulation.
-
-**Requirements**: Communication 2+, Dexterity 2+
-
-**Novice**: Allies and enemies only need to see you in order to be affected by your Bard Song. You may also add the Fire Arcana magic talent to your list of Bard Arcana.
-
-**Journeyman**: You become inured to heat and flame. You reduce the damage you take from fire and fire effects, such as Fire Arcana spells, by half (rounded down.)
-
-**Master**: You learn to call fire with your song with a new Bard Song: *Song of the Dancing Dragon*. While Bard Song is active, you may cast Fire Arcana spells for 1 less magic point (minimum 1 MP).
-
-#### Skald
-You are a warrior-poet, telling tales and singing songs to drive your allies to greater heights of heroism.
-
-**Requirements**: Communication 2+, Accuracy or Fighting 2+
-
-**Novice**: You take up arms alongside your allies. You become eligible for the Armor Training talent. You ignore up to 2 Strain while casting spells in armor.
-
-**Journeyman**: You spur your allies forward with ballads, songs and sagas. You and your allies move 25% faster (rounded down) than normal when moving overland and not in combat (e.g. speed 10 characters move 12 yards/round.)
-
-**Master**: You inspire your allies into a berserker fury with a new Bard Song: *Song of Fury*. Select a number of allies equal to your Communication that are within 12 yards and can both see and hear you. While Bard Song is active, the affected allies gain a +2 bonus on Willpower (Courage) and Willpower (Morale) tests, and a +1 bonus to damage rolls in melee combat. However, they suffer a -1 penalty to Defense and Perception-based tests. Additionally, you ignore up to 4 Strain while casting spells in armor.
-
 <a name="swashbuckler"></a>
 ## Swashbuckler
 
@@ -224,7 +193,12 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 
 **Weapon Finesse**: While wielding an Accuracy-based melee weapon, add a bonus 1d6 to your damage rolls with that weapon. You also add your Dexterity or Strength to melee damage rolls, whichever is greater.
 
-**Starting Talents**: You become a Novice in one of the following talents: Dual Weapon Style, Pistoleer Style, Single Weapon Style, or Thrown Weapon Style.
+**Starting Talents**: You become a Novice in one of the following talents:
+
+- Dual Weapon Style
+- Pistoleer Style
+- Single Weapon Style
+- Thrown Weapon Style.
 
 #### Level 2
 **New Ability Focus**: You gain one of the following ability focuses: Communication (Etiquette), Dexterity (Riding), or Strength (Jumping).
@@ -295,44 +269,6 @@ The warrior wades into battle in heavy armor. The rogue catches their prey unawa
 #### Level 20
 **Epic Swashbuckler**: Pick one type of stunt: Combat, Exploration or Roleplaying. You gain a permanent +1 bonus when generating stunt points of that type.
 
-### Swashbuckler Specializations
-
-#### Blade
-
-Your blade is an extension of your self, and combined you are a finely honed weapon of grace and skill. You are an expert duelist, adept at using your opponents relatively ungainly movements against them. Your speed and misdirection exposes your opponents weaknesses and evades their clumsy tricks.
-
-**Requirements**: Communication 2+, either Accuracy (Curved Blades) or Accuracy (Dueling).
-
-**Novice**: Your quick movements can throw your opponent off-balance, leaving them vulnerable to your attacks. You add your Communication on damage rolls with weapons from the Dueling or Curved Blade groups (select one). You also can perform the Taunt stunt for 1 SP instead of the usual 2.
-
-**Journeyman**: You and your weapon are never parted. You cannot be disarmed; stunt points spent trying to part you from your weapon are wasted.
-
-**Master**: You easily relieve opponents of their weapons. You can perform the Disarm stunt for 1 SP instead of the usual 2.
-
-#### Dervish
-
-Through practice and ritual you have attained deep insight into the art of battle... and it is indeed an art to you. Every fight is a performance, and you are a virtuoso in motion. While the song of spell and steel rings out, you are never still. You dart through the fray like a tumbling force of nature, and your foes struggle to keep up.
-
-**Requirements**: Dexterity 2+, Dexterity (Acrobatics) focus.
-
-**Novice**: Nothing gets in your way. If you fail a Dexterity (Acrobatics) test, you can re-roll it. You must keep the results of the second roll.
-
-**Journeyman**: You somersault back to your feet even after being knocked down. You can attempt a TN 17 Dexterity (Acrobatics) test after any effect that would normally knock you prone, such as the Knock Prone stunt. If you succeed, you remain standing.
-
-**Master**: You dash in and out of danger in the blink of an eye. You may move up to your total speed when you use the Charge action, instead of the usual half speed. Also, you may make the attack portion of the Charge action *at any point during your movement*; after the attack, you may continue to move, but at half your speed.
-
-#### Scoundrel
-
-You've lived by the sword long enough to know that it's only a matter of time before someone brings a bigger sword. Luckily, you have your trusty arcane blaster. It has limited ammo, sure, but what it gives you is *options*... like keeping this street thug's friends behind cover down the alleyway while you relieve him of the money pouch he just stole, ya ken?
-
-**Requirements**: Accuracy 2+, Perception 2+, Pistoleer Style (Novice)
-
-**Novice**: If you don't already have it, you gain the Accuracy (Blaster Pistols) focus. When attacking with a Blaster Pistol you may perform the Lightning Attack stunt for 2 SP instead of the usual 3.
-
-**Journeyman**: You are deadly with a melee weapon and firearm. When dual-wielding a melee weapon and blaster, you receive a +1 bonus on all your damage rolls.
-
-**Master**: You are a storm of steel and blaster bolts. If you make a melee attack with your primary weapon and are not charging, you may make a ranged attack with your secondary blaster as a minor action. The second attack cannot generate stunt points. You may only add half your Perception (rounded down) to the damage roll.
-
 <a name="templar"></a>
 ## Templar
 To become a priest, one must simply profess faith. To become a templar, you have placed yourself in the hands of your deity as a weapon. You may lack the weapons training and fighting styles of the warrior, but you make up for it with arcane might. You are more than an armored magus; you are capable of channeling your magical might in the thick of battle as the hammer of your deity's judgment.
@@ -379,7 +315,11 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 
 **Weapon of Faith**: Your spells and strikes are driven by belief, not strength. Pick one weapon (not a Weapon Group) as your Weapon of Faith; you receive training with that weapon, and add your Willpower instead of Perception or Strength to weapon damage with that weapon type. Your Weapon of Faith is considered an arcane device for the purpose of casting spells.
 
-**Starting Talents**: You gain the Novice degree of the Armor Training talent. You also become a Novice in one of the following talents: Command, Chirurgy/Healing, or Observation.
+**Starting Talents**: You gain the Novice degree of the Armor Training talent. You also become a Novice in one of the following talents:
+
+- Command
+- Chirurgy/Healing
+- Observation.
 
 #### Level 2
 **Armored Casting**: You reduce the amount of Strain for casting spells in armor by 2.
@@ -447,44 +387,6 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 
 #### Level 20
 **Epic Templar**: Pick one type of stunt: Combat, Exploration or Roleplaying. You gain a permanent +1 bonus when generating stunt points of that type.
-
-### Templar Specializations
-
-#### Blackguard
-
-Some Templar are beacons of light and righteousness. You are *not* one of them. By the calling of your god or a shadow across your soul, you have become a bastion of fear. You are dark redoubt of divine might.
-
-**Requirements**: Strength 2+, Willpower 2+, Power or Shadow Arcana (Novice).
-
-**Novice**: Dark energies surge around you. You may spend 3 MP with an Activate action to create a Vulnerability Aura in a 2-yard radius around you. Enemies within the aura suffer a -1 penalty to Defense. This aura lasts until the end of the encounter.
-
-**Journeyman**: You instill great fear. If you fail a Strength (Intimidate) test, you may re-roll it. You must keep the results of the second roll.
-
-**Master**: Your Vulnerability Aura becomes increasingly debilitating. Enemies within your aura receive a -2 penalty on all opposed ability tests against you.
-
-#### Holy Champion
-
-Even among your brethren, you are an exemplar of selflessness and holy power. When the battle is joined, you are your companions' shield and a glorious weapon of divine fury.
-
-**Requirements**: Constitution 2+, Willpower 2+.
-
-**Novice**: You imbue your weapon with magic. You may spend 2 MP and an Activate action to treat your Weapon of Faith as a magic weapon for 5 minutes.
-
-**Journeyman**: You can choose to put yourself in harm's way for allies. When you Defend or Guard Up, you can choose one ally within 2 yards to receive the Defense bonus instead of you.
-
-**Master**: You can channel some of your power through your weapon. As an Activate action, spend 2 or more MP (up to your Willpower); for every 2 MP spent add +1 penetrating damage to your next hit with your weapon.
-
-#### Inquisitor
-
-You are the embodiment of divine justice. Those who have sinned in the eyes of your god have no sanctuary from you. You will find those who have earned your retribution, you shall give them no quarter... for justice will not dispense itself.
-
-**Requirements**: Perception 2+, Observation (Novice) talent.
-
-**Novice**: You single out an opponent for justice. With an Activate action, designate one enemy you can see within 10 yards as your Quarry. You receive a +1 bonus to attack rolls made against your Quarry.
-
-**Journeyman**: You are adept at pursuit. If you fail a Perception (Tracking) test, you can re-roll it. You must keep the results of the second roll.
-
-**Master**: Your enemies may run, but they cannot hide. With an Activate action, spend 3 MP to remove any penalty to your attack against your Quarry due to cover.
 
 ## Changes to Basic Classes
 
@@ -570,4 +472,24 @@ You are the embodiment of divine justice. Those who have sinned in the eyes of y
 |19|-|Yes|-|
 |20|Epic Warrior|-|-|
 
-* Starting weapon groups have changed to: Brawling, plus any four of the following: Axes, Blaster Pistols, Blaster Longarms, Bludgeons, Bows, Heavy Blades, Light Blades, Spears or Staves.
+* Starting weapon groups have changed to: Brawling, plus any four of the following:
+    * Axes
+    * Blaster Pistols
+    * Blaster Longarms
+    * Bludgeons
+    * Bows
+    * Heavy Blades
+    * Light Blades
+    * Spears
+    * Staves.
+* Warrior's Level 1 starting talents are Armor Training (Novice) and any two of:
+    * Archery Style
+    * Dual Weapon Style
+    * Marksmanship Style
+    * Pistoleer Style
+    * Pole Weapon Style
+    * Single Weapon Style
+    * Throwing Weapon Style
+    * Two-Hander Style
+    * Unarmed Style
+    * Weapon and Shield Style
