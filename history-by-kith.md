@@ -5,6 +5,7 @@ Each kith has their own story to tell, both of how they came to be on Yewdar, wh
 * [The Osan](#the-osan)
 * [The Elves](#the-elves)
 * [The Gnomes](#the-gnomes)
+* [The Ogres](#the-ogres)
 
 ---
 
@@ -43,3 +44,28 @@ The gnomes are not native to Yewdar. They arrived in the Tempest Age when their 
 The gnomish people fought to defend themselves, but their foe was organized, implacable, and outnumbered them 10 to 1. In the end, a few hundred gnomish survivors, cornered in a minor holding with nowhere else to go, turned to their mages. The wizened old masters bent their magic to powerful portals that pierced the barrier between planes, and the gnomes escaped their fallen homeland.
 
 The gnomes have integrated themselves into most major cultures around Yewdar in the ~1,700 years since their arrival. They are still an industrious and inquisitive people, but their originally sunny outlook has been displaced by wary skepticism and a desire to prepare for misfortune.
+
+## The Ogres
+
+The ogres do not exist in the histories of any mortal peoples. Ogres have been exceptionally rare on Yewdar since the Black Age, before any of the surviving kith began keeping historical records. What is known of the ogres comes down from archaeology, myths, and oral tradition. The ogres were immense humanoids that measured over three meters tall, azure skinned, and possessed of both great strength and towering intellect.
+
+There is no firm estimate of how many ogres there were, but archaeological digs have found ruins of large buildings and other constructs with magical construction techniques matched only by the dragons of Cthene. Most of these finds are clustered around the equator.
+
+Since the dawn of the Tempest Age, there have been few encounters with living ogres, or at least an offshoot of their people. These “lesser ogres” are feral, brutish versions of the mythic originals, more given to hunting and subsistence than the great works of their forebears.
+
+Amazingly, there are a few written ogre works that survived the tumult of the Black Age, preserved in their ruins by means unknown to modern magic. This has allowed scholars to decipher some of their written language and gain a small understanding of them…
+
+Ogre society was matriarchal, and their understanding of magic and the physical world surpassed that of even current scholars millennia later. They were intensely interested in the nature of reality, and their worldview bridged philosophy and magic in confounding ways.
+
+Unlike with the dragons, there is no historical date or chronological record of the ogre’s disappearance from Yewdar. They were in Yewdar in the Sublime Age, and not seen again after the daemonic invasion of the Black Age. All that remains are their buried works.
+
+Ogre works are very geometric in design. They were quite taken by clean, precise polygonal and polyhedral design, with a particular preference for triangles, pentagons, and dodecahedrons.
+
+### The Strange Case of Naur Xa'dir
+
+A special agent of the Kulturian Navy, elf Naur Xa’dir, has now had two separate encounters with what appear to be spectral ogres. These encounters occurred a dozen years apart, with the current incident on an unknown island in the southern Great Ocean… near the equator.
+
+In the first encounter, Agent Xa’dir seems to have participated in a disjoint timeline where an airship he was on exploded in midair. There were no survivors.
+
+Days later the airship arrived, intact, at its next destination with all crew and passengers aboard.
+The only evidence of Agent Xa’dir’s recounting of his experiences is that he arrived back at base in possession of an ogre tome no others had heard of or seen before… in the original bindings and in *pristine* condition.
