@@ -2,18 +2,43 @@
 
 Twelve deities watch over Yewdar and its inhabitants. Anyone can venerate one of them, and many lay people worship the Twelve in a general sense as part of an ecumenical faith. Others hold one or a few deities as their personal or household patrons. For example, a craftsman is likely to have a shrine to Ka in their workshop, and an army barracks might have a symbol of Dynu on the entrance's lintel.
 
-- **Dynu**, God of Valor
-- **Ka**, Goddess of Strength
-- **Vor**, Goddess of Mercy
-- **N'er**, God of Time
-- **Enakoh**, God of Life
-- **Abasys**, Goddess of Death
-- **Meno**, Goddess of Knowledge
-- **Jashus**, God of Dreams
-- **Mym**, Goddess of Luck
-- **Gur**, Goddess of War
-- **Perak**, God of Pain
-- **Illirael**, God of Trickery
+- **[Dynu](#dynu)**, God of Valor
+- **[Ka](#ka)**, Goddess of Strength
+- **[Vor](#vor)**, Goddess of Mercy
+- **[N'er](#ner)**, God of Time
+- **[Enakoh](#enakoh)**, God of Life
+- **[Abasys](#abasys)**, Goddess of Death
+- **[Meno](#meno)**, Goddess of Knowledge
+- **[Jashus](#jashus)**, God of Dreams
+- **[Mym](#mym)**, Goddess of Luck
+- **[Gur](#gur)**, Goddess of War
+- **[Perak](#perak)**, God of Pain
+- **[Illirael](#illirael)**, God of Trickery
+
+## Patronage by Kith
+
+The ten "deifacted" kith have a patron deity, though their relationship with them varies. Notice that the gods of life and death are patrons of no specific people. Their spheres encompass all.
+
+Abasys refrains from being patron of any specific peoples because she insists her reign over death and souls demands that she be impartial.
+
+Enakoh doesn't have his own people because he is so enamored with *making* life that he never slows down to actually *care* for it.
+
+| Deity    | Sphere    | Kith     |
+|:---------|:----------|:---------|
+| Dynu     | Valor     | Human    |
+| Ka       | Strength  | Dwarf    |
+| Vor      | Mercy     | Div'     |
+| N'er     | Time      | Qandaha  |
+| Enakoh   | Life      |          |
+| Abasys   | Death     |          |
+| Meno     | Knowledge | Halfling |
+| Jashus   | Dreams    | Elf      |
+| Mym      | Luck      | Gnome    |
+| Gur      | War       | Orc      |
+| Perak    | Pain      | Turahl   |
+| Illirael | Trickery  | Gnome    |
+
+The Talosan and Drakon peoples are "mortifacted" kith: created by mortal beings entire, with no direct hand from the Twelve. As such, they have no patron diety, but individuals may worship (or not worship) as they see fit, the same as any other kith.
 
 ---
 

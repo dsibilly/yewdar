@@ -1,6 +1,6 @@
 ## Currency
 
-Each nation-state has its own currencies. The table below lists the nation-state and its largest denomination. Note that the orcs of Hol Khozet do not mint coins. Their economy functions via trade of non-perishable foodstuffs and territory.
+Each nation-state has its own currency. The table below lists the nation-state and its largest denomination. Note that the orcs of Hol Khozet do not mint coins. Their economy functions via trade of non-perishable foodstuffs and territory.
 
 | Nation | Coin | Approx. Value |
 |:-------|:-----|:-------------:|

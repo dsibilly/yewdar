@@ -294,6 +294,21 @@ If you choose to play a halfling, modify your character as follows:
 | 10-11 | Focus: Strength \(Climbing\) |
 | 12 | +1 Accuracy |
 
+### Stages of Life
+The Hin, or halflings, of Yewdar have three distinct physiological phases of life. Hinfolk live for about 60 years, with some rare, exceptional folk reaching the age of 80. The first stage of their lives, known among them as neios (n-EYE-os), is effectively their childhood and adolescence. The lack of foot hair is the easiest way to identify a young halfling.
+
+The onset of foot hair around age 18-24 (and other body developments) heralds a halfling's entry into the kentros (ken-TROS) stage of life. Physical changes help define what a Hin will look like for the remainder of their life, barring physical aging. Wanderlust sets in.
+
+Hin wanderlust is such a powerful impulse in the kentros years that much of halfling culture is built around the phenomenon. This need to explore and travel is so fundamental that some families express disappointment in "late bloomers" who stay home past 25.
+
+While the onset of wanderlust is pretty consistent among most Hin, the duration is wildly varied. It's accepted folk knowledge that Meno, goddess of knowledge and creator of the Hin, sends each person out to find or learn something new. In so doing, they become complete.
+
+Between ages 35 and 40, Hin wanderlust tends to subside and yields to a nesting instinct. This is when most halflings find a mate and, if they're interested, have children. They have arrived in the palios (PA-lee-os) phase of life, where they will remain until they die.
+
+Hin palios may be aged but they do not seem to physically deteriorate in the same way that elder members of the larger kith do. Slow, degenerative death is most uncommon among halflings unless they are otherwise ill. Hin are blessed in their ability to carry on until the end. The concept of returning home to care for one's parents is uncommon. In some cases, a child's late adolescence may line up with a parent's demise, and they would see to their welfare if required.
+
+Also, while wanderlust is powerful and nearly universal among the halflings, it is not a prohibition on returning to their family for the duration. It is more a drive to not stay in one place for very long. A wandering Hin can and likely would return home if there was trouble.
+
 ---
 
 ## Orc

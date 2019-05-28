@@ -25,9 +25,11 @@ The *Yewdar Player's Guide* is © 2017-2019 Duane Sibilly, II. The Adventure Gam
     * [Dragons of the Realm](dragons.md)
 * [Geography](continents.md)
     * [Political Regions](political_regions.md)
+	* [Seven Wonders of the World](seven-wonders.md)
 * [The Planes](planes.md)
 * [Apex City: The Jewel of the Plains](apex-city.md)
 * [Currency in Yewdar](currencies.md)
+* [Magic and Technology in Yewdar](magic-and-tech.md)
 
 ## Welcome to Yewdar
 
