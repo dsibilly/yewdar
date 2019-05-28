@@ -9,6 +9,16 @@ Yewdar is home to four known continents, listed below.
 
 ![](/assets/yewdar_global_map_projection.png)
 
+In addition to these continents, there are also other [planes of existence](planes.md), and a vast subterranean area.
+
+## What Lies Beneath
+
+The subterranean interior of Yewdar is a dark, dangerous place. Exotic flora and fauna inhabit the echoing fissures & caverns in the deep places.
+
+Of the surface folk, only the dwarves have extensive experience with underground living, and while they will share knowledge of raising subsurface livestock or agriculture, they do not often speak of the native dangers of the deeps with outsiders…
+
+## Geological Changes
+
 Geography has been pretty static since the Sublime Age, given that the entirety of recorded history since fits into a few millennia. There are signs of many natural disasters:
 * An asteroid impact created the Bay of Gur in Chimak
 * The rich soil of Hol Khozet and the Reisian islands in Osenia are the result of sediment deposits from tsunami impacts.
