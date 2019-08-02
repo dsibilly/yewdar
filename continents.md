@@ -32,11 +32,11 @@ By far the largest continent, Osenia is located in the eastern hemisphere of the
 
 ## Cheland
 
-
+*TBA*
 
 ## Chimak
 
-![](/assets/chimak_closeup.jpg)
+![](/assets/chimak_closeup.png)
 
 Located in the western hemisphere and mostly in the southern half of the planet, Chimak is the second largest continent on Yewdar. It has a variety of climes but is best known for its dense forest, forbidding mountain ranges, and the large Bay of Gur, an oceanic impact crater named for the goddess of war. The Alsan peoples, one of the three branches of humanity, is native to Chimak, as are the Qandaha minotaurs and the Div'.
 

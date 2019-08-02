@@ -167,7 +167,7 @@ Illirael did nothing.
 
 The sun, having returned from its refuge behind the moon, was shining on a particularly inviting rock. There Illirael sat, basking. Before too long, Kasalt happened by, its roar shaking the heavens.
 
-"My, that is a mighty sound," remaked Illirael. "Is it possible that you have the loudest roar in all the world?" Kasalt bellowed that this was indeed the case. "Hm. I am not sure I believe that," Illirael responded. From his glorious waistcoat, he pulled a small crystal. "If you truly had the loudest roar, it would shatter this crystel with a single mighty shout!"
+"My, that is a mighty sound," remarked Illirael. "Is it possible that you have the loudest roar in all the world?" Kasalt bellowed that this was indeed the case. "Hm. I am not sure I believe that," Illirael responded. From his glorious waistcoat, he pulled a small crystal. "If you truly had the loudest roar, it would shatter this crystel with a single mighty shout!"
 
 Kasalt breathed in and let loos a bellow which shook the world to its core. The sun, scared again, went dim from fear. The sound of the roar engulfed the crystal. The stone quivered, then shook, then shattered. A small piece of it embedded itself in Illirael's hand. "My dear dragon, I must concede that you do *indeed* have the mightiest roar." He patted the rock he sat upon with his left hand, for his right hand was bleeding. "I will sit here and consider that sound. You have given me much to think about." Kasalt bellowed happily and continued on its way.
 
