@@ -307,14 +307,10 @@ If you choose to play a halfling, modify your character as follows:
 
 * Add +1 to your Dexterity ability.
 * Pick one of the following ability focuses:
-
   * Communication \(Bargaining\)
   * Dexterity \(Stealth\)
-
 * Your Speed is equal to 8 + Dexterity, minus your armor penalty.
-
 * You can speak and read Hinwise \(the halfling language\) and the Common Tongue.
-
 * Roll twice on the Halfling Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
 ### Halfling Benefits
@@ -510,8 +506,6 @@ If you choose to play an orc, modify your character as follows:
 
 ---
 
-
-
 ## Qandaha
 
 The Qandaha (pronounced *kan-da-ha*; singular *Qan*) are a hearty bovine humanoid people from the steppes and forests of the Aqori Imperium, akin to minotaurs in other settings.
@@ -614,7 +608,7 @@ You are a living construct.
 | [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - | - |
 | [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - | Three ethnic groups |
 | [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight | - |
-| [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - | Entropic Heritage |
+| [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | Dark Sight | Entropic Heritage |
 | [Drakon](#drakon) | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - | Draconic Breath |
 | [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight | - |
 | [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight | - |
