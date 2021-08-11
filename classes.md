@@ -356,7 +356,7 @@ You gain magic points as you rise in level. From levels 2 through 10, you gain y
 **New Talent**: You become a Novice in a new talent, or gain a degree in a talent you already have.
 
 #### Level 12
-**Shield of Faith**: Your magic defends the faith, and your allies. When you use the Mana Shield stunt, the Defense bonus also applies to all allies within 16 yards.
+**Shield of Faith**: Your magic defends the faith, and your allies. When you use the Magic Shield stunt, the Defense bonus also applies to all allies within 16 yards.
 
 **New Specialization**: You may choose one specialization for your class. You gain the Novice degree of its specialization talent.
 
