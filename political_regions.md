@@ -26,6 +26,8 @@ An old, proud nation; home to the Osan human peoples. Formerly colonized by the 
 
 A mercantile oligarchy that separated from Kulturia some 25 years ago. Home to Apex City, the great metropolis of the Osenian continent. Run by a council of powerful commercial enterprises and merchant houses, Laurentia is the largest producer of arcanathyst in the world. They have a large population of Talosan, artificial constructs, which were built to serve as an army in what was assumed to be a civil war against the Kulturian crown. When Kulturia stood down their forces on the eve of battle in what would be known as the Bloodless War, the Talosan were found to have developed sentience. They have since integrated (somewhat) into society. Laurentia is governed by the Board of Ministers. The current First Minister is Dimitri Vengar, owner of the Mesa Yield Mining company.
 
+![](/assets/laurentia_closeup.png)
+
 ## The Reisian Principalities
 
 ![](/assets/Reisian_Principalities.png)
@@ -45,6 +47,8 @@ These seven islands exist as independent states that trade and negotiate with ea
 
 The Principalities are run by a council known as the Synod of Princes, with delegates from each island state. There is no official, singular leader, but in practice Hinkian Prince Xenophus Managos regulates the pulse of the Synod in international affairs.
 
+![](/assets/reisian_principalities_closeup.jpg)
+
 ### History of the Principalities
 
 In the early Mourning Age, King Kulturon I designated his halfling comrade Reis Eliade as the Crown Expeditioner. Her first task was to travel around the continent and return with an accurate map. Reis would return seven years later with her completed map… along with artifacts and observations from all the various regions of the continent. For her astounding accomplishment, the King granted Reis (now called Reis the Wanderer or Reis the Grand Explorer) and her people the islands off the continent's southeast coast. The islands were not technically Kulturia's to *give,* mind you… but there were also no existing communities living there at the time, so there was no one to complain about the new arrivals.
@@ -55,6 +59,8 @@ In the early Mourning Age, King Kulturon I designated his halfling comrade Reis 
 
 The vast jungles of Southern Osenia. While not an officially declared nation as others might be, all other countries respect the jungles as de facto sovereign territory of the orcish people. The jungles themselves are dense, dark, and dangerous to lifeforms not prepared for its vicious cycles of life and death. The orcs themselves have extensive contact with the rest of the world, but not as a single entity. There are thirteen orcish clans, and each has its own traditions and opinions on dealing with other peoples and travel to other lands. There is a history of bitter conflict between the orcs and the dwarves of Grendia, with whom they share the longest national border on the continent.
 
+![](/assets/hol_khozet_closeup.png)
+
 ## Grendia
 
 ![](/assets/Grendia.png)
@@ -63,7 +69,7 @@ The Eternal Holdfast of Grendia-Under-The-Mountains, known colloquially as Grend
 
 Seven massive underground cities exist beneath the mountains, but few outsiders ever get to venture beneath the surface, as the dwarves are a gruff and private people. There are also a number of surface or hybrid settlements along the length of the mountain range, and these settlements tend to be more welcoming of outsiders (but not by much). In the southern reaches, surface settlements are more common, but there are frequent skirmishes between the orc clans of Hol Khozet and the dwarf clans of Grendia.
 
-![](/assets/osenia_closeup.jpg)
+![](/assets/grendia_closeup.png)
 
 The center of Grendian political life is in Rockhome, ancestral home of the Axforge clan and situated south of the mountain passes that link the Great Osenian Highroad between Fort Dori in Kulturia and The Anvil in Laurentia. Rockhome is where the two political entities of the dwarven government meet. The first is a feudal council known as the Clansraed. The Clansraed is a hereditary council of feudal aristocrats that expresses the will of the clans from across the mountains. The second is the Crown, a hereditary monarchy maintained by the current ruling clan, who leads all of the clans in war and negotiates with other nations on their behalf. The ruling clan can be replaced by another clan by rite of combat against the ruling monarch or unanimous discommendation by the entire Clansraed. Currently, the ruler is Dorin Axforge.
 
@@ -101,6 +107,8 @@ On the last day of the Tempest Age, the Day of Broken Scales, something went hor
 Modern-day Cthene is dotted with rock outcroppings, treacherous cliffs, and the ruins of dragon cities. The drakon people, left behind after the mysterious disappearance of their dragon creators, continue to live in the Cthene Wastes in small, nomadic communities. They eke out a living in the Cthene Wastes, taking shelter from the unforgiving desert climate in a series of protected sietches: rock formations that provide shelter from the sandstorms and brutal daytime sun. Because of this, their communities are also called sietches. These tribes are not full aligned with each other, and there is no functioning "national" government in the desert.
 
 The effects of the Day of Broken Scales continues to make themselves known in Cthene. Magic doesn't work here consistently. Sometimes spells and rituals work normally, sometimes they don't work at all, and sometimes they have wild effects. Airships cannot fly over the Wastes. Those that try plummet right out of the sky just a few miles inside the edge of the sands.
+
+![](/assets/cthene_with_sietches.jpg)
 
 There are a few points of interest to explorers and adventurers braving the arid wastelands of Cthene.
 - Dusthold
