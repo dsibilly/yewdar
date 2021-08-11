@@ -4,17 +4,18 @@ Yewdar is home to many kith of sentient beings. Some of them are native to the w
 
 There are a total of eight playable kith in the Yewdar campaign setting:
 
-* [Humans](#human)
-    * [Alsan](#alsan)
-    * [Osan](#osan)
-    * [Irsan](#irsan)
+* [Div'](#div)
+* [Drakon](#drakon)
 * [Elves](#elf)
 * [Dwarves](#dwarf)
 * [Gnomes](#gnome)
 * [Halflings](#halfling)
+* [Humans](#human)
+    * [Alsan](#alsan)
+    * [Osan](#osan)
+    * [Irsan](#irsan)
 * [Orcs](#orc)
-* [Drakon](#drakon)
-* [Div'](#div)
+* [Qandaha](#qandaha)
 * [Talosan](#talosan)
 * [Kith Reference Table](#kith-reference-table)
 
@@ -22,98 +23,133 @@ There are other kith, sentient and otherwise, but they are reserved for use by t
 
 ---
 
-## Human
+## Div'
 
-Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older kith see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
+![](/assets/Tiefling.png)
 
-Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
+The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
 
-### Playing a Human
+The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
 
-If you choose to play a human, modify your character as follows:
+Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
 
-* Add +1 to your Fighting ability
+### Div' Names
+
+**Female:** TBD
+**Male:** TBD
+
+### Playing a Div'baharat
+
+If you choose to play a div'baharat, modify your character as follows:
+
+* Add +1 to your Communication ability.
+* You gain the Kith Talent Entropic Heritage (Novice). You may spend Talent (or Magic Talent) points as you level to increase degrees in this Talent.
 * Pick one of the following ability focuses:
-  * Dexterity \(Riding\)
-  * Constitution \(Swimming\)
-* Your speed is equal to 10 + Dexterity, minus your armor penalty
-* You can speak and read the Common Tongue
-* Choose one of the human ethnicities. Roll twice on the benefits table for that ethnicity for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+    * Communication (Disguise)
+    * Strength (Intimidation)
+* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read the Common Tongue.
+* Roll twice on the Div'baharat Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
-### Alsan
+### Kith Talent: Entropic Heritage
 
-![](/assets/Seelah.jpg)
+Classes: Any
 
-The Alsan peoples originally hail from the Aqor Imperium on the Chimak continent far to the west of Osenia. They "discovered" Osenia in antiquity, though it was already populated by Osan clans. Being relatively advanced compared to the native Osan, they quickly established a vast colony on Osenia to exploit the continent's lush natural resources. This vassal state later came to be known as the Nevrodt Empire, which the Osan eventuallly overthrew when they founded modern-day Kulturia. In the 1,200 years since the fall of Nevrodt, the remaining Alsan humans have integrated thoroughly into Kulturian society. They are a dark-brown skinned people with dark, straight hair, stout-framed with broad faces.
+Kith: Div'baharat
 
-#### Alsan Names
+Your bloodline has been touched by chaotic energies from beyond.
 
-**Female:** Meral, Niha, Yasmin, Hasret, Eren  
-**Male:** Taylan, Ergan, Ateç, Fardin, Rami  
-**Surnames:** Toprak, Korun, Acar, Yener, Caglar
+**Novice:** You can sense the presence of daemons and entropic energy on a successful Perception (Tracking) test. This sense is reliable, but can be overwhelmed and diffused by the presence of other magical energies nearby. Successful test results give you a sense of direction and magnitude of the energy, but not necessarily distance.
 
-#### Alsan Benefits
+**Journeyman:** You have the Entropic Healing power. You may spend a Minor Action to recover 1d6 + Consitution hit points. You may use this power a number of times per day equal to your Communication
+
+**Master:** The chaos in your blood can be channeled with practice. Once per day, you may choose a successful test that yields stunt points and re-roll the stunt die. The re-roll *only* changes the number of stunt points generated and *not* the original result of the test. You must keep the results of the re-roll, even if they are lower than the original stunt point result.
+
+### Div'baharat Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Strength |
+| 3-4 | Focus: Willpower \(Self-Discipline\) |
+| 5 | Focus: Intelligence \(Religious Lore\) |
+| 6 | Focus: Communication (Persuasion) |
+| 7-8 | +1 Constitution |
+| 9 | Focus: Dexterity \(Stealth\) |
+| 10-11 | Focus: Dexterity \(Acrobatics\) |
+| 12 | +1 Willpower |
+
+---
+
+## Drakon
+
+![](/assets/Character_2da80f_5793915.jpg)
+
+Draconic humanoids, the drakon are a long-lived result of arcane-engineered life. They were created by the dragons of old as shock troopers for the ancient Cthene Empire. After the Day of Broken Scales, when dragons disappeared from the world, the drakon were left leaderless and lost. Now few in number, they live on the fringes of humanoid society. They take odd jobs or wander nomadically in small bands, trying to eke out a living in a world that disdains them. More than a few drakon have settled in the Cthene Wastes, the ruined remnants of their original home. There they search out clues of their progenitors' mysterious disappearance.
+
+### Drakon Names
+
+**Female:** Malrim, Thergrod, Zengil, Suvyre, Lorazys  
+**Male:** Aligac, Patrim, Lumigran, Frogar, Jarghull
+
+Drakon have no surnames
+
+### Playing a Drakon
+
+If you choose to play a drakon, modify your character as follows:
+
+* Add +1 to your Constitution ability.
+* You gain the Kith Talent Draconic Breath \(Novice\). You may spend Talent \(or Magic Talent\) points as you level to increase  degrees in this Talent.
+* Pick one of the following ability focuses:
+  * Willpower \(Self-Discipline\)
+  * Strength \(Intimidation\)
+* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
+* You can speak and read Draconic and the Common Tongue.
+* Roll twice on the Drakon Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+#### Kith Talent: Draconic Breath
+
+Classes: Any  
+Kith: Drakon
+
+You wield a breath weapon like your dragon ancestors.
+
+**Novice: **You gain the following attack:  
+Choose a target within 10 yards. Make a successful Accuracy attack against that target to deal 1d6+2 penetrating damage to them. You may use this attack a number of times per day equal to your Constitution. The nature of your breath weapon is based on the draconic bloodline that is most dominant in your heritage.
+
+**Journeyman:** Your draconic breath now deals 2d6+2 penetrating damage.
+
+**Master:** Your draconic breath attack widens to an area of effect 10 yards long and three yards wide. Anyone caught in the blast takes 2d6+2 penetrating damage. Targets that succeed on an opposed Dexterity \(Acrobatics\) test against your attack roll ignore all the damage.
+
+##### Draconic Breath Types
+
+NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, which are in development.
+
+| Dragon Type | Damage Type |
+| :--- | :--- |
+| Black | Acid |
+| Blue | Lightning |
+| Green | Poison |
+| Red | Fire |
+| White | Ice |
+| Brass | Fire |
+| Bronze | Lightning |
+| Copper | Acid |
+| Gold | Fire |
+| Silver | Iced |
+
+### Drakon Benefits
 
 | 2d6 Roll | Benefit |
 | :---: | :--- |
 | 2 | +1 Intelligence |
 | 3-4 | Focus: Constitution \(Stamina\) |
-| 5 | Focus: Perception \(Searching\) |
-| 6 | Focus: Communication \(Persuasion\) |
-| 7-8 | +1 Constitution |
-| 9 | Focus: Communication \(Deception\) |
-| 10-11 | Focus: Accuracy \(Brawling\) |
+| 5 | Focus: Intelligence \(Natural Lore\) |
+| 6 | Focus: Strength \(Might\) |
+| 7-8 | +1 Willpower |
+| 9 | Focus: Intelligence \(Historical Lore\) |
+| 10-11 | Focus: Perception \(Smelling\) |
 | 12 | +1 Strength |
-
-### Osan
-
-![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
-
-The Osan peoples are a culturally Sannic-speaking group of humans native to the northwest region of the continent of Osenia. They are the most populous ethnicity of humans on Yewdar. "San," incidentally, is humanity's word for themselves in the common tongue Sannic. They were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
-
-#### Osan Names
-
-**Female:** Kaja, Sigrun, Ane, Julfrid, Tordis  
-**Male:** Kristof, Rasmus, Mads, Peder, Unrik  
-**Surnames:** Bylund, Narum, Helberg, Wallin, Syrén
-
-#### Osan Benefits
-
-| 2d6 Roll | Benefit |
-| :---: | :--- |
-| 2 | +1 Willpower |
-| 3-4 | Focus: Perception \(Tracking\) |
-| 5 | Focus: Strength \(Might\) |
-| 6 | Focus: Willpower \(Courage\) |
-| 7-8 | +1 Strength |
-| 9 | Focus: Constitution \(Running\) |
-| 10-11 | Focus: Intelligence \(Historical Lore\) |
-| 12 | +1 Constitution |
-
-### Irsan
-
-![](/assets/1d543e5429b6fe1e33cb81ff61d91ca7.jpg)
-
-The Irsan originated not from Osenia itself but from the nearby island sub-continent of Cheland to the southwest. They have a long history as a pastoral people, and their rolling plains replete with farms are considered the “breadbasket of Osenia.” Their culture values etiquette, conversation, honesty and hard work. They are hard-headed and practical, hardy and strong without being quarrelsome or unduly boisterous, brave without being melancholy or prideful. The Irsan are light olive-brown skinned, with dark and curled hair, and of middling height.
-
-#### Irsan Names
-
-**Female:** Frida, Rike, Siarna, Jael, Anneli  
-**Male:** Eduard, Karlo, Jodin, Kimo, Matti  
-**Surnames:** Scheiss, Kislig, Laube, Briner, Trubel
-
-#### Irsan Benefits
-
-| 2d6 Roll | Benefit |
-| :---: | :--- |
-| 2 | +1 Communication |
-| 3-4 | Focus: Constitution \(Stamina\) |
-| 5 | Focus: Willpower \(Courage\) |
-| 6 | Focus: Communication \(Bargaining\) |
-| 7-8 | +1 Constitution |
-| 9 | Focus: Perception \(Empathy\) |
-| 10-11 | Focus: Communication \(Etiquette\) |
-| 12 | +1 Willpower |
 
 ---
 
@@ -271,14 +307,10 @@ If you choose to play a halfling, modify your character as follows:
 
 * Add +1 to your Dexterity ability.
 * Pick one of the following ability focuses:
-
   * Communication \(Bargaining\)
   * Dexterity \(Stealth\)
-
 * Your Speed is equal to 8 + Dexterity, minus your armor penalty.
-
 * You can speak and read Hinwise \(the halfling language\) and the Common Tongue.
-
 * Roll twice on the Halfling Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
 ### Halfling Benefits
@@ -293,6 +325,116 @@ If you choose to play a halfling, modify your character as follows:
 | 9 | Focus: Perception \(Hearing\) |
 | 10-11 | Focus: Strength \(Climbing\) |
 | 12 | +1 Accuracy |
+
+### Stages of Life
+The Hin, or halflings, of Yewdar have three distinct physiological phases of life. Hinfolk live for about 60 years, with some rare, exceptional folk reaching the age of 80. The first stage of their lives, known among them as neios (n-EYE-os), is effectively their childhood and adolescence. The lack of foot hair is the easiest way to identify a young halfling.
+
+The onset of foot hair around age 18-24 (and other body developments) heralds a halfling's entry into the kentros (ken-TROS) stage of life. Physical changes help define what a Hin will look like for the remainder of their life, barring physical aging. Wanderlust sets in.
+
+Hin wanderlust is such a powerful impulse in the kentros years that much of halfling culture is built around the phenomenon. This need to explore and travel is so fundamental that some families express disappointment in "late bloomers" who stay home past 25.
+
+While the onset of wanderlust is pretty consistent among most Hin, the duration is wildly varied. It's accepted folk knowledge that Meno, goddess of knowledge and creator of the Hin, sends each person out to find or learn something new. In so doing, they become complete.
+
+Between ages 35 and 40, Hin wanderlust tends to subside and yields to a nesting instinct. This is when most halflings find a mate and, if they're interested, have children. They have arrived in the palios (PA-lee-os) phase of life, where they will remain until they die.
+
+Hin palios may be aged but they do not seem to physically deteriorate in the same way that elder members of the larger kith do. Slow, degenerative death is most uncommon among halflings unless they are otherwise ill. Hin are blessed in their ability to carry on until the end. The concept of returning home to care for one's parents is uncommon. In some cases, a child's late adolescence may line up with a parent's demise, and they would see to their welfare if required.
+
+Also, while wanderlust is powerful and nearly universal among the halflings, it is not a prohibition on returning to their family for the duration. It is more a drive to not stay in one place for very long. A wandering Hin can and likely would return home if there was trouble.
+
+---
+
+## Human
+
+Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older kith see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
+
+Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
+
+### Playing a Human
+
+If you choose to play a human, modify your character as follows:
+
+* Add +1 to your Fighting ability
+* Pick one of the following ability focuses:
+  * Dexterity \(Riding\)
+  * Constitution \(Swimming\)
+* Your speed is equal to 10 + Dexterity, minus your armor penalty
+* You can speak and read the Common Tongue
+* Choose one of the human ethnicities. Roll twice on the benefits table for that ethnicity for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+
+### Alsan
+
+![](/assets/Seelah.jpg)
+
+The Alsan peoples originally hail from the Aqor Imperium on the Chimak continent far to the west of Osenia. They "discovered" Osenia in antiquity, though it was already populated by Osan clans. Being relatively advanced compared to the native Osan, they quickly established a vast colony on Osenia to exploit the continent's lush natural resources. This vassal state later came to be known as the Nevrodt Empire, which the Osan eventuallly overthrew when they founded modern-day Kulturia. In the 1,200 years since the fall of Nevrodt, the remaining Alsan humans have integrated thoroughly into Kulturian society. They are a dark-brown skinned people with dark, straight hair, stout-framed with broad faces.
+
+#### Alsan Names
+
+**Female:** Meral, Niha, Yasmin, Hasret, Eren  
+**Male:** Taylan, Ergan, Ateç, Fardin, Rami  
+**Surnames:** Toprak, Korun, Acar, Yener, Caglar
+
+#### Alsan Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Intelligence |
+| 3-4 | Focus: Constitution \(Stamina\) |
+| 5 | Focus: Perception \(Searching\) |
+| 6 | Focus: Communication \(Persuasion\) |
+| 7-8 | +1 Constitution |
+| 9 | Focus: Communication \(Deception\) |
+| 10-11 | Focus: Accuracy \(Brawling\) |
+| 12 | +1 Strength |
+
+### Osan
+
+![](/assets/05677f86f52c689e01c072ee20ea69aa.jpeg)
+
+The Osan peoples are a culturally Sannic-speaking group of humans native to the northwest region of the continent of Osenia. They are the most populous ethnicity of humans on Yewdar. "San," incidentally, is humanity's word for themselves in the common tongue Sannic. They were originally hardy folk accustomed to the extremes of their land. Centuries of subjugation by the Nevrodt Empire and forced "civilization" at the hands of their conquerors advanced their society considerably. By the time they overthrew their would-be masters the Osan were inheritors of industry and magic that were previously the exclusive realm of their clan priests. They are proud of their history as a people who threw off the yoke of oppression, and they value strength of body and mind. The Osan are now the most populous ethnicity of human on Osenia, with their home kingdom Kulturia remaining the largest and most powerful in the region. They are fair-skinned, with light-colored wavy hair. They tend to be tall, averaging from 1.7 meters to 2 meters.
+
+#### Osan Names
+
+**Female:** Kaja, Sigrun, Ane, Julfrid, Tordis  
+**Male:** Kristof, Rasmus, Mads, Peder, Unrik  
+**Surnames:** Bylund, Narum, Helberg, Wallin, Syrén
+
+#### Osan Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Willpower |
+| 3-4 | Focus: Perception \(Tracking\) |
+| 5 | Focus: Strength \(Might\) |
+| 6 | Focus: Willpower \(Courage\) |
+| 7-8 | +1 Strength |
+| 9 | Focus: Constitution \(Running\) |
+| 10-11 | Focus: Intelligence \(Historical Lore\) |
+| 12 | +1 Constitution |
+
+### Irsan
+
+![](/assets/1d543e5429b6fe1e33cb81ff61d91ca7.jpg)
+
+The Irsan originated not from Osenia itself but from the nearby island sub-continent of Cheland to the southwest. They have a long history as a pastoral people, and their rolling plains replete with farms are considered the “breadbasket of Osenia.” Their culture values etiquette, conversation, honesty and hard work. They are hard-headed and practical, hardy and strong without being quarrelsome or unduly boisterous, brave without being melancholy or prideful. The Irsan are light olive-brown skinned, with dark and curled hair, and of middling height.
+
+#### Irsan Names
+
+**Female:** Frida, Rike, Siarna, Jael, Anneli  
+**Male:** Eduard, Karlo, Jodin, Kimo, Matti  
+**Surnames:** Scheiss, Kislig, Laube, Briner, Trubel
+
+#### Irsan Benefits
+
+| 2d6 Roll | Benefit |
+| :---: | :--- |
+| 2 | +1 Communication |
+| 3-4 | Focus: Constitution \(Stamina\) |
+| 5 | Focus: Willpower \(Courage\) |
+| 6 | Focus: Communication \(Bargaining\) |
+| 7-8 | +1 Constitution |
+| 9 | Focus: Perception \(Empathy\) |
+| 10-11 | Focus: Communication \(Etiquette\) |
+| 12 | +1 Willpower |
 
 ---
 
@@ -364,133 +506,46 @@ If you choose to play an orc, modify your character as follows:
 
 ---
 
-## Drakon
+## Qandaha
 
-![](/assets/Character_2da80f_5793915.jpg)
+The Qandaha (pronounced *kan-da-ha*; singular *Qan*) are a hearty bovine humanoid people from the steppes and forests of the Aqori Imperium, akin to minotaurs in other settings.
 
-Draconic humanoids, the drakon are a long-lived result of arcane-engineered life. They were created by the dragons of old as shock troopers for the ancient Cthene Empire. After the Day of Broken Scales, when dragons disappeared from the world, the drakon were left leaderless and lost. Now few in number, they live on the fringes of humanoid society. They take odd jobs or wander nomadically in small bands, trying to eke out a living in a world that disdains them. More than a few drakon have settled in the Cthene Wastes, the ruined remnants of their original home. There they search out clues of their progenitors' mysterious disappearance.
+**MORE FLAVOR/LORE TO COME**
 
-### Drakon Names
+### Qandaha Names
 
-**Female:** Malrim, Thergrod, Zengil, Suvyre, Lorazys  
-**Male:** Aligac, Patrim, Lumigran, Frogar, Jarghull
+**Female:** Jina, Samha, Mide, Sokhatai
+**Male:** Oyuun, Gamon, Dumok, Baltu
+**Surnames:** Argat, Gal, Khor, Suun
 
-Drakon have no surnames
+### Playing a Minotaur
 
-### Playing a Drakon
+If you choose to play a minotaur, modify your character as follows:
 
-If you choose to play a drakon, modify your character as follows:
-
-* Add +1 to your Constitution ability.
-* You gain the Kith Talent Draconic Breath \(Novice\). You may spend Talent \(or Magic Talent\) points as you level to increase  degrees in this Talent.
+* Add +1 to your Strength ability.
 * Pick one of the following ability focuses:
-  * Willpower \(Self-Discipline\)
-  * Strength \(Intimidation\)
-* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
-* You can speak and read Draconic and the Common Tongue.
-* Roll twice on the Drakon Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
+    * Strength (Might)
+    * Intelligence (Cryptography)
+* You gain Bull Rush: Whenever you take a successful Charge action, your horns add 2 bonus damage.
+* You gain Eidetic: Minotaurs have near-perfect memory; it's just a matter of sorting through everything they *can* remember. When you fail any Intelligence test involving a Lore focus, you may re-roll it but you must keep the result of the second roll.
+* Your Speed is equal to 10 + Dexterity, minus  your armor penalty.
+* You can speak and read Qan and the Common Tongue.
+* Roll twice on the Minotaur Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
 
-#### Kith Talent: Draconic Breath
-
-Classes: Any  
-Kith: Drakon
-
-You wield a breath weapon like your dragon ancestors.
-
-**Novice: **You gain the following attack:  
-Choose a target within 10 yards. Make a successful Accuracy attack against that target to deal 1d6+2 penetrating damage to them. You may use this attack a number of times per day equal to your Constitution. The nature of your breath weapon is based on the draconic bloodline that is most dominant in your heritage.
-
-**Journeyman:** Your draconic breath now deals 2d6+2 penetrating damage.
-
-**Master:** Your draconic breath attack widens to an area of effect 10 yards long and three yards wide. Anyone caught in the blast takes 2d6+2 penetrating damage. Targets that succeed on an opposed Dexterity \(Acrobatics\) test against your attack roll ignore all the damage.
-
-##### Draconic Breath Types
-
-NOTE: This is going to be reworked soon to incorporate Yewdar-specific dragons, which are in development.
-
-| Dragon Type | Damage Type |
-| :--- | :--- |
-| Black | Acid |
-| Blue | Lightning |
-| Green | Poison |
-| Red | Fire |
-| White | Ice |
-| Brass | Fire |
-| Bronze | Lightning |
-| Copper | Acid |
-| Gold | Fire |
-| Silver | Iced |
-
-### Drakon Benefits
+### Minotaur Benefits
 
 | 2d6 Roll | Benefit |
 | :---: | :--- |
-| 2 | +1 Intelligence |
-| 3-4 | Focus: Constitution \(Stamina\) |
-| 5 | Focus: Intelligence \(Natural Lore\) |
-| 6 | Focus: Strength \(Might\) |
-| 7-8 | +1 Willpower |
-| 9 | Focus: Intelligence \(Historical Lore\) |
-| 10-11 | Focus: Perception \(Smelling\) |
-| 12 | +1 Strength |
+| 2 | +1 Constitution |
+| 3-4 | Focus: Intelligence \(Writing\) |
+| 5 | Focus: Constitution \(Stamina\) |
+| 6 | Weapon Group: Bludgeons\* |
+| 7-8 | +1 Intelligence |
+| 9 | Focus: Perception \(Tracking\) |
+| 10-11 | Focus: Intelligence \(Cartography\) |
+| 12 | +1 Fighting |
 
----
-
-## Div'
-
-![](/assets/Tiefling.png)
-
-The Div' are the daemon-touched humanoids of the continent of Chimak. Long ago, when the first humans were being made, there was an incident. The daemons of Entropius were able to corrupt the nascent beings' physical forms, but they hadn't been provided with souls yet. Dynu, god of valor and the progenitor of humans, saw what had become of his creations and decided to wipe the slate clean and begin anew. His sister Vor, goddess of mercy, took pity upon the discarded mortals and took them as her own. Vor's love purged their forms of any lingering corruption, but left their bodies as they were: color-tinged, with glowing eyes, pointed fangs, and curved horns. As cousins to humanity, they could breed with humans, but any offspring would be new Div'.
-
-The Div' are native to the northern reaches of the Chimak continent, now part of the continent-spanning Aqori Imperium. There are communities in the deserts, mountains, and plains. Div' are, like most folk, broadly ecumenical, but tend to show special preference for the worship of Vor (mercy), Meno (knowledge), and Mym (luck).
-
-Reflecting their preferences in deities, Div' society is also highly matriarchal. Div' are fully integrated citizens of the Imperium, with the right to own property and establish Houses Minor if they have the resources and political support to do so. They are rare outside Chimak, though common enough in the metropolises like Apex City, Hinshire, and Lucara. The Div' have a closer connection to chaotic energies due to their entropic heritage. They can sense the presence of daemons, and some scions can channel entropy to heal themselves or even adjust the outcome of fateful events.
-
-### Div' Names
-
-**Female:** TBD
-**Male:** TBD
-
-### Playing a Div'baharat
-
-If you choose to play a div'baharat, modify your character as follows:
-
-* Add +1 to your Communication ability.
-* You gain the Kith Talent Entropic Heritage (Novice). You may spend Talent (or Magic Talent) points as you level to increase degrees in this Talent.
-* Pick one of the following ability focuses:
-    * Communication (Disguise)
-    * Strength (Intimidation)
-* You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
-* Your Speed is equal to 10 + Dexterity, minus your armor penalty.
-* You can speak and read the Common Tongue.
-* Roll twice on the Div'baharat Benefits table for additional benefits. Roll 2d6 and add the result together. If you get the same result twice, re-roll until you get two unique results.
-
-### Kith Talent: Entropic Heritage
-
-Classes: Any
-
-Kith: Div'baharat
-
-Your bloodline has been touched by chaotic energies from beyond.
-
-**Novice:** You can sense the presence of daemons and entropic energy on a successful Perception (Tracking) test. This sense is reliable, but can be overwhelmed and diffused by the presence of other magical energies nearby. Successful test results give you a sense of direction and magnitude of the energy, but not necessarily distance.
-
-**Journeyman:** You have the Entropic Healing power. You may spend a Minor Action to recover 1d6 + Consitution hit points. You may use this power a number of times per day equal to your Communication
-
-**Master:** The chaos in your blood can be channeled with practice. Once per day, you may choose a successful test that yields stunt points and re-roll the stunt die. The re-roll *only* changes the number of stunt points generated and *not* the original result of the test. You must keep the results of the re-roll, even if they are lower than the original stunt point result.
-
-### Div'baharat Benefits
-
-| 2d6 Roll | Benefit |
-| :---: | :--- |
-| 2 | +1 Strength |
-| 3-4 | Focus: Willpower \(Self-Discipline\) |
-| 5 | Focus: Intelligence \(Religious Lore\) |
-| 6 | Focus: Communication (Persuasion) |
-| 7-8 | +1 Constitution |
-| 9 | Focus: Dexterity \(Stealth\) |
-| 10-11 | Focus: Dexterity \(Acrobatics\) |
-| 12 | +1 Willpower |
+\*If the class you choose provides Weapon Group: Bludgeons, and you roll a 6 on the Minotaur Benefits table, take the focus Fighting \(Bludgeons\) instead.
 
 ---
 
@@ -548,14 +603,15 @@ You are a living construct.
 
 ## Kith Reference Table
 
-| Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight |
-| :--: | :--- | :--- | :--: | :--: | :--: |
-| [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - |
-| [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - |
-| [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight |
-| [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | - |
-| [Drakon](#drakon) | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - |
-| [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight |
-| [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight |
-| [Orc](#orc) | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight |
-| [Talosan](#talosan) | Strength | Constitution \(Stamina\) | 10 | Clickwise, Common | - |
+| Kith | Ability Increase | Focus Options | Base Speed | Languages | Sight | Notes |
+| :--: | :--- | :--- | :--: | :--: | :--: | :--: |
+| [Halfling](#halfling) | Dexterity | Communication \(Bargaining\)<br />Dexterity \(Stealth\) | 8 | Hinwise, Common | - | - |
+| [Human](#human) | Fighting | Dexterity \(Riding\)<br />Constitution \(Swimming\) | 10 | Common | - | Three ethnic groups |
+| [Elf](#elf) | Dexterity | Intelligence (Natural Lore)<br />Perception \(Seeing\) | 12 | Elven, Common | Dark Sight | - |
+| [Div'](#div) | Communication | Communication \(Disguise\)<br />Strength \(Intimidation\) | 10 | Common | Dark Sight | Entropic Heritage |
+| [Drakon](#drakon) | Constitution | Willpower \(Self-Discipline\)<br />Strength \(Intimidation\) | 10 | Draconic, Common | - | Draconic Breath |
+| [Dwarf](#dwarf) | Constitution | Constitution \(Drinking\)<br />Intelligence \(Evaluation\) | 8 | Dwarven, Common | Dark Sight | - |
+| [Gnome](#gnome) | Dexterity | Constitution \(Stamina\)<br />Dexterity \(Legerdemain\) | 8 | Gnomish, Common | Dark Sight | - |
+| [Orc](#orc) | Strength | Constitution \(Stamina\)<br />Strength \(Might\) | 10 | Orcish, Common | Dark Sight | - |
+| [Qandaha](#qandaha) | Strength | Intelligence \(Cryptography\)<br />Strength \(Might\) | 10 | Qan, Common | - | Bull Rush, Eidetic Memory |
+| [Talosan](#talosan) | Strength | Constitution \(Stamina\) | 10 | Clickwise, Common | - | Talos Forged |

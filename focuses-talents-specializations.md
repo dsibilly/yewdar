@@ -26,6 +26,8 @@ Yewdar adds a variety of ability focuses, talents, and specializations. It also 
     - [Scoundrel](#scoundrel)
     - [Scythe (Cleric of Abasys)](#scythe-cleric-of-abasys)
     - [Skald](#skald)
+	
+---
 
 ## New Ability Focuses
 A focus is an area of expertise within a more broad ability. These are explained in detail in the Fantasy AGE Basic Rulebook. Descriptions of the ability focuses added in Yewdar follow. Your GM has final say on whether a focus applies for a given ability test.
