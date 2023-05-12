@@ -23,6 +23,7 @@ The *Yewdar Player's Guide* is © 2017-2021 Duane Sibilly, II. The Adventure Gam
 	* [Chronicles of Each Kith](history-by-kith.md)
 	* [Marking the Passage of Time](calendar.md)
     * [Dragons of the Realm](dragons.md)
+    * [The Fallen Wyrms](fallen_wyrms.md)
 * [Gazetteer](continents.md)
     * [Political Regions](political_regions.md)
 	* [Yewdar's "Seven Wonders of the World"](seven-wonders.md)
