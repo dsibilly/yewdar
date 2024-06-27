@@ -19,6 +19,7 @@ Yewdar adds a variety of ability focuses, talents, and specializations. It also 
     - [Blade](#blade)
     - [Chronicler](#chronicler)
     - [Dervish](#dervish)
+    - [Dreamwalker](#dreamwalker)
     - [Fire Dancer](#fire-dancer)
     - [Holy Champion](#holy-champion)
     - [Inquisitor](#inquisitor)
@@ -210,6 +211,19 @@ Through practice and ritual you have attained deep insight into the art of battl
 **Journeyman**: You somersault back to your feet even after being knocked down. You can attempt a TN 17 Dexterity (Acrobatics) test after any effect that would normally knock you prone, such as the Knock Prone stunt. If you succeed, you remain standing.
 
 **Master**: You dash in and out of danger in the blink of an eye. You may move up to your total speed when you use the Charge action, instead of the usual half speed. Also, you may make the attack portion of the Charge action *at any point during your movement*; after the attack, you may continue to move, but at half your speed.
+
+### Dreamwalker
+
+**Class:** Mage, Templar
+**Requirements:** Intelligence 2, Willpower 2, and the Intelligence (Arcane Lore) focus
+
+You are touched by Jashus, and can wield the powers Vakaré, the Realm of Dreams.
+
+**Novice:** You gain the Novice degree of the Dream Arcana. Additionally, you can blur the line between the waking world and Vakaré. When you take damage, you can attempt to step into a space Between so that your physical body partially fades. The amount of damage you take from the attack is reduced by a number equal to your Willpower. This ability lasts until the beginning of your next turn, and may be used a number of times per day equal to your Constitution.
+
+**Expert:** Your experiences exploring dreams has empowered your spell casting. You may perform the Lasting Spell spell stunt for 1 SP less than usual. Once per encounter, you may also add your Intelligence (Arcane Lore) focus bonus to any other Lore-based test.
+
+**Master:** You only require 4 hours of sleep per day. Your connection to Vakaré has developed enough to allow you to summon a Thoughtedge Blade that you are automatically proficient with. The blade appears as a long sword made of crystal, but is harder than steel while in use. Using the Thoughtedge Blade requires an Intelligence (Dream Arcana) test to attack; the result of the test is the Defense you are able to hit. Damage is 1d6 + 4 + your Willpower. The blade persists for a number of rounds equal to 3 + your Willpower.
 
 ### Fire Dancer
 You channel the heat of passion into arcane might with your graceful dances, replacing song with athletic undulation.

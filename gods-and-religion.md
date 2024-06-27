@@ -51,7 +51,7 @@ _The Ever-Brave, Master of Fear, Timun, The Great Bull, The Fearless Falcon_
 
 **Appearance**: A strapping bare-chested human male, often astride a bull with silver horns, holding a falcon on one arm and a spear in the other hand. His alter-ego, Timun, takes many forms, usually a scrawny and timid stereotype of any mortal race.
 
-**Favored Arcana**: Heroic, Lightning, Protection
+**Favored Arcana**: Heroic, Lightning, Protection, Healing
 
 Dynu is a proud god, friendly but firm to his fellow deities and any mortals he encounters. He is filled with a need to inspire others to greatness; his own deeds and accomplishments are worthless if they do not move the mortals who witness them or hear of them to daring deeds of their own. He has a deep understanding of fear and anxiety, and despite being named the Fearless Falcon by his clergy, he is well-versed in being afraid. Dynu knows that the only way to *be* brave is to act *in spite* of fear, not in the absence of it. He has periodically appeared in the form of his alter-ego, Timun, who is the personification of anxiety and fearfulness. As Timun, he works to show mortals time and again that fear is never eliminated, but overcome.
 
@@ -66,7 +66,7 @@ _The Maker, Carver of Stone, Hands of Diamond, Mother of Metals_
 
 **Portfolio**: Raw strength, craft, competition
 
-**Favored Arcana**: Earth, Enchantment, Power
+**Favored Arcana**: Earth, Enchantment, Power, Healing
 
 **Appearance**: A swarthy dwarven female with deep brown hair in intricate braids, wearing a roughly finished set of crude plate armor.
 
@@ -102,7 +102,7 @@ _Keeper of the Allsaga, Chronicler, He Who Walks All Paths_
 
 **Appearance**: When appearing in humanoid form, N'er takes the shape of a child of a random race carrying a book bound with soft leather.
 
-**Favored Arcana**: Divination, Fate, Power
+**Favored Arcana**: Divination, Fate, Power, Healing
 
 N'er is an eternal child, which is a jarring juxtaposition with his eon-spanning vision. He is the chronicler of the gods, recording all events in the journal Allsaga. Some followers of N'er maintain that the deity *is* the Allsaga, and any other manifestations are merely expressions of the Allsaga's desire to witness all events in all timelines.
 
@@ -132,7 +132,7 @@ _Matron of Souls, Deathwarden, Keeper of the Endless Halls_
 
 **Appearance**: A young elven woman in a black, hooded robe. Her eyes are empty sockets.
 
-**Favored Arcana** Death, Cold, Fire
+**Favored Arcana** Death, Cold, Fire, Healing
 
 Abasys is goddess of death, of the afterlife and children. She is the ruler of the Endless Halls, where the souls of the deceased arrive when mortals perish. While death is her domain, she is no grim reaper. Abasys is an impartial judge of the dead, seeking only to ensure every living being comes to its timely end. She abhors the undead, seeing necromancy as a perversion of her domain. She has a special regard for children, particularly orphans. Many orphanages are funded at least in part by her clergy, and many of her followers were once orphans themselves.
 
@@ -141,7 +141,7 @@ Abasys is goddess of death, of the afterlife and children. She is the ruler of t
 ## Meno
 *Goddess of Knowledge*
 
-**Favored Arcana** Divination, Power, Psychic
+**Favored Arcana** Divination, Power, Psychic, Healing
 
 Meno is goddess of knowledge. She is a diligent researcher and keeper of secrets. Her realm is the Infinite Library, a grand hall of learning that spans its own plane while also intersecting with Yewdar in a number of hidden locations. Meno does not have traditional temples. Instead, her chapels are found in libraries and schools around the world. Her clergy are found among devout researchers, sages, and teachers. Her dogma teaches her followers to always be learning, and to increase understanding of the world. In addition to knowledge for its own sake, Meno is goddess of wine and memory, law and silence.
 
@@ -150,7 +150,7 @@ Meno is goddess of knowledge. She is a diligent researcher and keeper of secrets
 ## Jashus
 *God of Dreams, the Slumberer*
 
-**Favored Arcana** Air, Psychic, Shadow
+**Favored Arcana** Dream, Air, Psychic, Shadow, Healing
 
 Jashus the Slumberer, god of dreams, explores the endless possibilities of thought and imagination wihtin his home plane of Vakaré. All mortal minds go to Vakaré when they sleep, whether they are dreaming or not, and the plane is known colloquially as the Dream Realm. While mortals are but nightly visitors to the Dream Realm, there are also native lifeforms there that form a bizarre ecosystem based on the psychic energy of dreamers. It is possible, though extremely rare, to physically enter Vakaré. Most of the native fauna take great exception to physical visitors, so those who do attempt to pass over would be well-advised to make adequate preparations! Jashus himself spends most of his existence in a dream of his own. It is said that the few times in history that he has been roused from his slumber have been moments of great and terrible change for Yewdar.
 
@@ -168,14 +168,14 @@ Mym is Lady Luck, goddess of good fortune... and ill fortune as well. She is cap
 ## Gur
 *Goddess of War*
 
-**Favored Arcana** Heroic, Lightning, Water
+**Favored Arcana** Heroic, Lightning, Water, Healing
 
 ![](/assets/pantheon/Gur.jpg)
 
 ## Perak
 *God of Pain*
 
-**Favored Arcana** Cold, Death, Shadow
+**Favored Arcana** Cold, Death, Shadow, Healing
 
 Perak is the god of pain and suffering. He delights in both inflicting and experiencing pain; he is both sadism and masochism incarnate. His followers tend to choose one path or the other. The Hunters of Pain, knowns as the Scmeryogr, actively seek out suffering. Some do this for their own satisfaction. Others retain some measure of stoic compassion and seek to endure pain on behalf of those who cannot or do not want to. The flip-side of the faithful are the Inflictors, called the Cadenghabe. These sadistic schemers glorify their patron by causing anguish however and whenever possible.
 
