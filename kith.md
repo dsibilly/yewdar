@@ -583,7 +583,7 @@ You are a living construct.
 
 **Journeyman:** You have the Forged Resurgence power. You may spend a Minor Action to recover 1d6 + Constitution hit points. You may use this power a number of times per day equal to your Constitution.
 
-**Master:** You may enhance your outer plating to act as armor. In exchange for an equivalent armor penalty, you may gain up to 3 points of Armor Rating. This plating stacks with normal armor, but does not contribute to armor strain when casting spells.
+**Master:** You may enhance your outer plating to act as armor. In exchange for an equivalent defense penalty, you may gain up to 3 points of Armor Rating. This plating stacks with normal armor, but does not contribute to armor strain when casting spells.
 
 ### Talosan Benefits
 
