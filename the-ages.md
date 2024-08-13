@@ -20,6 +20,32 @@ The Sublime Age ended when a giant rift to the plane of elemental chaos, Entropi
 ## The Black Age
 The events of the Black Age are mostly lost to time. What historical record survives makes mention of an entity called X'Hesk and a legion of daemonic invaders from planes beyond. For over two centuries, the dragons of Yewdar fought many pitched battles against them with the aid of the free peoples of Yewdar. Eventually an enormous daemonic citadel, now known to be an artifact called the No-Sun, was destroyed and the daemons routed by the alliance of dragons and mortals.
 
+### An Ancient Grendian Poem
+
+Original author: **Unknown**
+
+*The luminous gate shines in brilliant solar might,*
+*both heavens and earth alike are bathed in light.*
+*Toward the sun the dragon starts to soar,*
+*as echoing through the clouds, the griffon's roar.*
+*Great rains the dragon shaketh from the skies,*
+*as tearing across the lands the griffon flies!*
+*Both wind and rain imbue the mountain air,*
+*the one without the other half as fair.*
+*In evil's grasp, Yewdar begins to quake,*
+*the lands submerged in turgid evil's wake.*
+*Throughout the lands are felt the scars of war,*
+*in biting wind, barren sands, and more.*
+*The dragon, now deprived of water's home,*
+*The griffon weak from battle, all alone.*
+*Outnumbered in the order ten to one,*
+*how then is the battle to be won?*
+
+*Yet dragon, griffon, both return to fight,*
+*the battles shared in memory burning bright!*
+*In evil vanquished lies tomorrow's birth,*
+*from which we reap the joy of laughter, ale, and mirth!*
+
 ## The Tempest Age
 In the Tempest Age, the dragons became a much more noticable force in world affairs. They were initially a benevolent and helpful force. As the mortal nations became contentious and belligerent with each other in the competition for resources and respect, the dragons were overbearing at times... becoming downright despots in some regions of the world.
 
