@@ -24,11 +24,13 @@ The *Yewdar Player's Guide* is © 2017-2021 Duane Sibilly, II. The Adventure Gam
   * [Marking the Passage of Time](calendar.md)
   * [Dragons of the Realm](dragons.md)
   * [The Fallen Wyrms](fallen_wyrms.md)
-* [Gazetteer](continents.md)
-  * [Political Regions](political_regions.md)
-    * [Yewdar's "Seven Wonders of the World"](seven-wonders.md)
-  * [The Planes of Existence](planes.md)
-  * [Apex City: The Jewel of the Plains](apex-city.md)
+* Gazetteer
+    * [Continents](continents.md)
+    * [Osenia's Political Regions](osenia_political_regions.md)
+    * [Aqori Imperium](aqori_imperium.md)
+	* [Yewdar's "Seven Wonders of the World"](seven-wonders.md)
+    * [The Planes of Existence](planes.md)
+    * [Apex City: The Jewel of the Plains](apex-city.md)
 * [Currency in Yewdar](currencies.md)
 * [Magic and Technology in Yewdar](magic-and-tech.md)
 
