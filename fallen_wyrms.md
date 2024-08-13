@@ -14,7 +14,7 @@ Kementh, The Shadow, is the Corrupted Drake of Sloth and Lust. She was the mate 
 
 ## Quoloth – The Devourer
 
-Quoloth, The Devourer. A ravenous mass of draconic heads, each upon its own neck attached to a bloated and sagging saurian torso. His wings are drastically undersized for his frame, and when he flies he simply levitates his bulk by sheer force of will. He was a monk of Jashus in life, and a frequent Dreamwalker. He has since become the Corrupted Drake of Gluttony and Greed. Since departing Yewdar he has bent his every effort to accumulating the dreams, minds, and souls of mortal victims. His hunger is insatiable, and his thirst eternal. His followers on Yewdar tend to be charismatic narcissists: cult leaders, corrupt politicians, con artists, and the like. Over the Ages, there have been many entire cults dedicated to culling mortal souls for Quoloth; most recently, the Talons of Nightmare. 
+Quoloth, The Devourer. A ravenous mass of draconic heads, each upon its own neck attached to a bloated and sagging saurian torso. His wings are drastically undersized for his frame, and when he flies he simply levitates his bulk by sheer force of will. He was a monk of Jashus in life, and a frequent Dreamwalker. He has since become the Corrupted Drake of Gluttony and Greed. Since departing Yewdar he has bent his every effort to accumulating the dreams, minds, and souls of mortal victims. His hunger is insatiable, and his thirst eternal. His followers on Yewdar tend to be charismatic narcissists: cult leaders, corrupt politicians, con artists, and the like. Over the Ages, there have been many entire cults dedicated to culling mortal souls for Quoloth; most recently, the Talons of Nightmare.
 
 ![](/assets/quoloth_the_devourer.png)
 

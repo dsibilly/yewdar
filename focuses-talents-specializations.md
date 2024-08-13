@@ -1,39 +1,43 @@
 # Focuses, Talents & Specializations
+
 Yewdar adds a variety of ability focuses, talents, and specializations. It also alters a number of the originals included in the *Fantasy AGE Basic Rulebook*.
 
 ## Table of Contents
+
 - [New Ability Focuses](#new-ability-focuses)
-    - [Accuracy](#accuracy-focuses)
-    - [Dexterity](#dexterity-focuses)
-    - [Intelligence](#intelligence-focuses)
+  - [Accuracy](#accuracy-focuses)
+  - [Dexterity](#dexterity-focuses)
+  - [Intelligence](#intelligence-focuses)
 - [New Talents](#new-talents)
-    - [Heavy Weapons Style](#heavy-weapons-style)
-    - [High Artifice](#high-artifice)
-    - [Marksmanship Style](#marksmanship-style)
-    - [Performance](#performance)
-    - [Pistoleer Style](#pistoleer-style)
+  - [Heavy Weapons Style](#heavy-weapons-style)
+  - [High Artifice](#high-artifice)
+  - [Marksmanship Style](#marksmanship-style)
+  - [Performance](#performance)
+  - [Pistoleer Style](#pistoleer-style)
 - [Specializations](#specializations)
-    - [Agent](#agent)
-    - [Arcane Dabbler](#arcane-dabbler)
-    - [Blackguard](#blackguard)
-    - [Blade](#blade)
-    - [Chronicler](#chronicler)
-    - [Dervish](#dervish)
-    - [Dreamwalker](#dreamwalker)
-    - [Fire Dancer](#fire-dancer)
-    - [Holy Champion](#holy-champion)
-    - [Inquisitor](#inquisitor)
-    - [Oracle (Cleric of N'er)](#oracle-cleric-of-ner)
-    - [Scoundrel](#scoundrel)
-    - [Scythe (Cleric of Abasys)](#scythe-cleric-of-abasys)
-    - [Skald](#skald)
-	
+  - [Agent](#agent)
+  - [Arcane Dabbler](#arcane-dabbler)
+  - [Blackguard](#blackguard)
+  - [Blade](#blade)
+  - [Chronicler](#chronicler)
+  - [Dervish](#dervish)
+  - [Dreamwalker](#dreamwalker)
+  - [Fire Dancer](#fire-dancer)
+  - [Holy Champion](#holy-champion)
+  - [Inquisitor](#inquisitor)
+  - [Oracle (Cleric of N'er)](#oracle-cleric-of-ner)
+  - [Scoundrel](#scoundrel)
+  - [Scythe (Cleric of Abasys)](#scythe-cleric-of-abasys)
+  - [Skald](#skald)
+ 
 ---
 
 ## New Ability Focuses
+
 A focus is an area of expertise within a more broad ability. These are explained in detail in the Fantasy AGE Basic Rulebook. Descriptions of the ability focuses added in Yewdar follow. Your GM has final say on whether a focus applies for a given ability test.
 
 ### Accuracy Focuses
+
 **Blaster Longarms**: Proficiency with weapons of the Blaster Longarms Weapon Group.
 
 **Blaster Pistols**: Proficiency with weapons of the Blaster Pistols Weapon Group.
@@ -41,18 +45,21 @@ A focus is an area of expertise within a more broad ability. These are explained
 **Heavy Weapons**: Proficiency with weapons of the Heavy Weapons Weapon Group.
 
 ### Dexterity Focuses
+
 **Advanced Driving**: Maneuvering powered vehicles, as opposed to the carts and wagons to which Strength (Driving) applies.
 
 **Piloting**: Maneuvering an airship or other flying vehicle.
 
-
 ### Intelligence Focuses
+
 **Artifice**: Building, repairing and understanding manufactured magical items and artifacts.
 
 ## New Talents
+
 Talents are areas of natural aptitude or training that your character has acquired in their journey through life.
 
 ### Heavy Weapons Style
+
 **Classes**: Any
 
 **Requirements**: You must be trained in the Heavy Weapons Weapon Group
@@ -66,6 +73,7 @@ You can cause devastating damage with artillery weapons.
 **Master**: You know how to fire for effect with Heavy Weapons. When using a Heavy Weapon, you can perform the Lethal Blow stunt for 4 stunt points instead of the usual 5.
 
 ### High Artifice
+
 **Classes**: Bard, Mage
 
 **Requirements**: Intelligence +1, at least one magic talent
@@ -79,6 +87,7 @@ You can use (and abuse) magical items with ease.
 **Master**: You are an experienced artificer. When making Intelligence (Artifice) tests as part of an advanced test, you gain a +1 bonus to the result of your Stunt Die. This allows you to reach the success threshold of the advanced test faster.
 
 ### Marksmanship Style
+
 **Classes**: Rogue, Swashbuckler, Warrior
 
 **Requirements**: Must be trained in Blaster Longarms Weapon Group
@@ -106,6 +115,7 @@ You have a natural talent for performing in front of others.
 **Master**: When performing, you ooze confidence and style. You may perform the With a Flourish exploration stunt while entertaining an audience for 3 SP instead of the usual 5 SP, and its effects last until the end of the day.
 
 ### Pistoleer Style
+
 **Classes**: Rogue, Swashbuckler, Warrior
 
 **Requirements**: You must be trained in the Blaster Pistols Weapon Group.
@@ -119,11 +129,12 @@ Handling a blaster pistol is second nature.
 **Master**: You can get the most out of each slot. When shooting a blaster, you can perform the Dual Strike stunt for 3 stunt points instead of the usual 4.
 
 ## Specializations
+
 Specializations are a way to focus and customize your character's abilities and powers. Two Swashbuckler friends may share an affinity for finesse and daring, but a Dervish's agility sets them apart from the weapon mastery of a Blade.
 
 You gain access to specializations starting at Level 4. At that level you gain the Novice degree of a specialization talent of your choice, provided you satisfy the prerequisites. At Level 6, you gain the Journeyman degree, and the Master degree at Level 8; this is the only way to advance degrees in specialization talents. You may take a second specialization at Level 12, with further degrees at Level 14 and Level 16.
 
-The specializations included below are a combination of those added by the _Fantasy AGE Companion_ and reskinned for use in Yewdar, and original specializations. Some original specializations are intended for use with Yewdar's [expanded classes](/classes.md).
+The specializations included below are a combination of those added by the *Fantasy AGE Companion* and reskinned for use in Yewdar, and original specializations. Some original specializations are intended for use with Yewdar's [expanded classes](/classes.md).
 
 If you do not wish to take a specialization, or do not qualify for one at Level 4 or Level 12, you can instead take a degree in a regular talent instead of a specialization talent. The next time your class grants you degree in a specialization talent, you can take a specialization at that point or take another regular talent.
 
@@ -186,6 +197,7 @@ Your blade is an extension of your self, and combined you are a finely honed wea
 **Master**: You easily relieve opponents of their weapons. You can perform the Disarm stunt for 1 SP instead of the usual 2.
 
 ### Chronicler
+
 You are a historian, scribe, and proficient forger.
 
 **Classes**: Bard
@@ -226,6 +238,7 @@ You are touched by Jashus, and can wield the powers Vakaré, the Realm of Dreams
 **Master:** You only require 4 hours of sleep per day. Your connection to Vakaré has developed enough to allow you to summon a Thoughtedge Blade that you are automatically proficient with. The blade appears as a long sword made of crystal, but is harder than steel while in use. Using the Thoughtedge Blade requires an Intelligence (Dream Arcana) test to attack; the result of the test is the Defense you are able to hit. Damage is 1d6 + 4 + your Willpower. The blade persists for a number of rounds equal to 3 + your Willpower.
 
 ### Fire Dancer
+
 You channel the heat of passion into arcane might with your graceful dances, replacing song with athletic undulation.
 
 **Class**: Bard
@@ -313,6 +326,7 @@ As a disciple of the goddess of death, you are skilled with magic relating to ex
 **Master**: Death surrounds and sustains you. Whenever a living creature dies within 6 yards of you, gain either 2 Health or 2 Magic Points. This effect stacks with the *draw upon death* spell if it is active. If you kill a target with your Novice Necromancer talent, you gain 1d6+2 Health or Magic Points instead.
 
 ### Skald
+
 You are a warrior-poet, telling tales and singing songs to drive your allies to greater heights of heroism.
 
 **Classes**: Bard

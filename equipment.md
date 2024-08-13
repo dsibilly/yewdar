@@ -106,7 +106,7 @@ The following details are provided for each weapon:
 | Blaster Carbine | 2d6+2 | 0 | 13 |
 | Blaster Rifle | 3d6 | 1 | 14 |
 
-**Blaster Sweeper**: A short-barreled weapon that fires a wide beam of energy a short distance, potentially damaging several targets. The blast is 6 yards long and 2 yards wide. Make a single attack roll when firing a blaster sweeper and compare it to the Defense of each target in the blast area. Stunts affect targets individually. A Mighty Blow, for example, would apply to _one_ target of your choice, not all targets in the blast. You cannot use Lightning Attack with a blaster sweeper, but you can Dual Strike. This weapon requires two hands to use and a single shot consumes 3 charges from an arcanathyst battery.
+**Blaster Sweeper**: A short-barreled weapon that fires a wide beam of energy a short distance, potentially damaging several targets. The blast is 6 yards long and 2 yards wide. Make a single attack roll when firing a blaster sweeper and compare it to the Defense of each target in the blast area. Stunts affect targets individually. A Mighty Blow, for example, would apply to *one* target of your choice, not all targets in the blast. You cannot use Lightning Attack with a blaster sweeper, but you can Dual Strike. This weapon requires two hands to use and a single shot consumes 3 charges from an arcanathyst battery.
 
 **Blaster Carbine**: A light rifle that requires two hands to use. A single shot expends 1 arcanathyst battery charge.
 
@@ -155,7 +155,6 @@ The following details are provided for each weapon:
 **Whip**: A whip is often made of intertwined strands of supple, tanned leather. You can attack targets from 2 yards away with a whip.
 <div style='margin-top:35px'></div>
 
-
 ### Blaster Weapon Ranges
 
 | Weapon | Short Range | Long Range | Reload\* |
@@ -170,6 +169,7 @@ The following details are provided for each weapon:
 ## New Gear
 
 ### Arcanathyst Batteries
+
 Arcanathyst's ability to store magical energy for long periods of time and for later reuse has spurred a revolution in technology on Yewdar. Arcanathyst batteries can be charged by any magic-user. The charging process requires a TN 13 casting roll (no arcana focuses apply.) On a success, the caster may spend 2 magic points to restore one charge to the battery.
 
 **Arc-LY**: A common low-yield arcanathyst battery that is available all over Yewdar. It holds a maximum of 10 charges.

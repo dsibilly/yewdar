@@ -2,13 +2,13 @@
 
 The continent of Osenia is divided into multiple political regions. These political regions are listed below.
 
-* [Kulturia](#Kulturia)
-* [Laurentia](#Laurentia)
+* [Kulturia](#kulturia)
+* [Laurentia](#laurentia)
 * [The Reisian Principalities](#TheReisianPrincipalities)
 * [Hol Khozet](#HolKhozet)
-* [Grendia](#Grendia)
-* [Cheland](#Cheland)
-* [Cthene](#Cthene)
+* [Grendia](#grendia)
+* [Cheland](#cheland)
+* [Cthene](#cthene)
 
 ![](/assets/osenia-political.png)
 
@@ -32,16 +32,16 @@ A mercantile oligarchy that separated from Kulturia some 25 years ago. Home to A
 
 ![](/assets/Reisian_Principalities.png)
 
-An archipelago of seven islands off the southeast coast of Osenia, the Reisian Principalities are the political homeland of the Hin people, the folks most know as halflings. 
+An archipelago of seven islands off the southeast coast of Osenia, the Reisian Principalities are the political homeland of the Hin people, the folks most know as halflings.
 
 There are actually dozens of islands large and small in the Reisian Principalties, but the seven largest are the following:
-- Hinkios
-- Sokos
-- Taros
-- Raxos
-- Korfea
-- Phodes
-- Icalonia
+* Hinkios
+* Sokos
+* Taros
+* Raxos
+* Korfea
+* Phodes
+* Icalonia
 
 These seven islands exist as independent states that trade and negotiate with each other as other nations do, while interacting with all *other* nations as a single entity. This tends to make Reisian politics very complex. The capital of the Principalities is the city of Hinshire, on the island of Hinkios. It's a major port for trade with the halflings, orcs, Cheland, and northern Osenia. The islands' low latitude and tropical climate also make them a destination for well-heeled tourists, sea- and air-going merchants, and explorers of all kinds.
 
@@ -86,6 +86,7 @@ A few days of challenging mountaineering north of Grimspire lies Highmind Monast
 Fort Dori, in Kulturia, is a joint settlement in the foothills of the mountain range, staffed equally by Kulturian and Grendian forces to ensure the Highroad remains clear of threats, natural and malicious. A Kulturian Jarl and a dwarvish Rond share responsibility for the fort. Jarla Janet Dählstrom was, until very recently, the ruling Jarl at Fort Dori. A band of mercenaries unraveled a conspiracy involving the Jarla and a coven of bandits, resulting in her arrest and the current regency of her son, Torsten Dählstrom.
 
 ### The Anvil
+
 The Anvil is a hybrid settlement on the Laurentian side of the mountain range. It is a basalt fortress carved from the very rock of the foothills, with an external wall and town outside a set of massive stone doors leading into the depths.
 
 ## Cheland
@@ -111,9 +112,9 @@ The effects of the Day of Broken Scales continues to make themselves known in Ct
 ![](/assets/cthene_with_sietches.jpg)
 
 There are a few points of interest to explorers and adventurers braving the arid wastelands of Cthene.
-- Dusthold
-- The Ruins of Tyr
-- The Temple Complex at Taza
+* Dusthold
+* The Ruins of Tyr
+* The Temple Complex at Taza
 
 ### Dusthold
 
