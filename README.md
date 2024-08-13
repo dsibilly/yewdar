@@ -1,4 +1,4 @@
-# YEWDAR PLAYER'S GUIDE (v0.6.1)
+# YEWDAR PLAYER'S GUIDE (v0.7.0)
 
 **Creation and Lead Design**: Duane Sibilly
 
