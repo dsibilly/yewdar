@@ -120,7 +120,7 @@ You are invited to freely interpret your background to suit your character's his
 * [Artist](#artist)
 * [Criminal](#criminal)
 * [Exile](#exile)
-* [Explorer](#Explorer)
+* [Explorer](#explorer)
 * [Fist Leader (Orc)](#fist-leader-orc)
 * [Functionary (Dwarf)](#functionary-dwarf)
 * [Grunt (Orc)](#grunt-orc)

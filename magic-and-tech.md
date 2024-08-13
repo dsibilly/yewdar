@@ -38,6 +38,7 @@ You may only have one dream catcher at a time; if you create a new dream catcher
 **Target Number:** 11
 
 Dream-like clouds curl from your fingertips toward a creature you can see within 20 yards, surrounding it. The target must succeed a Willpower (Self-Discipline) test against your Spellpower or suffer one of the following random conditions (roll 1d6) until the end of its next turn:
+
 - Blinded
 - Deafened
 - Frightened
@@ -53,6 +54,7 @@ Dream-like clouds curl from your fingertips toward a creature you can see within
 **Target Number:** 10
 
 Pulling upon the magical essence of Vakaré, you create one or more of the following effects at a point of your choosing within 10 yards:
+
 - A harmless auditory effect within range such as crickets, chirping, snoring, or white noise.
 - A general sense of drowsiness that affects creatures at the target point.
 - A surreal mist that lightly obscures the area. Creatures within this mist gain a +1 to Dexterity (Stealth) tests and gain Concealment (-1 to attacks against them.)
@@ -85,9 +87,9 @@ You create a two-way dream filament between yourself and a target creature you t
 **Target Number:** 14
 
 You rouse a target within 10 yards:
+
 - If the target is asleep, they awaken with a start.
 - If the target is Dying (0 Health), you grant them 1 Health.
- 
 
 ## Waking Nightmare (Master)
 

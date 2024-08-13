@@ -15,7 +15,7 @@ Each nation-state has its own currency. The table below lists the nation-state a
 
 ### Krona
 
-The Krona is a round, oblong coin minted in gold with a thick rim of iron around the edge to prevent easy shaving. 
+The Krona is a round, oblong coin minted in gold with a thick rim of iron around the edge to prevent easy shaving.
 
 ### Triad
 

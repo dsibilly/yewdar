@@ -2,7 +2,7 @@
 
 Divest is something of a mining boom town. By the luck of the surveyor's eye, the State ended up with a large adamantite ore deposit of the same type as those found in the nearby Amphine Plateau, beneath the mountainous reaches that belonged to the dwarves. The various corporations of the State wasted no time sending work crews up the Entrev river valley to investigate and start building out what later became Divest. Now its a town of 600, with its own corporate council and worker delegate.
 
-Towering over Divest to the south is the great grey peak of Stormrest Mountain. It got its name from the way great wet thunderstorms rising from the jungles far southward would seem to break upon its ridge for hours at times. Watching Stormrest's lightshow at night quickly became a bit of a pastime among the miners, their families and management. 
+Towering over Divest to the south is the great grey peak of Stormrest Mountain. It got its name from the way great wet thunderstorms rising from the jungles far southward would seem to break upon its ridge for hours at times. Watching Stormrest's lightshow at night quickly became a bit of a pastime among the miners, their families and management.
 
 About six months ago, in the Spring of Broken Age 35, a new crew arrived in Divest. These newcomers were not miners. They were not geologists.
 

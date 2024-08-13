@@ -9,11 +9,12 @@ This document is a synopsis of that research. We begin with the Elven creation m
 Should the dragons return to Yewdar, it is my sincere hope that this work shall serve as a valuable primer that will allow the mortal races to begin their relationships anew with our predecessors from a place of greater knowledge and understanding than would otherwise be possible.
 
 ## The Suzoryu
+
 or, *The Creation of the Dragons*
 
 As related by Tariel Gar'Vaneth the Golden-tongued, Bard of the Eldar Fleet.
 
-### I.
+### I
 
 When the gods finished their Great Work, they paused amid their new creation. N'er, the Allsaga, began to divide moments into enumerable pieces, and time began to flow. The world before them grew and blossomed. Chaos yielded to the might of divine will, and all was ordered to their whim. The gods were pleased.
 
@@ -23,7 +24,7 @@ Thus were the dragons created.
 
 Each god took to their own affairs in the peace of their new realm. Some gods gathered together, while others held themselves apart.
 
-### II.
+### II
 
 The three gods of light rested in a fortress, surrounded by mountains and crashing rivers.
 
@@ -53,7 +54,7 @@ Merciful Vor watched her companions at work. When the sun fled behind the moon, 
 
 As she approached the fortress and beheld the creations of Ka and Dynu, she felt talons grasp her shoulder. She turned to see a dragon, liquid in form and illuminated from within by the mingled light of sun and moon. Born from the very tears Vor shed while consoling the sun, **Vorun** followed his mother into the fortress and mediated the endless struggle between Kasalt's strength and Ynrrow's unyielding bravery.
 
-### III.
+### III
 
 Enakoh walked the face of the world. He walked away from his brethren until he could no longer see his counterpart Abasys. He knew that she had a purpose just as he did, but he could not reconcile with it. He smiled, and life grew around him. Beings of all kinds sprung forth and congregated in the wake of his passage: beings large and small, no two alike. As Enakoh traversed the world, he eventually returned to where he had started... and there he found dying his first creations.
 
@@ -79,7 +80,7 @@ Seven and twenty hundred times did N'er walk about the world in perfect rhythm. 
 
 N'er did not speak. He did not need to, as the dragon knew its name. **Chron** flew behind N'er, slicing away any surfeit time and swallowing it to keep them safe. With Chron behind him, N'er continued to walk. Reality sprung into motion, and N'er counted.
 
-### IV.
+### IV
 
 Meno watched her fellow gods. She catalogued their actions. She noted the names and aspects of their dragons. She accumulated knowledge.
 
@@ -133,7 +134,7 @@ Mym's eyes narrowed. "How can I believe you?" she wondered aloud.
 
 Mym continued on with the voice following along behind. Mym knew the dragon would need a name, but she trusted that she would come across one when the time was right.
 
-### V.
+### V
 
 Gur stormed away from the places where the other gods dwelled in search of a worthy fight. None of her brethren would contend with her, and none of them wanted to consistently fight by her side  She tired of fighting alone. Gur always craved conflict, but even moreso she wanted someone to accompany her into battle.
 
