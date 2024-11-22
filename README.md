@@ -1,8 +1,8 @@
-# YEWDAR PLAYER'S GUIDE (v0.7.0)
+# YEWDAR PLAYER'S GUIDE (v0.7.1)
 
 **Creation and Lead Design**: Duane Sibilly
 
-**Playtesting and Development**: Thomas Sibilly and Jennifer Sibilly, Nicholas Aube, Emily Campo, Adam Canady, Daunte Cole, James DeLaurentis, Jeremy DeLaurentis, Nicole DeLaurentis, Christina Maiolo, Joseph Maiolo, Jeremy Morgan, Matt Roberts, Brian Patterson, Hunter Piedra, Izabelle Trottier, Mike Wuerthele
+**Playtesting and Development**: Thomas Sibilly and Jennifer Sibilly, Nicholas Aube, Emily Campo, Adam Canady, Daunte Cole, James DeLaurentis, Jeremy DeLaurentis, Nicole DeLaurentis, Christina Maiolo, Joseph Maiolo, Jeremy Morgan, Matt Roberts, Brian Patterson, Hunter Piedra, Izabelle Trottier, Mike Wuerthele, Heather Berlekamp
 
 **Editor**: Jeremy Morgan
 
@@ -25,12 +25,12 @@ The *Yewdar Player's Guide* is © 2017-2021 Duane Sibilly, II. The Adventure Gam
   * [Dragons of the Realm](dragons.md)
   * [The Fallen Wyrms](fallen_wyrms.md)
 * Gazetteer
-    * [Continents](continents.md)
-    * [Osenia's Political Regions](osenia_political_regions.md)
-    * [Aqori Imperium](aqori_imperium.md)
-	* [Yewdar's "Seven Wonders of the World"](seven-wonders.md)
-    * [The Planes of Existence](planes.md)
-    * [Apex City: The Jewel of the Plains](apex-city.md)
+  * [Continents](continents.md)
+  * [Osenia's Political Regions](osenia_political_regions.md)
+  * [Aqori Imperium](aqori_imperium.md)
+    * [Yewdar's "Seven Wonders of the World"](seven-wonders.md)
+  * [The Planes of Existence](planes.md)
+  * [Apex City: The Jewel of the Plains](apex-city.md)
 * [Currency in Yewdar](currencies.md)
 * [Magic and Technology in Yewdar](magic-and-tech.md)
 
