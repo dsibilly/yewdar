@@ -14,6 +14,7 @@ In addition to these topics are dedicated sections for various important events,
 ---
 
 ## Apex City and Laurentia
+
 The dawn of the Mourning Age brought about the disappearance of the dragons, the founding of the kingdom of Kulturia, and an era of human expansionism across the continent of Osenia.
 
 To the east of Kulturia, over the mountains, lay the great Laurentian Plain. It was a huge expanse of territory that had gone unclaimed by any nation since the Black Age. The dragons patrolled this area and suffered only few settlements there…

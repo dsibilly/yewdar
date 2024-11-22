@@ -43,7 +43,8 @@ The Talosan and Drakon peoples are "mortifacted" kith: created by mortal beings 
 ---
 
 ## Dynu
-_The Ever-Brave, Master of Fear, Timun, The Great Bull, The Fearless Falcon_
+
+_The Ever-Brave, Master of Fear, Timun, The Great Bull, The Fearless Falcon*
 
 **Symbol**: A charging silver-horned bull
 
@@ -60,7 +61,8 @@ Dynu wields the great spear *Sigmobos, the Sum of All Fears*. His bull is named 
 ![](/assets/pantheon/Dynu.jpg)
 
 ## Ka
-_The Maker, Carver of Stone, Hands of Diamond, Mother of Metals_
+
+_The Maker, Carver of Stone, Hands of Diamond, Mother of Metals*
 
 **Symbol**: A diamond cradled in a pair of hands
 
@@ -77,7 +79,8 @@ Ka wields *Asman*, a greathammer hewn from stone with a head of oblong unfinishe
 ![](/assets/pantheon/Ka.jpg)
 
 ## Vor
-_The Merciful, Lady of Light, Highmatron_
+
+_The Merciful, Lady of Light, Highmatron*
 
 **Symbol**: A winged golden circle
 
@@ -94,7 +97,8 @@ Vor's companion is *Vorun* the Lunar Wyrm, ancestor of the phase drakes.
 ![](/assets/pantheon/Vor.jpg)
 
 ## N'er
-_Keeper of the Allsaga, Chronicler, He Who Walks All Paths_
+
+_Keeper of the Allsaga, Chronicler, He Who Walks All Paths*
 
 **Symbol**: A black book on an inverted silver triangle
 
@@ -109,7 +113,8 @@ N'er is an eternal child, which is a jarring juxtaposition with his eon-spanning
 ![](/assets/pantheon/Ner.jpg)
 
 ## Enakoh
-_Enkindler, Life-Binder, Breath of Life_
+
+_Enkindler, Life-Binder, Breath of Life*
 
 **Symbol**: A green flame
 
@@ -124,7 +129,8 @@ Enakoh is the progenitor of life. He has a hand in making all mortal lifeforms, 
 ![](/assets/pantheon/Enakoh.jpg)
 
 ## Abasys
-_Matron of Souls, Deathwarden, Keeper of the Endless Halls_
+
+_Matron of Souls, Deathwarden, Keeper of the Endless Halls*
 
 **Symbol**: A gnarled scythe in a white doorway
 
@@ -139,6 +145,7 @@ Abasys is goddess of death, of the afterlife and children. She is the ruler of t
 ![](/assets/pantheon/Abasys.jpg)
 
 ## Meno
+
 *Goddess of Knowledge*
 
 **Favored Arcana** Divination, Power, Psychic, Healing
@@ -148,6 +155,7 @@ Meno is goddess of knowledge. She is a diligent researcher and keeper of secrets
 ![](/assets/pantheon/Meno.jpg)
 
 ## Jashus
+
 *God of Dreams, the Slumberer*
 
 **Favored Arcana** Dream, Air, Psychic, Shadow, Healing
@@ -157,6 +165,7 @@ Jashus the Slumberer, god of dreams, explores the endless possibilities of thoug
 ![](/assets/pantheon/Jashus.jpg)
 
 ## Mym
+
 *Goddess of Luck*
 
 **Favored Arcana** Fate, Healing, Illusion
@@ -166,6 +175,7 @@ Mym is Lady Luck, goddess of good fortune... and ill fortune as well. She is cap
 ![](/assets/pantheon/Mym.jpg)
 
 ## Gur
+
 *Goddess of War*
 
 **Favored Arcana** Heroic, Lightning, Water, Healing
@@ -173,6 +183,7 @@ Mym is Lady Luck, goddess of good fortune... and ill fortune as well. She is cap
 ![](/assets/pantheon/Gur.jpg)
 
 ## Perak
+
 *God of Pain*
 
 **Favored Arcana** Cold, Death, Shadow, Healing
@@ -182,6 +193,7 @@ Perak is the god of pain and suffering. He delights in both inflicting and exper
 ![](/assets/pantheon/Perak.jpg)
 
 ## Illirael
+
 *God of Trickery*
 
 **Favored Arcana** Fate, Healing, Illusion

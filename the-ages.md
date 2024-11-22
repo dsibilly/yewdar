@@ -13,14 +13,43 @@ The histories are still being written by N'er, but from the end of the Black Age
 ---
 
 ## The Sublime Age
+
 The Sublime Age, called the Wondrous Age by some, is an age of myth. Its events detail the creation and ordering of Yewdar, the shaping of the world, the origin of dragons, the birth of the mortal kith. The Twelve still walked the face of Yewdar then, and events were wondrous in their scale. In the last century of the Sublime Age, the Twelve departed to keep watch on their creation from afar.
 
 The Sublime Age ended when a giant rift to the plane of elemental chaos, Entropius, opened over present-day Osenia. Legions of daemons poured through the breach, establishing a beachhead from which they could conquer the gods' creation. The Black Age had begun.
 
 ## The Black Age
+
 The events of the Black Age are mostly lost to time. What historical record survives makes mention of an entity called X'Hesk and a legion of daemonic invaders from planes beyond. For over two centuries, the dragons of Yewdar fought many pitched battles against them with the aid of the free peoples of Yewdar. Eventually an enormous daemonic citadel, now known to be an artifact called the No-Sun, was destroyed and the daemons routed by the alliance of dragons and mortals.
 
+### An Ancient Grendian Poem
+
+Original author: **Unknown**
+
+*The luminous gate shines in brilliant solar might,*
+*both heavens and earth alike are bathed in light.*
+*Toward the sun the dragon starts to soar,*
+*as echoing through the clouds, the griffon's roar.*
+*Great rains the dragon shaketh from the skies,*
+*as tearing across the lands the griffon flies!*
+*Both wind and rain imbue the mountain air,*
+*the one without the other half as fair.*
+*In evil's grasp, Yewdar begins to quake,*
+*the lands submerged in turgid evil's wake.*
+*Throughout the lands are felt the scars of war,*
+*in biting wind, barren sands, and more.*
+*The dragon, now deprived of water's home,*
+*The griffon weak from battle, all alone.*
+*Outnumbered in the order ten to one,*
+*how then is the battle to be won?*
+
+*Yet dragon, griffon, both return to fight,*
+*the battles shared in memory burning bright!*
+*In evil vanquished lies tomorrow's birth,*
+*from which we reap the joy of laughter, ale, and mirth!*
+
 ## The Tempest Age
+
 In the Tempest Age, the dragons became a much more noticable force in world affairs. They were initially a benevolent and helpful force. As the mortal nations became contentious and belligerent with each other in the competition for resources and respect, the dragons were overbearing at times... becoming downright despots in some regions of the world.
 
 This Age also brought the Dusk Clan of elves to Yewdar, fleeing the internecine warfare of their kin, the Midlight and Dawn Clans. The Aqori Imperium is formed. The dragons establish Cthene and become increasingly insular as the centuries pass. Subtle turmoil wracks the world as the detente following the Black Age crumbles over the centuries. Political squabbling among the dragons frequently boiled over into violent conflict, and war was the ultimate flavor of the Age. The Tempest Age ends on the Day of Broken Scales, which lays waste to the forests of Cthene as all dragons vanish from the world. The Mourning Age begins.
@@ -31,13 +60,14 @@ The Tempest Age is closed with the Day of Broken Scales. A cataclysm strikes the
 
 It's a pivotal moment in Yewdar's history: a cataclysm destroys Cthene, turning the lush forests into an expansive desert. And on that day, *every* dragon in Yewdar VANISHED. Not just the ones in Cthene. All dragons *everywhere.* The only sign of dragons since then have been the ruins and remains of their cities… and the corpses of those dragons that died *before* the Day of Broken Scales. The disappearance of the dragons was a very big moment in Kulturian history. The last Nevrodt Empress, Ceyda I, had allied with neighboring Cthene in order to turn the tide against the increasingly successful Osan Rebellion. Dragons and drakon alike marched to her defense.
 
-
 ## The Mourning Age
-The Mourning Age is the entirety of "recent history." The integration of the Qan minotaurs and daemon-touched Div'Baharat into Aqori society. The discovery of _arcanathyst_, and with it, mortal mastery of magic and technological breakthroughs unprecedented by prior civilization. The rise of Kulturian power. The gnomish and elvish diasporas.
+
+The Mourning Age is the entirety of "recent history." The integration of the Qan minotaurs and daemon-touched Div'Baharat into Aqori society. The discovery of *arcanathyst*, and with it, mortal mastery of magic and technological breakthroughs unprecedented by prior civilization. The rise of Kulturian power. The gnomish and elvish diasporas.
 
 In the late Mourning Age, a daemonic conspiracy to unearth a large fragment of the No-Sun from beneath Apex City nearly succeeds in bringing a new darkness to the land. A band of heroes manage to unravel the conspiracy and thwart the plans of the mad mage Malvern Drech, destroying the fragment of the No-Sun… but only after considerable damage was done to Apex City. A few years after the No-Sun crisis, the word came forth from the Oracles that a new Age would begin, and that it would be known as the Broken Age.
 
 ## The Broken Age
+
 The current Age has been heralded as the Broken Age by the Chroniclers of N'er. Unrest over the post-No-Sun recovery in Apex City birthed a separatist movement. The mercantile companies of Apex used stolen and coerced information to build an army of intelligent automatons, known as Talosan. They planned to use this army to achieve their independence. When faced with the prospect of fighting his own people to maintain sovereignty over Apex and the surrounding Laurentian Plain, old King Thyo V lost his nerve and released the separatists and their territory from his domain. The new nation of Laurentia was born.
 
 That brings us to the present. The year is 35 Broken. The world continues to spin, mortals continue to go about their lives, but there is a sense of foreboding that permeates everything. Something must "break" for it to be a Broken Age… The world holds its collective breath, to see what signs and portents will be born out.

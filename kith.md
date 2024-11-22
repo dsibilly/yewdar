@@ -11,9 +11,9 @@ There are a total of eight playable kith in the Yewdar campaign setting:
 * [Gnomes](#gnome)
 * [Halflings](#halfling)
 * [Humans](#human)
-    * [Alsan](#alsan)
-    * [Osan](#osan)
-    * [Irsan](#irsan)
+  * [Alsan](#alsan)
+  * [Osan](#osan)
+  * [Irsan](#irsan)
 * [Orcs](#orc)
 * [Qandaha](#qandaha)
 * [Talosan](#talosan)
@@ -45,8 +45,8 @@ If you choose to play a div'baharat, modify your character as follows:
 * Add +1 to your Communication ability.
 * You gain the Kith Talent Entropic Heritage (Novice). You may spend Talent (or Magic Talent) points as you level to increase degrees in this Talent.
 * Pick one of the following ability focuses:
-    * Communication (Disguise)
-    * Strength (Intimidation)
+  * Communication (Disguise)
+  * Strength (Intimidation)
 * You have Dark Sight, which allows you to see up to 20 yards in darkness without a light source.
 * Your Speed is equal to 10 + Dexterity, minus your armor penalty.
 * You can speak and read the Common Tongue.
@@ -114,7 +114,7 @@ Kith: Drakon
 
 You wield a breath weapon like your dragon ancestors.
 
-**Novice: **You gain the following attack:  
+**Novice:**You gain the following attack:  
 Choose a target within 10 yards. Make a successful Accuracy attack against that target to deal 1d6+2 penetrating damage to them. You may use this attack a number of times per day equal to your Constitution. The nature of your breath weapon is based on the draconic bloodline that is most dominant in your heritage.
 
 **Journeyman:** Your draconic breath now deals 2d6+2 penetrating damage.
@@ -257,7 +257,7 @@ Gnomes are small, ranging from 0.8 to 0.9 meters tall. Notably, gnomes have blac
 
 #### Gnomish Etiquette
 
-Gnomes use their family names _before_ their given names. Lew of the Terul family is addressed as _Terul Lew_. Calling a gnome by their given name is a sign of close familiarity, and doing so without permission is considered disrespectful.
+Gnomes use their family names *before* their given names. Lew of the Terul family is addressed as *Terul Lew*. Calling a gnome by their given name is a sign of close familiarity, and doing so without permission is considered disrespectful.
 
 ### Playing a Gnome
 
@@ -327,6 +327,7 @@ If you choose to play a halfling, modify your character as follows:
 | 12 | +1 Accuracy |
 
 ### Stages of Life
+
 The Hin, or halflings, of Yewdar have three distinct physiological phases of life. Hinfolk live for about 60 years, with some rare, exceptional folk reaching the age of 80. The first stage of their lives, known among them as neios (n-EYE-os), is effectively their childhood and adolescence. The lack of foot hair is the easiest way to identify a young halfling.
 
 The onset of foot hair around age 18-24 (and other body developments) heralds a halfling's entry into the kentros (ken-TROS) stage of life. Physical changes help define what a Hin will look like for the remainder of their life, barring physical aging. Wanderlust sets in.
@@ -347,7 +348,7 @@ Also, while wanderlust is powerful and nearly universal among the halflings, it 
 
 Humans are the most numerous of the sentient species on Yewdar. They are relatively short-lived; humans rarely live longer than a century. Their fast lives make them a striving people. Unable to bide their brief time, they work hard and are always preoccupied with the immediate future. The older kith see them as short-sighted and impulsive, but there's no denying the success that their drive has earned them. Human kingdoms and enterprises are among the most culturally and economically dominant on the planet.
 
-Humanity contains three major ethnic groups: the _Alsan_, _Osan_, and _Irsan_ peoples.
+Humanity contains three major ethnic groups: the *Alsan*, *Osan*, and *Irsan* peoples.
 
 ### Playing a Human
 
@@ -524,8 +525,8 @@ If you choose to play a minotaur, modify your character as follows:
 
 * Add +1 to your Strength ability.
 * Pick one of the following ability focuses:
-    * Strength (Might)
-    * Intelligence (Cryptography)
+  * Strength (Might)
+  * Intelligence (Cryptography)
 * You gain Bull Rush: Whenever you take a successful Charge action, your horns add 2 bonus damage.
 * You gain Eidetic: Minotaurs have near-perfect memory; it's just a matter of sorting through everything they *can* remember. When you fail any Intelligence test involving a Lore focus, you may re-roll it but you must keep the result of the second roll.
 * Your Speed is equal to 10 + Dexterity, minus  your armor penalty.
@@ -579,7 +580,7 @@ Kith: Talosan
 
 You are a living construct.
 
-**Novice:** You do not need to eat, drink or breathe. You never succumb to the effects of starvation, thirst, suffocation, poison or disease. All other conditions affect you normally. You do not need sleep; instead you enter a state of inactivity for 4 hours to gain the effects of a night's rest. While in this state, you are fully aware of your surroundings and notice approaching enemies and other events as normal. When reduced to zero hit points, instead of dying as per _Fantasy AGE Basic Rulebook_, pp. 35, you remain able to take one Minor Action per round. If you take further damage equal to your Constitution, you cease to function.
+**Novice:** You do not need to eat, drink or breathe. You never succumb to the effects of starvation, thirst, suffocation, poison or disease. All other conditions affect you normally. You do not need sleep; instead you enter a state of inactivity for 4 hours to gain the effects of a night's rest. While in this state, you are fully aware of your surroundings and notice approaching enemies and other events as normal. When reduced to zero hit points, instead of dying as per *Fantasy AGE Basic Rulebook*, pp. 35, you remain able to take one Minor Action per round. If you take further damage equal to your Constitution, you cease to function.
 
 **Journeyman:** You have the Forged Resurgence power. You may spend a Minor Action to recover 1d6 + Constitution hit points. You may use this power a number of times per day equal to your Constitution.
 
@@ -599,7 +600,6 @@ You are a living construct.
 | 12 | +1 Perception |
 
 \*If you roll a 3 or 4 on the Talosan Benefits table and the class you choose already provides Weapon Group: Blaster Pistols, take the Accuracy \(Blaster Pistols\) Focus instead. If you roll a 9 and your class provides Weapon Group: Heavy Blades, take the Fighting \(Heavy Blades\) Focus instead.
-
 
 ## Kith Reference Table
 

@@ -2,10 +2,10 @@
 
 Yewdar is home to four known continents, listed below.
 
-* [Osenia](#Osenia)
-* [Cheland](#Cheland)
-* [Chimak](#Chimak)
-* [Ikaemo](#Ikaemo)
+* [Osenia](#osenia)
+* [Cheland](#cheland)
+* [Chimak](#chimak)
+* [Ikaemo](#ikaemo)
 
 ![](/assets/yewdar_global_map_projection.png)
 
@@ -20,6 +20,7 @@ Of the surface folk, only the dwarves have extensive experience with underground
 ## Geological Changes
 
 Geography has been pretty static since the Sublime Age, given that the entirety of recorded history since fits into a few millennia. There are signs of many natural disasters:
+
 * An asteroid impact created the Bay of Gur in Chimak
 * The rich soil of Hol Khozet and the Reisian islands in Osenia are the result of sediment deposits from tsunami impacts.
 * Whatever happened in Cthene on the Day of Broken Scales, natural or not, is clearly on the scale of a disaster as well.
